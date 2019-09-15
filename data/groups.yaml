@@ -1,0 +1,171 @@
+# Constituency Associations and Electoral District Associations
+
+#    Description: 'The local group that organizations between elections for the federal Conservative Party of Canada.'
+
+Federal Barrie—Innisfil Political Parties:
+    Description: 'Local assications for federal parties. These help elect people to go to Ottawa and make national laws. These organizations are run by volunteers and can be difficult to contact between elections. Contacting an active campaign near an election is the best time to get a response.'
+    Groups:
+        Barrie—Innisfil Conservative Association:
+            Facebook Page: 'https://www.facebook.com/Barrie.lnnisfil.EDA/'
+            Email: 'barrie.innisfil.eda1@gmail.com'
+            Link:
+                'BarrieInnisfil.conservative.ca': 'http://barrieinnisfil.conservative.ca/'
+        
+        Barrie—Innisfil Federal Liberals Association:
+            Facebook Page: 'https://www.facebook.com/LiberalsBarrieInnisfil/'
+            Phone: '705-718-0930'
+            Email:
+                - 'membership_barrieinnisfil_fed@outlook.com'
+                - 'President@BIFLA.ca'
+            Link:
+                'BIFLA Website': 'http://bifla.ca/'
+                'BIFLA Profile': 'http://barrieinnisfil.liberal.ca/'
+            Warning: |
+                The BIFLA website and both email addresses do not work.
+        
+        Barrie—Innisfil Federal Green Party:
+            Email:
+                - 'bonnie.north@greenparty.ca'
+                - 'bonnie@barriegreens.ca'
+            Facebook Page: 'https://www.facebook.com/BIGreens/'
+            Facebook Group: 'https://www.facebook.com/groups/BIGreens/'
+            Link:
+                'BI Green Party Profile': 'https://www.greenparty.ca/en/riding/2013-35004'
+                'BarrieGreenParty.ca': 'http://www.barriegreenparty.ca/'
+            Warning: |
+                The bonnie.north@greenparty.ca email address does not work.
+        
+        Barrie—Innisfil NDP:
+            #confirmed!
+            Twitter: 'https://twitter.com/bi_ndp'
+            Facebook Group: 'https://www.facebook.com/groups/258678211310475/'
+            Email: 'preinio@gmail.com'
+        
+Federal Barrie—Springwater—Oro-Medonte Political Parties:
+    Description: 'Local assications for federal parties. These help elect people to go to Ottawa and make national laws.'
+    Groups:
+        Barrie—Springwater—Oro-Medonte Conservative Party:
+            Email: 'bsomconservative@outlook.com'
+            Facebook Page: 'https://www.facebook.com/BSOMConservative/'
+        Barrie—Springwater—Oro-Medonte Green Party:
+            Email: 'eric.loewen@greenparty.ca'
+            Link:
+                'BarrieGreenParty.ca': 'http://www.barriegreenparty.ca/'
+                'EDA Contact Page': 'https://www.greenparty.ca/en/riding/2013-35005'
+        Barrie—Springwater—Oro-Medonte Liberal Party:
+            # Mark@t... removed his email address.
+            Phone: '(705) 719-9039'
+            Email: 'smacleod19@gmail.com'
+            Link:
+                'Riding Association page': 'https://barriespringwateroromedonte.liberal.ca/'
+                'EDA Contact Page': 'https://www.liberal.ca/ridings/barrie-springwater-oro-medonte/'
+        Barrie—Springwater—Oro-Medonte NDP:
+            Email: 'godn@ibew353.org'
+            Phone: '(416) 346-1601'
+Provincial Barrie—Innisfil Political Parties:
+    Description: 'Local assications for provincial parties. These help elect people to go to Toronto and make provincial laws.'
+    Groups:
+        Barrie—Innisfil Green Party:
+            Email: 'bonnie@barriegreens.ca'
+            Link:
+                'BarrieGreenParty.ca': 'http://www.barriegreenparty.ca/'
+                'CA Contact Page': 'https://gpo.ca/riding/barrie-innisfil-4/'
+        Barrie—Innisfil Liberal Party of Ontario:
+            Phone: '(705) 722-1153'
+            Link:
+                'CA Profile Page': 'http://barrieinnisfil.ridingassociation.org/'
+        Barrie—Innisfil PC Party:
+            Link:
+                'Association Profile Page': 'https://barrieinnisfil.ontariopc.ca/'
+        Barrie—Innisfil NDP:
+            #confirmed!
+            Twitter: 'https://twitter.com/bi_ndp'
+            Facebook Group: 'https://www.facebook.com/groups/258678211310475/'
+            Email: 'preinio@gmail.com'
+Provincial Barrie—Springwater—Oro-Medonte Political Parties:
+    Description: 'Local assications for provincial parties. These help elect people to go to Toronto and make provincial laws.'
+    Groups:
+        Barrie—Springwater—Oro-Medonte Green Party:
+            Email: 'keenan@barriegreens.ca'
+            Link:
+                'BarrieGreenParty.ca': 'http://www.barriegreenparty.ca/'
+                'CA Contact Page': 'https://gpo.ca/riding/barrie-springwater-oro-medonte-5/'
+        Barrie—Springwater—Oro-Medonte Liberal Party:
+            Link:
+                'Riding Association Profile': 'http://barriespringwateroromedonte.ridingassociation.org/'
+        Barrie—Springwater—Oro-Medonte Ontario NDP Party:
+            Email: 'bsom.ondp@gmail.com'
+            Facebook Page: 'https://www.facebook.com/bsomondp/'
+            Twitter: 'https://twitter.com/bsom_ondp'
+        Barrie—Springwater—Oro-Medonte Ontario PC Riding Assocation:
+            Link:
+                'RA Contact Page': 'https://bsom.ontariopc.ca/'
+Advocacy Groups:
+    Description: 'These are groups that have particular stances and try to change public opinion and/or lobby government.'
+    Groups:
+        AWARE Simcoe:
+            Description: '“Protecting Water and Farmland in Simcoe County”'
+            Link:
+                'Aware-Simcoe.ca': 'http://aware-simcoe.ca/'
+            Facebook Page: 'https://www.facebook.com/AwareSimcoe'
+            Twitter: 'https://twitter.com/AWARESimcoe'
+            Email: 'aware.simcoe@gmail.com'
+            Phone: '(705) 322-2545 <br>(media inquiries)'
+          
+        Barrie Stop C-51:
+            Description: 'Stop C-15 is against Bill C-51, the Anti-Terrorist Act.'
+            Email: 'Barriestopc51@gmail.com'
+          
+        Barrie Taxpayers:
+            Description: '“Championing the preservation of our City’s historic properties and natural landscape, enabling the sustainable growth of our City and insuring the delivery of necessary services from our City’s Government to the benefit of all citizens and taxpayers of Barrie.”'
+            Link:
+                'BarrieTaxpayersAssociation.com': 'barrietaxpayersassociation.com'
+          
+        Blue Dot Simcoe:
+            Description: '“The Blue Dot campaign is working in communities across the nation to create a groundswell of support calling on our governments to ensure this most fundamental right to a healthy environment.”'
+            Link:
+                'Canow.ca': 'http://www.canow.ca/'
+            Facebook Page: 'https://www.facebook.com/climateactionbarrie'
+            Twitter: 'https://twitter.com/CANBarrie'
+          
+        Fair Vote Barrie:
+            Description: 'Fair Vote Barrie is the local chapter of Fair Vote Canada. They seek to reform how we elect Members of Parliament.'
+            Email: 'simcoe@fairvote.ca'
+            Phone: '(705) 327-507'
+            Facebook Page: 'https://www.facebook.com/FairVoteSimcoe/'
+          
+        Lake Simcoe Association:
+            Description: '“Championing the preservation of our City’s historic properties and natural landscape, enabling the sustainable growth of our City and insuring the delivery of necessary services from our City’s Government to the benefit of all citizens and taxpayers of Barrie.”'
+            Link:
+                'Aware-Simcoe.ca': 'http://aware-simcoe.ca/'
+
+Facebook Groups:
+    Description: 'Here are Facebook groups I have found that allow people to discuss their community and politics. If some are missing, please email them to me.'
+    Groups:
+        'Barrie Politics':
+            Description: '&lsquo;A Form to discuss all things Political n Barrie&rsquo; <br/><br/>As of October, 2018 the group is strictly controlled. No new posts have been allowed.'
+            Facebook Group: 'https://www.facebook.com/groups/1476088539326140/'
+            
+        'Innisfil Progressives':
+            Description: 'A place for Innisfil residents who care about environmental, economic, and social justice to connect and share. Progressive, non-partisan, respectful. We agree that a better world for all is possible, although we may have different views on the ideas, policies, and actions that will get us there.'
+            Facebook Group: 'https://www.facebook.com/groups/293703518115400/'
+            
+        'Politically Barrie':
+            Description: 'Politically Barrie - Politics News & Debate. Politics news, discussion and debate for people in the Greater Barrie Area. Debates can get hot, but should remain civil. <br/><br/>I manage this group.'
+            Facebook Group: 'https://www.facebook.com/groups/425044731037519/'
+          
+        'Progressives of Simcoe':
+            Description: 'Progressives of Simcoe County is group for progressively minded people living in Simcoe County to share and discuss issues that affect our communities, cities, and towns. The group also provides a supportive and inclusive space for local progressives to network and build relationships with one another.'
+            Facebook Group: 'https://www.facebook.com/groups/653697944771146/'
+            
+        'Barrie Lillian Crescent Association':
+            Description: 'A group for the centre of Ward 4 to discuss local issues and bring concerns to council.'
+            Facebook Group: 'https://www.facebook.com/groups/189456521933866/'
+            
+        'Barrie Neighbourhood Community Board: Ward 4' :
+            Description: ''
+            Facebook Group: 'https://www.facebook.com/groups/BNA.Ward4/'
+            
+        'Barrie East End Household Assoc.: BEEHA' :
+            Description: ''
+            Facebook Group: 'https://www.facebook.com/groups/BHWA.Ward4/'

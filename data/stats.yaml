@@ -1,0 +1,20 @@
+# Section is the riding riding
+
+# barrie-municipal:
+
+
+barrie-federal:
+    Name: 'Barrie Federal Statistics'
+    Description: 'Here are some older statistics from federal elections in the Barrie riding, which has been replaced in the most recent election. Updates to come.'
+    Stats:
+        -   URI: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQLQtNMq_82ctmOyI09IUO2lF2gAoS-A5jyUxrdGDGWyzMrhXoAXasKoXMgn7_RM8Dz3xFEVznu0cOB/pubchart?oid=2&format=image'
+            Description: 'Test.'
+        -   URI: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQLQtNMq_82ctmOyI09IUO2lF2gAoS-A5jyUxrdGDGWyzMrhXoAXasKoXMgn7_RM8Dz3xFEVznu0cOB/pubchart?oid=4&format=image'
+        -   URI: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQLQtNMq_82ctmOyI09IUO2lF2gAoS-A5jyUxrdGDGWyzMrhXoAXasKoXMgn7_RM8Dz3xFEVznu0cOB/pubchart?oid=8&format=image'
+            
+barrie-provincial:
+    Name: 'Barrie Provincial Statistics'
+    Description: 'Here are some older statistics from provincial elections in the Barrie riding, which has been replaced in the most recent election. Updates to come.'
+    Stats:
+        -   URI: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vTs_YQrTLQgYr3CcVKMk_4pB11oAv7hGxnlV_Fh8QTt0sKonrW8LGcIaBdULeIffThWHRR3Y43kw-JA/pubchart?oid=3&format=image'
+        -   URI: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vTs_YQrTLQgYr3CcVKMk_4pB11oAv7hGxnlV_Fh8QTt0sKonrW8LGcIaBdULeIffThWHRR3Y43kw-JA/pubchart?oid=5&format=image'

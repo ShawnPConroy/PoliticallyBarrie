@@ -1,0 +1,496 @@
+'2019-federal':
+    Info:
+        Name: '2019 Federal Election'
+        ogImage: 'vote-date-monday-oct-21.jpg'
+        Results: false
+        Listing: true
+        Overview: true
+        Survey: false
+        Dates:
+            Election Day: 'Monday, October 21, 2019'
+            Advance Voting:
+                - 'Friday, October 11, 2019'
+                - 'Saturday, October 12, 2019'
+                - 'Sunday, October 13, 2019'
+                - 'Monday, October 14, 2019'
+        Voter Registration Link: 'https://ereg.elections.ca/CWelcome.aspx'
+        Voter ID: 'http://www.elections.ca/content.aspx?section=ele&dir=2015ge/IDinfo&document=text&lang=e'
+        Map Embed: 'https://www.google.com/maps/d/u/1/embed?mid=1PrcCqkA7Xu5GyQRCVuhT3MdvFafqa3-N'
+        Map Link: 'https://drive.google.com/open?id=1PrcCqkA7Xu5GyQRCVuhT3MdvFafqa3-N&usp=sharing'
+        # Additional Links:
+        #     'Get Ready to Vote 2014': 'http://www.elections.ca/content.aspx?section=ele&dir=2015ge&document=index&lang=e'
+        #     'Vote Compass Canada on CBC': 'https://votecompass.cbc.ca/'
+        #     'I Side With – Canada': 'https://canada.isidewith.com/political-quiz'
+        #     'I Can Party': 'I Can Party'
+    'Barrie–Springwater–Oro-Medonte':
+        Info:
+            Intro: |
+                The BSOM riding includes everyone in Barrie north of Tiffin St. and north of the lake, as well as all of Springwater and Oro-Medonte west of the 9th Line. Election Canada’s [official candidate list](https://elections.ca/Scripts/vis/candidates?L=e&ED=35005&EV=51&EV_TYPE=1&QID=-1&PAGEID=17) is one of the sources used for this data. The [local Elections Canada office](https://elections.ca/Scripts/vis/ReturningOffice?L=e&ED=35005&EV=51&EV_TYPE=1&QID=-1&PAGEID=30): North Barrie Plaza (near Walmart, see map below) Check the [Election's Canada site for all your voting options](https://elections.ca/Scripts/vis/OptionsToVote?L=e&ED=35005&EV=51&EV_TYPE=1&PC=&PROV=&PROVID=&MAPID=&QID=300&PAGEID=210&TPAGEID=&PD=&STAT_CODE_ID=-1).
+                
+                580 Bayfield Street North, Suite 6 
+                Phone: (866) 236-8615
+                Fax: (888) 248-9231
+        Candidates:
+            'Dan Janssen':
+                Display Name: 'Dan Janssen'
+                Listing Name: 'Janssen, Dan'
+                Party: 'NDP'
+                Votes: ''
+                Percentage: ''
+                Info:
+                    Facebook Page: 'https://www.facebook.com/djanssenndp'
+                    Twitter: 'https://twitter.com/iamdanj'
+                    Phone: '(705) 503-2019'
+                    Link:
+                        'Campaign Site': 'https://danjanssen.ndp.ca/'
+            'Brian Kalliecharan':
+                Display Name: 'Brian Kalliecharan'
+                Listing Name: 'Kalliecharan, Brian'
+                Party: 'Liberal'
+                Votes: ''
+                Percentage: ''
+                Info:
+                    Facebook Page: 'https://www.facebook.com/Briankalliecharan2019/'
+                    Twitter: 'https://twitter.com/briankalliechar'
+                    Address: '181 Livingstone St East., Barrie, ON'
+                    Phone: '(705) 503-2766'
+                    Link:
+                        'Campaign Site': 'briankalliecharan.liberal.ca'
+            'Marty Lancaster':
+                Display Name: 'Marty Lancaster'
+                Listing Name: 'Lancaster, Marty'
+                Party: 'Green'
+                Votes: ''
+                Percentage: ''
+                Info:
+                    Facebook Page: 'https://www.facebook.com/martylancasterbsom'
+                    Twitter: 'https://twitter.com/bsommarty'
+                    Address: '15 Collier Street, Barrie, ON'
+                    Email: 'marty@barriegreens.ca'
+                    Phone: '(705) 220-5410'
+                    Link:
+                        'Campaign Site': 'https://www.martylancaster.ca/'
+                        #'Green Platform': 'http://www.greenparty.ca/en/platform'
+                        'Green Vision': 'https://www.greenparty.ca/en/our-vision'
+            'David Patterson':
+                Display Name: 'David Patterson'
+                Listing Name: 'Patterson, David'
+                Party: 'People&rsqou;s'
+                Votes: ''
+                Percentage: ''
+                Info:
+                    Facebook Page: 'https://www.facebook.com/David-Patterson-Peoples-Party-Candidate-107860660588612/'
+                    Twitter: 'https://twitter.com/NGIinsights'
+                    Instagam: 'https://www.instagram.com/davidpattersonppc/'
+                    Email: 'david@davidpattersonppc.ca'
+                    Link:
+                        'Campaign Site': 'https://www.davidpattersonppc.ca/'
+                        'Platform': 'https://www.peoplespartyofcanada.ca/platform'
+            'Doug Shipley':
+                Display Name: 'Doug Shipley'
+                Listing Name: 'Shipley, Doug'
+                Party: 'Conservative'
+                Votes: ''
+                Percentage: ''
+                Info:
+                    Facebook Page: 'https://www.facebook.com/DougShipleyBSOM/'
+                    Twitter: 'https://twitter.com/DougShipleyBSOM'
+                    Link:
+                        'Campaign Site': 'https://www.dougshipley.ca/'
+                        'Profile': 'https://www.conservative.ca/team-member/doug-shipley/'
+    'Barrie–Innisfil':
+        Info:
+            Intro: |
+                The BI riding includes everyone in Barrie who lives south of Tiffin St. and south of the bay, as well as Innisfil. Election Canada’s [official candidate list](https://elections.ca/Scripts/vis/candidates?L=e&ED=35004&EV=51&EV_TYPE=1&PAGEID=17) is one of the sources used for this data. The [local Elections Canada office](http://www.elections.ca/Scripts/vis/ReturningOffice?L=e&ED=35004&EV=41&EV_TYPE=1&QID=-1&PAGEID=30): Barrie Primary Care Campus. Check the [Election's Canada site for all your voting options](https://elections.ca/Scripts/vis/OptionsToVote?L=e&ED=35004&EV=51&EV_TYPE=1&PC=&PROV=&PROVID=&MAPID=&QID=300&PAGEID=210&TPAGEID=&PD=&STAT_CODE_ID=-1).
+                
+                370 Bayview Drive, Suite 128
+                Barrie, Ontario L4N 7L3
+                
+                Phone: (866) 236-8541
+                Fax : (888) 248-9229 
+        Candidates:
+            'John Brassard':
+                Display Name: 'John Brassard'
+                Listing Name: 'Brassard, John'
+                Party: 'Conservative'
+                Votes: ''
+                Percentage: ''
+                Info:
+                    Facebook Page: 'https://www.facebook.com/JohnBrassardCPC/'
+                    Twitter: 'https://twitter.com/JohnBrassardCPC'
+                    Instagram: 'https://www.instagram.com/johnbrassardcpc/'
+                    Phone: '(705) 984-3030'
+                    Email: 'johnbrassardcampaign@gmail.com'
+                    Link:
+                        'Campaign Site': 'http://johnbrassard.com/'
+                        'Profile': 'https://www.conservative.ca/team-member/john-brassard/'
+            'Bonnie North':
+                Display Name: 'Bonnie North'
+                Listing Name: 'North, Bonnie'
+                Party: 'Green'
+                Votes: ''
+                Percentage: ''
+                Info:
+                    Facebook Page: 'https://www.facebook.com/BIGreens/'
+                    Twitter: 'https://www.facebook.com/BIGreens/'
+                    Instagram: 'https://www.instagram.com/bonnie.north1959/'
+                    Address: '2 Marsellus Dr. Unit 12'
+                    Phone: '(705) 252-8900'
+                    Email: 'bonnie@barriegreens.ca'
+                    Link:
+                        'Campaign Site': 'https://www.bonnienorth.ca/'
+                        #'Green Platform': 'http://www.greenparty.ca/en/platform'
+                        'Green Vision': 'https://www.greenparty.ca/en/our-vision'
+            'Stephanie Robinson':
+                Display Name: 'Stephanie Robinson'
+                Listing Name: 'Robinson, Stephanie'
+                Party: 'People&rsqou;s'
+                Votes: ''
+                Percentage: ''
+                Info:
+                    Twitter: 'https://twitter.com/stephan38337343'
+                    Link:
+                        'Platform': 'https://www.peoplespartyofcanada.ca/platform'
+            'Lisa-Marie Wilson':
+                Display Name: 'Lisa-Marie Wilson'
+                Listing Name: 'Wilson, Lisa-Marie'
+                Party: 'Liberal'
+                Votes: ''
+                Percentage: ''
+                Info:
+                    Link:
+                        'Campaign Site': 'https://lisamariewilson.liberal.ca/'
+'2015-federal':
+    Info:
+        Name: '2015 Federal Election'
+        ogImage: 'vote-f-2015.jpg'
+        Contents: true
+        Results: true
+        Listing: true
+        Overview: true
+        Survey: false
+        Dates:
+            Election Day: 'Monday, October 19, 2015'
+            Advance Voting:
+                - 'Friday, October 9, 2015'
+                - 'Saturday, October 10, 2015'
+                - 'Sunday, October 11, 2015'
+                - 'Monday, October 12, 2015'
+        Voter Registration Link: 'https://ereg.elections.ca/CWelcome.aspx'
+        Voter ID: 'http://www.elections.ca/content.aspx?section=ele&dir=2015ge/IDinfo&document=text&lang=e'
+        Map Embed: 'https://www.google.com/maps/d/embed?mid=z7uY1KXkV_ws.k4ueGa6-WeYk'
+        Map Link: 'https://www.google.com/maps/d/viewer?usp=sharing&mid=z7uY1KXkV_ws.k4ueGa6-WeYk'
+        Additional Links:
+            'Get Ready to Vote 2014': 'http://www.elections.ca/content.aspx?section=ele&dir=2015ge&document=index&lang=e'
+            'Vote Compass Canada on CBC': 'https://votecompass.cbc.ca/'
+            'I Side With – Canada': 'https://canada.isidewith.com/political-quiz'
+            'I Can Party': 'I Can Party'
+    'Barrie–Springwater–Oro-Medonte':
+        Info:
+            Intro: |
+                The BSOM riding includes everyone in Barrie north of Tiffin St. and north of the lake, as well as all of Springwater and Oro-Medonte west of the 9th Line. Election Canada’s [official candidate list](http://www.elections.ca/Scripts/vis/candidates?L=e&ED=35005&EV=41&EV_TYPE=1&PROV=&PROVID=&MAPID=&QID=8&PAGEID=17&TPAGEID=&PD=&STAT_CODE_ID=-1) is one of the sources used for this data. The [local Elections Canada office](http://www.elections.ca/Scripts/vis/ReturningOffice?L=e&ED=35005&EV=41&EV_TYPE=1&QID=-1&PAGEID=30): North Barrie Plaza (near Walmart, see map below)
+                
+                580 Bayfield Street 1  
+                (866) 236-86151  
+                (888) 248-9231
+        Candidates:
+            'Alex Nuttall':
+                Display Name: 'Alex Nuttall'
+                Listing Name: 'Nuttall, Alex'
+                Party: 'Conservative'
+                Votes: '21,091'
+                Percentage: '41.74'
+                Info:
+                    Facebook Page: 'https://www.facebook.com/votealexnuttall'
+                    Twitter: 'https://twitter.com/nuttallbarrie'
+                    Address: '364 St. Vincent St. '
+                    Link:
+                        'Campaign Site': 'http://www.votealexnuttall.ca/'
+                        'Conservative Platform': 'http://www.conservative.ca/plan/'
+                        'City Councillor Site': 'http://www.alexnuttall.ca/'
+            'Brian Tamblyn':
+                Display Name: 'Brian Tamblyn'
+                Listing Name: 'Tamblyn, Brian'
+                Party: 'Liberal'
+                Votes: '21,005'
+                Percentage: '41.57'
+                Info:
+                    Facebook Page: 'https://www.facebook.com/votetamblyn'
+                    Twitter: 'https://twitter.com/votetamblyn'
+                    Address: '477 Grove Street East Unit 5A'
+                    Phone: '(705) 719-9039'
+                    Email: 'Brian@briantamblyn2015.com'
+                    Link:
+                        'Campaign Site': 'https://briantamblyn.liberal.ca/'
+                        'Liberal Platform': 'http://www.liberal.ca/realchange/'
+            'Darren Roskam':
+                Display Name: 'Darren Roskam'
+                Listing Name: 'Roskam, Darren'
+                Party: 'Libertarian'
+                Votes: '401'
+                Percentage: '0.79'
+                Info:
+                    Link:
+                        'Libertarian Profile': 'https://www.libertarian.ca/candidate/darren-roskam/'
+                        'Libertarian Platform': 'https://www.libertarian.ca/platform/'
+            'Ellen White':
+                Display Name: 'Ellen White'
+                Listing Name: 'White, Ellen'
+                Party: 'NDP'
+                Votes: '5,202'
+                Percentage: '10.29'
+                Info:
+                    Facebook Page: 'https://www.facebook.com/EllenWhiteNDP'
+                    Twitter: 'https://twitter.com/EllenWh94410247'
+                    Address: '477 Grove East, Unit 9'
+                    Phone: '(905) 751-4272'
+                    Link:
+                        'Campaign Site': 'http://ellenwhite.ndp.ca/'
+                        'NDP Platform': 'http://www.ndp.ca/platform'
+            'Marty Lancaster':
+                Display Name: 'Marty Lancaster'
+                Listing Name: 'Lancaster, Marty'
+                Party: 'Green'
+                Votes: '2,648'
+                Percentage: '5.24'
+                Info:
+                    Facebook Page: 'https://www.facebook.com/MartinLancasterGP'
+                    Twitter: 'https://twitter.com/gp_marty'
+                    Address: '75 Bradford Street'
+                    Email: '75 Bradford Street'
+                    Link:
+                        'Campaign Site': 'http://marty.greenparty.ca/'
+                        'Green Platform': 'http://www.greenparty.ca/en/platform'
+            'Ram Faerber':
+                Display Name: 'Ram Faerber'
+                Listing Name: 'Faerber, Ram'
+                Party: 'Independent'
+                Votes: '401'
+                Percentage: '0.79'
+                Info:
+                    Facebook Page: 'https://www.facebook.com/ramfaerber4mp'
+                    Phone: '(705) 726-4605'
+    'Barrie–Innisfil':
+        Info:
+            Intro: |
+                The BI riding includes everyone in Barrie who lives south of Tiffin St. and south of the bay, as well as Innisfil. Election Canada’s [official candidate list](http://www.elections.ca/Scripts/vis/candidates?L=e&ED=35004&EV=41&EV_TYPE=1&PROV=&PROVID=&MAPID=&QID=8&PAGEID=17&TPAGEID=&PD=&STAT_CODE_ID=-1) is one of the sources used for this data. The [local Elections Canada office](http://www.elections.ca/Scripts/vis/ReturningOffice?L=e&ED=35004&EV=41&EV_TYPE=1&QID=-1&PAGEID=30): Essa Road Shopping Centre (Food Basics Plaza)
+                
+                555 Essa Road, Suite 101
+                (866) 236-85411
+                (888) 248-9229
+        Candidates:
+            'Bonnie North':
+                Display Name: 'Bonnie North'
+                Listing Name: 'North, Bonnie'
+                Party: 'Green'
+                Votes: '1,991'
+                Percentage: '4.04'
+                Info:
+                    Facebook Page: 'https://www.facebook.com/BonnieNorthGP'
+                    Twitter: 'https://twitter.com/BonnieNorthGP'
+                    Address: '2 Marsellus Dr. Unit 12'
+                    Phone: '(705) 252-8900'
+                    Email: 'bonnie@barriegreens.ca'
+                    Link:
+                        'Campaign Site': 'http://bonnie.greenparty.ca/'
+                        'Green Platform': 'http://www.greenparty.ca/en/platform'
+            'Colin Wilson':
+                Display Name: 'Colin Wilson'
+                Listing Name: 'Wilson, Colin'
+                Party: 'Liberal'
+                Votes: '18,308'
+                Percentage: '37.11'
+                Info:
+                    Facebook Page: 'https://www.facebook.com/ColinWilsonBarrieInnisfil'
+                    Twitter: 'https://twitter.com/ColinWilson2015'
+                    Address: '250 Bayview Drive Unit 6'
+                    Phone: '(705) 719-4435'
+                    Link:
+                        'Campaign Site': 'http://colinwilson.liberal.ca/'
+                        'Liberal Platform': 'http://www.liberal.ca/realchange/'
+            'Gary Nail':
+                Display Name: 'Gary Nail'
+                Listing Name: 'Nail, Gary'
+                Party: 'Christian Heritage'
+                Votes: '199'
+                Percentage: '0.40'
+                Info:
+                    Phone: '905-868-2231'
+                    Link:
+                        'Candidate Profile': 'https://www.chp.ca/candidates/barrie-innisfil'
+                        'Christian Heritage Platform': 'https://www.chp.ca/platform/our-better-solutions'
+            'Jeff Sakula':
+                Display Name: 'Jeff Sakula'
+                Listing Name: 'Sakula, Jeff'
+                Party: 'Canadian Action'
+                Votes: '130'
+                Percentage: '0.26'
+                Info:
+                    Link:
+                        'Canadian Action Platform': 'http://canadianactionparty.org/'
+            'John Brassard':
+                Display Name: 'John Brassard'
+                Listing Name: 'Brassard, John'
+                Party: 'Conservative'
+                Votes: '22,901'
+                Percentage: '46.41'
+                Info:
+                    Facebook Page: 'https://twitter.com/johnbrassardcpc'
+                    Address: '30 Saunders Rd Unit #3'
+                    Phone: '(705) 408-0279'
+                    Link:
+                        'Campaign Site': 'http://johnbrassard.conservative.ca/'
+                        'Conservative Platform': 'http://www.conservative.ca/plan/'
+            'Myrna Clark':
+                Display Name: 'Myrna Clark'
+                Listing Name: 'Clark, Myrna'
+                Party: 'NDP'
+                Votes: '5,812'
+                Percentage: '11.78'
+                Info:
+                    Facebook Page: 'https://www.facebook.com/MyrnaClarkNDP'
+                    Twitter: 'https://twitter.com/myrnaclarkndp'
+                    Address: '110 Little Ave, Unit 10'
+                    Phone: '(705) 721-1222'
+                    Email: 'myrna.clark@ndp.ca'
+                    Link:
+                        'Campaign Site': 'http://myrnaclark.ndp.ca/'
+                        'NDP Platform': 'http://www.ndp.ca/platform'
+'2011-federal':
+    Info:
+        Name: '2011 Federal Election'
+        Contents: true
+        Results: true
+        Listing: true
+        Overview: true
+        Survey: false
+        Dates:
+            Election Day: 'Monday, May 2nd'
+        Map Embed: 'https://www.google.com/maps/d/embed?mid=1pZ6b8O9axXgFd4UBi7g9_F4Ubyk'
+        Map Link: 'http://maps.google.ca/maps/ms?ie=UTF8&hl=en&msa=0&msid=215643389789984670947.0004a11dd1b9900eec218&ll=44.388132,-79.688949&spn=0.034903,0.031177&source=embed'
+        Additional Links:
+            'Barrie Voter Information Service': 'http://elections.ca/scripts/pss/InfovoteMain.aspx?L=e&ED=35004&EV=34&EV_TYPE=1&PC=&Prov=ON&ProvID=35&MapID=&QID=-1&PageID=21&TPageID='
+    'Barrie':
+        Eligible Voters: '93 610'
+        Voters: '56 658'
+        Voter Turnout: '60.5'
+        Candidates:
+            'Patrick Brown':
+                Display Name: 'Patrick Brown'
+                Listing Name: 'Brown, Patrick'
+                Party: 'Conservative'
+                Votes: '32,121'
+                Percentage: '56.7'
+                Info:
+                    Link:
+                        'VotePatrick.ca': 'http://www.votepatrick.ca/'
+            'Myrna Clark':
+                Display Name: 'Myrna Clark'
+                Listing Name: 'Clark, Myrna'
+                Party: 'NDP'
+                Votes: '11,846'
+                Percentage: '20.9'
+                Info:
+                    Link:
+                        'Myrna-Clark-Barrie.com': 'http://www.myrna-clark-barrie.com/'
+            'Erich Jacoby-Hawkins':
+                Display Name: 'Erich Jacoby-Hawkins'
+                Listing Name: 'Jacoby-Hawkins, Erich'
+                Party: 'Green'
+                Votes: '3,271'
+                Percentage: '5.8'
+                Info:
+                    Link:
+                        'BarrieGreens.ca': 'http://www.barriegreens.ca/'
+            'Christine Nugent':
+                Display Name: 'Christine Nugent'
+                Listing Name: 'Nugent, Christine'
+                Party: 'Marxist-Leninist'
+                Votes: '82'
+                Percentage: '0.1'
+            'Darren Roskam':
+                Display Name: 'Darren Roskam'
+                Listing Name: 'Roskam, Darren'
+                Party: 'Libertarian'
+                Votes: '150'
+                Percentage: '0.3%'
+                Info:
+                    Link:
+                        'DarrenRoskam.com': 'http://www.darrenroskam.com/'
+            'Jeff Sakula':
+                Display Name: 'Jeff Sakula'
+                Listing Name: 'Sakula, Jeff'
+                Party: 'Canadian Action'
+                Votes: '77'
+                Percentage: '0.1'
+                Info:
+                    Link:
+                        'CanadianActionParty.ca/...': 'http://canadianactionparty.ca/about/candidates/jeff-sakula'
+            'Colins Wilson':
+                Display Name: 'Colins Wilson'
+                Listing Name: 'Wilson, Colins'
+                Party: 'Liberal'
+                Votes: '9,111'
+                Percentage: '16.1'
+                Info:
+                    Link:
+                        'ColinWilson.Liberal.ca': 'http://colinwilson.liberal.ca/'
+'2008-federal':
+    Info:
+        Name: '2008 Federal Election'
+        Results: true
+        Listing: false
+        Overview: false
+        Survey: false
+    'Barrie':
+        Candidates:
+            'Patrick Brown':
+                Party: 'Conservative'
+                Votes: '27,927'
+                Percentage: '52.37'
+            'Rick Jones':
+                Party: 'Liberal'
+                Votes: '12,732'
+                Percentage: '23.88'
+            'Myrna Clark':
+                Party: 'New Democratic'
+                Votes: '6,403'
+                Percentage: '12.01'
+            'Erich Jacoby-Hawkins':
+                Party: 'Green'
+                Votes: '5,921'
+                Percentage: '11.10'
+            'Paolo Fabrizio':
+                Party: 'Libertarian'
+                Votes: '260'
+                Percentage: '0.49'
+            'Christine Anne Nugent':
+                Party: 'Marxist–Leninist'
+                Votes: '84'
+                Percentage: '0.16'
+'2006-federal':
+    Info:
+        Name: '2006 Federal Election'
+        Contents: false
+        Results: true
+        Listing: false
+        Overview: false
+        Survey: false
+    'Barrie':
+        Candidates:
+            'Patrick Brown':
+                Party: 'Conservative'
+                Votes: '23,999'
+                Percentage: '41.88'
+            'Aileen Carroll':
+                Party: 'Liberal'
+                Votes: '22,476'
+                Percentage: '39.18'
+            'Peter Bursztyn':
+                Party: 'New Democratic'
+                Votes: '6,984'
+                Percentage: '12.18'
+            'Erich Jacoby-Hawkins':
+                Party: 'Green'
+                Votes: '3,874'
+                Percentage: '6.76'

@@ -1,0 +1,743 @@
+'2018-municipal':
+    # 2018 voter turnout in was 27,652 electors (30%). There were 11 declined ballots. Barrie's 2018 Municipal Election results were certified on October 26, 2018. Financial statements will posted as they are provided.
+    'Mayor':
+        Eligible Voters: '92,156'
+        Voter Turnout: '29.65%'
+        Candidates:
+            'Jeff Lehman':
+                Votes: '24,854'
+                Percentage: '90.97%'
+            'Ram Faerber':
+                Votes: '2,467'
+                Percentage: '9.03%'
+    'Councillor, Ward 1':
+        Eligible Voters: '9,794'
+        Voter Turnout: '33.48% '
+        Candidates:
+            'Clare Riepma':
+                Votes: '974'
+                Percentage: '29.70%'
+            'Shaughna Ainsworth':
+                Votes: '852'
+                Percentage: '25.98%'
+            'Ryan Cardwell':
+                Votes: '514'
+                Percentage: '15.68%'
+            'Ann-Marie Kungl':
+                Votes: '370'
+                Percentage: '11.28%'
+            'Dusko Jankov':
+                Votes: '186'
+                Percentage: '5.67%'
+            'Graham Allary':
+                Votes: '176'
+                Percentage: '5.37%'
+            'Avery Konda':
+                Votes: '113'
+                Percentage: '3.45%'
+            'Erin Hennigar':
+                Votes: '61'
+                Percentage: '1.86%'
+            'Cole Walsh':
+                Votes: '33'
+                Percentage: '1.01%'
+    'Councillor, Ward 2':
+        Eligible Voters: '11,833'
+        Voter Turnout: '35.5'
+        Candidates:
+            'Keenan Aylwin':
+                Votes: '1,766'
+                Percentage: '42.04%'
+            'Richard Forward':
+                Votes: '1,359'
+                Percentage: '32.35%'
+            'Rose Romita':
+                Votes: '877'
+                Percentage: '20.88%'
+            'Yolanda T. Gallo':
+                Votes: '199'
+                Percentage: '4.74%'
+    'Councillor, Ward 3':
+        Eligible Voters: 7,831
+        Voter Turnout: '29.45%'
+        Candidates:
+            'Doug Shipley':
+                Votes: '1,614'
+                Percentage: '69.99%'
+            'Tanya Saari':
+                Votes: '415'
+                Percentage: '18.00%'
+            'Lynn-Anne Hill':
+                Votes: '277'
+                Percentage: '12.01%'
+    'Councillor, Ward 4':
+        Eligible Voters: '9,190'
+        Voter Turnout: '31.92'
+        Candidates:
+            'Barry Ward':
+                Votes: '1,477'
+                Percentage: '50.36%'
+            'Bryan Harris':
+                Votes: '1,010'
+                Percentage: '34.44%'
+            'Daniel Boucher':
+                Votes: '446'
+                Percentage: '15.21%'
+    'Councillor, Ward 5':
+        Eligible Voters: '8,229'
+        Voter Turnout: '29.82'
+        Candidates:
+            'Robert Thomson':
+                Votes: '1,355'
+                Percentage: '55.22%'
+            'Peter Silveira':
+                Votes: '942'
+                Percentage: '38.39%'
+            'Brandon Cassidy':
+                Votes: '87'
+                Percentage: '3.55%'
+            'Harry Ahmed':
+                Votes: '70'
+                Percentage: '2.85%'
+    'Councillor, Ward 6':
+        Eligible Voters: '9,648'
+        Voter Turnout: '27.53'
+        Candidates:
+            'Natalie Harris':
+                Votes: '1,042'
+                Percentage: '39.23%'
+            'Steve Trotter':
+                Votes: '937'
+                Percentage: '35.28%'
+            'Micheline Robichaud':
+                Votes: '524'
+                Percentage: '19.73%'
+            'Colin Nelthorpe':
+                Votes: '153'
+                Percentage: '5.76%'
+    'Councillor, Ward 7':
+        Eligible Voters: 9,300
+        Voter Turnout: '24.42'
+        Candidates:
+            'Gary Harvey':
+                Votes: '1,066'
+                Percentage: '46.94%'
+            'Andrew Prince':
+                Votes: '776'
+                Percentage: '34.17%'
+            'Bonnie North':
+                Votes: '362'
+                Percentage: '15.94%'
+            'John McEachern':
+                Votes: '67'
+                Percentage: '2.95%'
+    'Councillor, Ward 8':
+        Eligible Voters: '11,149'
+        Voter Turnout: '29.08'
+        Candidates:
+            'Jim Harris':
+                Votes: '998'
+                Percentage: '30.78%'
+            'Brad Thompson':
+                Votes: '989'
+                Percentage: '30.51%'
+            'Brian Miller':
+                Votes: '755'
+                Percentage: '23.29%'
+            'Shelly Skinner':
+                Votes: '500'
+                Percentage: '15.42%'
+    'Councillor, Ward 9':
+        Candidates:
+            'Sergio Morales':
+                Votes: 'N/A'
+                Percentage: 'N/A'
+        'Councillor, Ward 10':
+            Eligible Voters: '8,750'
+            Voter Turnout: '28.4'
+            Candidates:
+                'Mike McCann':
+                    Votes: '1,719'
+                    Percentage: '69.18%'
+                'John Olthuis':
+                    Votes: '680'
+                    Percentage: '27.36'
+                'Peter Culyer':
+                    Votes: '86'
+                    Percentage: '3.46%'
+    'Member, Simcoe County District School Board, Representing Wards 1, 2, 3':
+        'David William O&rsquo;Brien':
+            Votes: '2,222'
+            Percentage: '34.10%'
+        'Gillian MacLean':
+            Votes: '2,211'
+            Percentage: '33.93%'
+        'Amanda Trinacty':
+            Votes: '1,328'
+            Percentage: '20.38%'
+        'Neli Trevisan':
+            Votes: '755'
+            Percentage: '11.59%'
+    'Member – Simcoe County District School Board, Representing Wards 4, 5, 6':
+        Candidates:
+            'Beth Mouratidis':
+                Votes: '2,914'
+                Percentage: '54.23%'
+            'Mike Washburn':
+                Votes: '2,459'
+                Percentage: '45.77%'
+    'Member, Simcoe County District School Board, Representing Wards 7, 8, 9, 10':
+        Candidates:
+            'Lisa-Marie Wilson':
+                Votes: '2,381'
+                Percentage: '38.37%'
+            'Heidi MacNeil':
+                Votes: '1,441'
+                Percentage: '23.22%'
+            'David Quigley':
+                Votes: '1,089'
+                Percentage: '17.55%'
+            'Derek Dath':
+                Votes: '816'
+                Percentage: '13.15%'
+            'Ajmal Noushahi':
+                Votes: '479'
+                Percentage: '7.72%'
+    'Member, Simcoe Muskoka Catholic District School Board, Representing Wards 1, 2, 3, 4, 5':
+        Candidates:
+            'Nathaniel Brown':
+                Votes: '985'
+                Percentage: '44.55%'
+            'Robert Matthew LeCollier':
+                Votes: '673'
+                Percentage: '30.44%'
+            'Paul Rasiulis':
+                Votes: '553'
+                Percentage: '25.01%'
+    'Member, Simcoe Muskoka Catholic District School Board, Representing Wards 6, 7, 8, 9, 10':
+        Candidates:
+            'Maria Hardie':
+                Votes: '1,299'
+                Percentage: '63.33%'
+            'Andrew Hall':
+                Votes: '577'
+                Percentage: '28.13%'
+            'Corey James Henderson':
+                Votes: '175'
+                Percentage: '8.53%'
+    'Member, Conseil scolaire Viamonde (formerly Conseil scolaire de district du Centre Sud-Ouest), Sector 5':
+        Candidates:
+            'Guy Belcourt':
+                Votes: '65'
+                Percentage: 'not available'
+            'Saveria Caruso':
+                Votes: '82'
+                Percentage: 'not available'
+            'Eric Lapointe':
+                Votes: '92'
+                Percentage: 'not available'
+    'Member, Conseil scolaire catholique MonAvenir':
+        Candidates:
+            'Ryan Malenfant':
+                Votes: '40'
+                Percentage: 'not available'
+            'Claire Thibideau':
+                Votes: '309'
+                Percentage: 'not available'
+'2016-municipal':
+    #Bielection
+    'Ward ':
+        Eligible Voters: '9,180'
+        Voter Turnout: '17.5%**'
+        Candidates:
+            'Jane Dewar':
+                Votes: '196'
+                Percentage: '12.20%'
+            'Elena Arruda':
+                Votes: '38'
+                Percentage: '2.36%'
+            'Ram Faerber':
+                Votes: '12'
+                Percentage: '0.75%'
+            'Bonnie-Lyn Gow':
+                Votes: '2'
+                Percentage: '0.12%'
+            'Gary Harvey':
+                Votes: '222'
+                Percentage: '13.81%'
+            'Jim Hosick':
+                Votes: '122'
+                Percentage: '7.59%'
+            'Doug Jure':
+                Votes: '108'
+                Percentage: '6.72%'
+            'Chris McElroy':
+                Votes: '13'
+                Percentage: '0.81%'
+            'Mike Montague':
+                Votes: '109'
+                Percentage: '6.78%'
+            'Andrew Prince':
+                Votes: '362'
+                Percentage: '22.53%'
+            'Craig Ripley':
+                Votes: '307'
+                Percentage: '19.10%'
+            'Darren Roskam':
+                Votes: '9'
+                Percentage: '0.56%'
+            'Randy H. Starr':
+                Votes: '107'
+                Percentage: '6.66%'
+
+
+'2014-municipal':
+    'Mayor':
+        Eligible Voters: '90,089*'
+        Voter Turnout: '31.75%*'
+        Candidates:
+            'Jeff Lehman':
+                Votes: '26,385'
+                Percentage: '92.25'
+            'Ram Faerber':
+                Votes: '1,181'
+                Percentage: '04.13'
+            'Zachary Gillespie-Rogers':
+                Votes: '533'
+                Percentage: '01.86'
+            'Ray Mawhinney':
+                Votes: '502'
+                Percentage: '01.76'
+    'Councillor, Ward 1':
+        Eligible Voters: '9,735*'
+        Voter Turnout: '33.14%*'
+        Candidates:
+            'Bonnie Ainsworth':
+                Votes: '2,028'
+                Percentage: '62.86'
+            'Clare Riepma':
+                Votes: '1,198'
+                Percentage: '37.14'
+    'Councillor, Ward 2':
+        Eligible Voters: '11,619* '
+        Voter Turnout: '34.2%*'
+        Candidates:
+            'Steve Jones':
+                Votes: '1,227'
+                Percentage: '30.88'
+            'Rose Romita':
+                Votes: '1,256'
+                Percentage: '31.61'
+            'James McVeigh':
+                Votes: '1,119'
+                Percentage: '28.16'
+            'Barb Stuhlemmer':
+                Votes: '317'
+                Percentage: '07.98'
+            'Austin Tyler Genge':
+                Votes: '55'
+                Percentage: '01.38'
+    'Councillor, Ward 3':
+        Eligible Voters: '7,848*'
+        Voter Turnout: '32.45%*'
+        Candidates:
+            'Doug Shipley':
+                Votes: '2,060'
+                Percentage: '80.88'
+            'Ross Edwin Wuerth':
+                Votes: '317'
+                Percentage: '12.45'
+            'Ken Parsons':
+                Votes: '170'
+                Percentage: '06.67'
+    'Councillor, Ward 4 ':
+        Eligible Voters: '9,033*'
+        Voter Turnout: '35.29%*'
+        Candidates:
+            'Barry Ward':
+                Votes: '1,420'
+                Percentage: '44.54'
+            'Caroline Smith':
+                Votes: '1,013'
+                Percentage: '31.78'
+            'Justin Heran':
+                Votes: '659'
+                Percentage: '20.67'
+            'Adrian Bowles':
+                Votes: '96'
+                Percentage: '03.01'
+    'Councillor, Ward 5':
+        Eligible Voters: '8,286*'
+        Voter Turnout: '32.79%*'
+        Candidates:
+            'Peter Silveira':
+                Votes: '1,188'
+                Percentage: '43.72'
+            'Mike Montague':
+                Votes: '462'
+                Percentage: '17.00'
+            'Micheline Piotrowski':
+                Votes: '425'
+                Percentage: '15.64'
+            'Robert Thomson':
+                Votes: '311'
+                Percentage: '11.45'
+            'Harry Ahmed':
+                Votes: '231'
+                Percentage: '08.50'
+            'Yvonne Heath':
+                Votes: '100'
+                Percentage: '03.68'
+    
+    'Councillor, Ward 6':
+        Eligible Voters: '8,986*'
+        Candidates:
+            'Michael Prowse':
+                Votes: 'ACCLAIMED'
+                Percentage: 'N/A'
+    
+    'Councillor, Ward 7':
+        Eligible Voters: '9,086*'
+        Voter Turnout: '26%*'
+        Candidates:
+            'John Brassard':
+                Votes: '1,779'
+                Percentage: '75.25'
+            'Lincoln Bayda':
+                Votes: '252'
+                Percentage: '10.66'
+            'Brandon Vieira':
+                Votes: '208'
+                Percentage: '08.80'
+            'Andrew Barranger':
+                Votes: '85'
+                Percentage: '03.60'
+            'Richard Crocitto':
+                Votes: '40'
+                Percentage: '01.69'
+    'Councillor, Ward 8':
+        Eligible Voters: '10,959*'
+        Voter Turnout: '31.27%*'
+        Candidates:
+            'Arif Khan':
+                Votes: '2,021'
+                Percentage: '58.97'
+            'Julia Gasewicz':
+                Votes: '760'
+                Percentage: '22.18'
+            'Mike McFarthing':
+                Votes: '438'
+                Percentage: '12.78'
+            'Micheline Robichaud':
+                Votes: '177'
+                Percentage: '05.16'
+            'Ghulam Jilani':
+                Votes: '31'
+                Percentage: '00.90'
+    'Councillor, Ward 9':
+        Eligible Voters: '6,097*'
+        Voter Turnout: '30.72%*'
+        Candidates:
+            'Sergio Morales':
+                Votes: '967'
+                Percentage: '51.63'
+            'Brian H. Jackson':
+                Votes: '811'
+                Percentage: '43.30'
+            'Jason MacLellan':
+                Votes: '95'
+                Percentage: '05.07'
+    'Councillor, Ward 10':
+        Eligible Voters: '8,440*'
+        Voter Turnout: '33.03%*'
+        Candidates:
+            'Mike McCann':
+                Votes: '1,303'
+                Percentage: '46.74'
+            'Doug Jure':
+                Votes: '706'
+                Percentage: '25.32'
+            'Chris Forde':
+                Votes: '330'
+                Percentage: '11.84'
+            'Graham Allary':
+                Votes: '298'
+                Percentage: '10.69'
+            'Paolo Fabrizio':
+                Votes: '151'
+                Percentage: '05.42'
+    
+    'Member, Conseil scolaire de district catholique Centre-Sud (#64)':
+        Candidates:
+            'Donald Blais':
+                Votes: '879'
+                Percentage: '64.54'
+            'Kyna Sivret':
+                Votes: '483'
+                Percentage: '35.46'
+    
+    'Member, Conseil scolaire Viamonde (formerly Conseil scolaire de district du Centre Sud-Ouest), Sector 5':
+        Candidates:
+            'Guy Belcourt':
+                Votes: '515'
+                Percentage: '50.05'
+            'Eric R. Lapointe':
+                Votes: '514'
+                Percentage: '49.95'
+    
+    'Member, Simcoe County District School Board, Representing Wards 1, 2, 3':
+        Candidates:
+            'Kathleen Aikins':
+                Votes: '2,394'
+                Percentage: '33.71'
+            'Suzanne Ley':
+                Votes: '2,198'
+                Percentage: '30.95'
+            'Paul Archer':
+                Votes: '1,812'
+                Percentage: '25.51'
+            'Stephen Donkers':
+                Votes: '698'
+                Percentage: '09.83'
+    
+    'Member, Simcoe County District School Board, Representing Wards 4, 5, 6':
+        Candidates:
+            'Krista Mayne':
+                Votes: '2,690'
+                Percentage: '47.57'
+            'Katherine L. Koculym':
+                Votes: '1,798'
+                Percentage: '31.79'
+            'Steven George Knuff':
+                Votes: '1,167'
+                Percentage: '20.64'
+    
+    'Member, Simcoe County District School Board, Representing Wards 7, 8, 9, 10':
+        Candidates:
+            'Jennifer Lynn Cameron':
+                Votes: '2,488'
+                Percentage: '35.50'
+            'Christine Williams':
+                Votes: '1,677'
+                Percentage: '23.93'
+            'Jessica McConnell':
+                Votes: '1,356'
+                Percentage: '19.35'
+            'Keith P. Rimmer':
+                Votes: '795'
+                Percentage: '11.34'
+            'Corey Wall':
+                Votes: '692'
+                Percentage: '09.87'
+    
+    'Member, Simcoe Muskoka Catholic District School Board, Representing Wards 1, 2, 3, 4, 5':
+        Candidates:
+            'Connie Positano':
+                Votes: '1,579'
+                Percentage: '65.71'
+            'Nathan Caldwell':
+                Votes: '824'
+                Percentage: '34.29'
+    
+    'Member, Simcoe Muskoka Catholic District School Board, Representing Wards 6, 7, 8, 9, 10':
+        Candidates:
+            'Maria Hardie':
+                Votes: 'ACCLAIMED'
+                Percentage: 'N/A'
+'2010-municipal':
+    'Mayoral race':
+        Candidates:
+            'Jeff Lehman':
+                Votes: '13,562'
+                Percentage: '39.2'
+            'Joe Tascona':
+                Votes: '9,650'
+                Percentage: '27.9'
+            'Rob Hamilton':
+                Votes: '5,140'
+                Percentage: '14.8'
+            'Mike Ramsay':
+                Votes: '4,507'
+                Percentage: '13'
+            'David Aspden (X)':
+                Votes: '1,249'
+                Percentage: '3.6'
+            'Harry Ahmed':
+                Votes: '304'
+                Percentage: '0.8'
+            'Carl Hauck':
+                Votes: '115'
+                Percentage: '0.4'
+            'Darren Roskam':
+                Votes: '68'
+                Percentage: '0.3'
+
+'2006-municipal':
+    'Mayoral race':
+        Source: 'https://en.wikipedia.org/wiki/Ontario_municipal_elections,_2006#Barrie'
+        Candidates:
+            'Dave Aspden':
+                Votes: '14,616'
+                Percentage: '50.3'
+            'Robert J. Hamilton':
+                Votes: '12,175'
+                Percentage: '41.9'
+            'Kevin Harrod':
+                Votes: '2,244'
+                Percentage: '7.73'
+    'Ward 1':
+        Source: 'https://en.wikipedia.org/wiki/Ontario_municipal_elections,_2006#Barrie'
+        Candidates:
+            'Mike Ramsay':
+                Votes: '2226'
+                Percentage: '48.0'
+            'Adam Smith':
+                Votes: '1657'
+                Percentage: '35.7'
+            'Andrew Zyp':
+                Votes: '254'
+                Percentage: '5.47'
+            'Andrea Butcher-Milne':
+                Votes: '223'
+                Percentage: '4.80'
+            'James Wallace':
+                Votes: '150'
+                Percentage: '3.23'
+            'Danielle Laundry':
+                Votes: '104'
+                Percentage: '2.24'
+            'Dwight Robbins':
+                Votes: '28'
+                Percentage: '0.60'
+    'Ward 2':
+        Source: 'https://en.wikipedia.org/wiki/Ontario_municipal_elections,_2006#Barrie'
+        Candidates:
+            'Jeff Lehman':
+                Votes: '1877'
+                Percentage: '50.0'
+            'Connie Positano':
+                Votes: '811'
+                Percentage: '21.6'
+            'Sean Elliott':
+                Votes: '749'
+                Percentage: '19.9'
+            'Todd Tuckey':
+                Votes: '289'
+                Percentage: '9.69'
+            'Darren Roskam':
+                Votes: '30'
+                Percentage: '0.799'
+    'Ward 3':
+        Source: 'https://en.wikipedia.org/wiki/Ontario_municipal_elections,_2006#Barrie'
+        Candidates:
+            'Rodney Jackson':
+                Votes: '1197'
+                Percentage: '48.3'
+            'Bill Garland':
+                Votes: '878'
+                Percentage: '35.4'
+            'Darcy Murray':
+                Votes: '271'
+                Percentage: '10.9'
+            'Jason A. Krynicki':
+                Votes: '131'
+                Percentage: '5.29'
+    'Ward 4':
+        Source: 'https://en.wikipedia.org/wiki/Ontario_municipal_elections,_2006#Barrie'
+        Candidates:
+            'Barry Ward':
+                Votes: '1178'
+                Percentage: '48.0'
+            'Leonard Bugeja':
+                Votes: '615'
+                Percentage: '25.1'
+            'Denise Dicks':
+                Votes: '383'
+                Percentage: '15.6'
+            'Scott Gorry':
+                Votes: '220'
+                Percentage: '8.97'
+            'Peter Simpson':
+                Votes: '57'
+                Percentage: '2.32'
+    'Ward 5':
+        Source: 'https://en.wikipedia.org/wiki/Ontario_municipal_elections,_2006#Barrie'
+        Candidates:
+            'Lynn Strachan (X)':
+                Votes: '1293'
+                Percentage: '35.4'
+            'Peter Silveira':
+                Votes: '1214'
+                Percentage: '33.2'
+            'Kimberley Sweeney-Hyatt':
+                Votes: '1149'
+                Percentage: '31.4'
+    'Ward 6':
+        Source: 'https://en.wikipedia.org/wiki/Ontario_municipal_elections,_2006#Barrie'
+        Candidates:
+            'Michael Prowse (X)':
+                Votes: '1539'
+                Percentage: '73.7'
+            'Daniel Gary Predie, Sr.':
+                Votes: '370'
+                Percentage: '17.7'
+            'Matthew McErlean':
+                Votes: '180'
+                Percentage: '8.62'
+    'Ward 7':
+        Source: 'https://en.wikipedia.org/wiki/Ontario_municipal_elections,_2006#Barrie'
+        Candidates:
+            'John Brassard':
+                Votes: '1074'
+                Percentage: '52.7'
+            'Steve Trotter (X)':
+                Votes: '899'
+                Percentage: '44.1'
+            'Kirk Duffin':
+                Votes: '66'
+                Percentage: '3.24'
+    'Ward 8':
+        Source: 'https://en.wikipedia.org/wiki/Ontario_municipal_elections,_2006#Barrie'
+        Candidates:
+            'Jerry Moore (X)':
+                Votes: '1012'
+                Percentage: '44.3'
+            'Michael Hardie':
+                Votes: '705'
+                Percentage: '30.9'
+            'Stewart McBoyle':
+                Votes: '566'
+                Percentage: '24.8'
+    'Ward 9':
+        Source: 'https://en.wikipedia.org/wiki/Ontario_municipal_elections,_2006#Barrie'
+        Candidates:
+            'Andrew Prince':
+                Votes: '1251'
+                Percentage: '50.2'
+            'Kevin LePage (X)':
+                Votes: '1107'
+                Percentage: '44.4'
+            'Leslie Fox':
+                Votes: '134'
+                Percentage: '5.38'
+    'Ward 10':
+        Source: 'https://en.wikipedia.org/wiki/Ontario_municipal_elections,_2006#Barrie'
+        Candidates:
+            'Alex Nuttall':
+                Votes: '1398'
+                Percentage: '45.2'
+            'Alison Eadie':
+                Votes: '566'
+                Percentage: '18.3'
+            'Ann Hoggarth':
+                Votes: '563'
+                Percentage: '18.2'
+            'Christopher Damas':
+                Votes: '304'
+                Percentage: '9.82'
+            'Erich Jacoby-Hawkins':
+                Votes: '241'
+                Percentage: '7.78'
+            'Paolo Fabrizio':
+                Votes: '24'
+                Percentage: '0.775'

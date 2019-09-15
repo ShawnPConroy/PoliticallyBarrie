@@ -1,0 +1,1922 @@
+'2018-municipal':
+    Info:
+        Name: '2018 Municipal Election'
+        ogImage: 'vote-m-barrie-2018.png'
+        Contents: true
+        Results: true
+        Overview: true
+        Listing: true
+        Survey: true
+        Dates:
+            Election Day: 'Monday, October 22, 9 AM – 5PM'
+            City Hall Voting: 'Saturday, October 6, 9 AM - 2 PM'
+            Advance Voting:
+                - 'Thurs, Oct 18, 1 PM–8 PM'
+                - 'Fri, Oct 19, 1 PM–8 PM'
+                - 'Sat, Oct 20 from 9 AM–5 PM'
+        Results Link: 'https://www.barrie.ca/City%20Hall/election/Pages/ElectionResults.aspx'
+        Voting Locations Link: 'https://www.barrie.ca/City%20Hall/election/Pages/Information-for-Voters.aspx#permanent'
+        Voter ID Link: 'http://www.mah.gov.on.ca/Page18734.aspx#identification'
+        Voter Registration Link: 'https://sites.barrie.ca/voterview/'
+        Map Embed: 'https://www.google.com/maps/d/u/2/embed?mid=1qN5PchAYN7p0BNj-ghLuYnaf9DJ1snaU'
+        Map Link: 'https://drive.google.com/open?id=1qN5PchAYN7p0BNj-ghLuYnaf9DJ1snaU'
+        Additional Links:
+            'Official 2018 Municipal Election page': 'https://www.barrie.ca/City%20Hall/election/Pages/default.aspx'
+            'Official Candidate Listing': 'https://www.barrie.ca/City%20Hall/election/Pages/Candidate-Listing.aspx'
+    # 2018 voter turnout in was 27,652 electors (30). There were 11 declined ballots. Barrie's 2018 Municipal Election results were certified on October 26, 2018. Financial statements will posted as they are provided.
+    'Mayor':
+        Eligible Voters: '92,156'
+        Voter Turnout: '29.65'
+        Candidates:
+            'Jeff Lehman':
+                Display Name: 'Lehman Jeff'
+                Listing Name: 'Lehman, Jeff'
+                Votes: '24,854'
+                Percentage: '90.97'
+                Info:
+                    Phone: '705-252-8840'
+                    Email: 'jefflehman2018@gmail.com'
+                    Twitter: 'https://twitter.com/4More4Jeff'
+                    Facebook Profile: 'https://facebook.com/4More4Jeff'
+            'Ram Faerber':
+                Display Name: 'Ram Faerber'
+                Listing Name: 'Faerber, Ram'
+                Votes: '2,467'
+                Percentage: '9.03'
+                Info:
+                    Phone:
+                        - '705-791-0305 (Campaign)'
+                        - '705-726-4605 (Home)'
+                        - '416-294-5727 (Business)'
+                    Email: 'marzena.milczach@hotmail.com'
+    'Ward 1':
+        Eligible Voters: '9,794'
+        Voter Turnout: '33.48'
+        Candidates:
+            'Clare Riepma':
+                Display Name: 'Clare Riepma'
+                Listing Name: 'Riepma, Clare'
+                Votes: '974'
+                Percentage: '29.70'
+                Info:
+                    Phone:
+                        - '705-737-1080 (Home)'
+                        - '416-346-8258 (Business)'
+                    Email: 'clare@voteforclare.ca'
+                    Twitter: 'https://twitter.com/clareriepma'
+                    Link:
+                        'VoteForClare.ca/': 'http://www.voteforclare.ca/'
+            'Shaughna Ainsworth':
+                Display Name: 'Shaughna Ainsworth'
+                Listing Name: 'Ainsworth, Shaughna'
+                Votes: '852'
+                Percentage: '25.98'
+                Info:
+                    Phone: '705-817-1966'
+                    Twitter: 'https://twitter.com/shaughnaA'
+                    Facebook Page: 'https://facebook.com/Ainsworth-for-Ward-1-388376831687999/'
+                    Link:
+                        'AinsworthWard1.com': 'http://www.ainsworthward1.com/'
+            'Ryan Cardwell':
+                Display Name: 'Ryan Cardwell'
+                Listing Name: 'Cardwell, Ryan'
+                Votes: '514'
+                Percentage: '15.68'
+                Info:
+                    Phone: '705-305-3700'
+                    Email: 'your.neighbour.ryan@gmail.com'
+                    Twitter: 'https://twitter.com/NeighbourRyan'
+                    Facebook Profile: 'http://facebook.com/your.neighbour.ryan'
+                    Link:
+                        'Cardwell4Ward1.ca/': 'http://cardwell4ward1.ca/'
+            'Ann-Marie Kungl':
+                Display Name: 'Ann-Marie Kungl'
+                Listing Name: 'Kungl, Ann-Marie'
+                Votes: '370'
+                Percentage: '11.28'
+                Info:
+                    Phone: '705-816-0117'
+                    Email: 'annmariekungl@gmail.com'
+                    Twitter: 'https://twitter.com/annmariekungl'
+                    Facebook Page: 'https://facebook.com/KunglCares/'
+                    Link:
+                        'KunglCares.ca/': 'http://www.kunglcares.ca/'
+            'Dusko Jankov':
+                Display Name: 'Dusko Jankov'
+                Listing Name: 'Jankov, Dusko'
+                Votes: '186'
+                Percentage: '5.67'
+                Info:
+                    Phone: '705-321-6976'
+                    Email: 'djankov3@yahoo.com'
+            'Graham Allary':
+                Display Name: 'Graham Allary'
+                Listing Name: 'Allary, Graham'
+                Votes: '176'
+                Percentage: '5.37'
+                Info:
+                    Phone: '705-896-7895'
+                    Email: 'grahamallary@gmail.com'
+                    Twitter: 'https://twitter.com/allaryg'
+                    Facebook Profile: 'https://facebook.com/VOTE-Allary-Councillor-Ward-1-400451613762986/'
+                    Link:
+                        'VoteAllary.ca': 'http://www.voteallary.ca/'
+                Survey:
+                    qWhy: |
+                        I am able to set my own clock so I will have the time to dedicate to addressing the concerns of the Ward. I have been a Ward resident beginning in 1975 and today still work within the Ward boundaries on a daily bases. My professional career has always been about customer service and satisfaction and I will carry that forward to Ward residents. Communication and transparency has always served me well and I will apply the same to council position. I have worked successfully with all levels of government, private organizations and individuals to reach common goals and objectives.
+                    qValues: |
+                        The time is now to slow property tax increases and slow residential growth as it will put pressure on tax increases. We need to grow our industry and commercial base to balance residential tax to corporate taxes. We need to intensify the downtown core and Bradford St and the Essa road corridors as outlined in the official plan. The need to accelerate affordable housing after years of lagging behind is now necessary. Develop a plan for more timely infrastructure repair and replacement.
+                    qIssues: |
+                        Infrastructure, affordable housing, tax stability, intensification, industry growth, rental property over sight and regulatory controls, official plan review, traffic and intersection control.
+                    qTaxes: |
+                        * Maintain or rework services and infrastructure to maintain our taxes.
+                    qPot: |
+                        * Legal, regulated products should be available here.
+            'Avery Konda':
+                Display Name: 'Avery Konda'
+                Listing Name: 'Konda, Avery'
+                Votes: '113'
+                Percentage: '3.45'
+                Info:
+                    Phone:
+                        - '705-241-1733 (Business)'
+                        - '705-952-9013 (Campaign)'
+                    Email: 'averyforward1@gmail.com'
+                    Twitter: 'https://twitter.com/AveryKonda'
+                    Facebook: 'http://facebook.com/fairshare4Ward1'
+                    Instagram: 'https://www.instagram.com/averykonda/'
+                    LinkedIn: 'https://www.linkedin.com/iN/Averykonda/'
+                    Link:
+                        'AveryKonda.com': 'http://www.averykonda.com/'
+                Survey:
+                    qWhy: |
+                         I believe there needs to be more Fair Share for our community, and I notice more increasingly that Ward 1 is falling behind in the City of Barrie’s future. Let me ask you a few questions: Are many of the roads in Ward 1 falling apart? Is our infrastructure ageing with little to no repair? I am running to ensure a priority is put on our residents concerns and challenges, to create Fair Share for our community.
+                    qValues: |
+                        My Fair Share platform highlights issues and challenges that I am passionate about, and will ways I will action positive change for our Ward: 1) I will bring action to infrastructure repair, development, and rehabilitation in our Ward. 2) I will bring efficient measures to community safety such as slowing down speeds of cars for family safety with LED Speed Signs. 3) I will create a Smart Growth Plan, so that our community and residents receive the key services they need.
+                    qIssues: |
+                        I will vote with the residents and community members of Ward 1 in mind; I will be a conduit in Council Meetings to action positive change, and ensure we receive our Fair Share of Barrie. My politics are to create city wide, representative initiatives, pilots, and programs, that encompass all Wards, so that we have development, repair, rehabilitation, economic and social growth in all communities; not specific areas that have seemed to have unlimited priority in our city. For the past several years, I have been actively involved in the entrepreneurial community of Barrie, bringing more economic opportunity to our City, as well as building capacity through accessing funding for public transportation; that will help our seniors get to their doctors appointments with ease; that will help our youth travel safely within our community; that will help put a priority on our Wards needs.
+                    qTaxes: |
+                        * Maintain or rework services and infrastructure to maintain our taxes.
+                    qPot: |
+                        * Legal, regulated products should be available here.
+            'Erin Hennigar':
+                Display Name: 'Erin Hennigar'
+                Listing Name: 'Hennigar, Erin'
+                Votes: '61'
+                Percentage: '1.86'
+                Info:
+                    Phone:
+                        - '705-252-6789 (Campaign)'
+                        - '705-790-6368 (Home)'
+                        - '705-220-6309 (Business)'
+                    Email: 'erinhennigar4@gmail.com'
+                Survey:
+                    qWhy: |
+                        I have no political background I am a resident of Ward 1 for over 10 years and decided to run for councillor because I was tired of seeing the city neglected our ward for needed investment. I believed that over the years the voice of Ward 1 was not strong enough and I wanted to help bring about the change the people want.
+                    qValues: |
+                        My votes will lean to get the needed services for my ward. However, I will bring forward ideas to help elevate city spending to help control tax increases for the city as a whole. I want to see change that affects everyone and makes life better for everyone.
+                    qIssues: |
+                        The main issues I want to see changed in the lack of infrastructure investment to one of the oldest Wards in Barrie. I believe that the development charges should be changed to allow the city to spend infrastructure funds on roads that may hav emit been considered due to location. Additionally, I want to push the city services such as the By-law department to do more then just ticket for parking violations. To be proactive with property infractions versus waiting for complaints. I also believe that the city needs to start maintaining our catwalks and sharing the parks and recreations time evenly through the wards. As taxes raise services should increase not decrease and I believe that fresh eyes will help with these changes as we will bring new ideas to the table. Our affordable housing issue is a concern, we live in a city that’s average gross household income is $81,000/ year. I have ideas to help with these issues.
+                    qTaxes: |
+                        * Maintain or rework services and infrastructure to maintain our taxes.
+                    qPot: |
+                        * People should not be forced to drive long distance to fill medical marijuana prescriptions.
+                        * Legal, regulated products should be available here.
+            'Cole Walsh':
+                Display Name: 'Cole Walsh'
+                Listing Name: 'Walsh, Cole'
+                Votes: '33'
+                Percentage: '1.01'
+                Info:
+                    Phone: '249-359-2653'
+                    Email: 'yourbarrie@outlook.com'
+                    Twitter: 'https://twitter.com/itsYourBarrie'
+                    Facebook: 'https://facebook.com/Cole-Walsh-2023740527868297/'
+    'Ward 2':
+        Eligible Voters: '11,833'
+        Voter Turnout: '35.5'
+        Candidates:
+            'Keenan Aylwin':
+                Display Name: 'Keenan Aylwin'
+                Listing Name: 'Aylwin, Keenan'
+                Votes: '1,766'
+                Percentage: '42.04'
+                Info:
+                    Phone: '249-359-2653'
+                    Email: 'keenan.aylwin@gmail.com'
+                    Twitter: 'https://twitter.com/KeenanAylwin'
+                    Facebook Page: 'https://facebook.com/KeenanAylwin/'
+                    Link:
+                        'Keenan.ca/': 'http://www.keenan.ca/'
+            'Richard Forward':
+                Display Name: 'Richard Forward'
+                Listing Name: 'Forward, Richard'
+                Votes: '1,359'
+                Percentage: '32.35'
+                Info:
+                    Phone: '705-229-6142 (Campaign)'
+                    Email: 'RichardForwardforWard2@gmail.com'
+                    Link:
+                        'http://www.richardforward.ca/': 'http://www.richardforward.ca/'
+            'Rose Romita':
+                Display Name: 'Rose Romita'
+                Listing Name: 'Romita, Rose'
+                Votes: '877'
+                Percentage: '20.88'
+                Info:
+                    Phone:
+                        - '705-722-7763 (Home)'
+                        - '705-796-7909 (Business)'
+                    Email: 'info@roseromita.com'
+                    Link:
+                        'RoseRomita.com': 'http://www.roseromita.com/'
+            'Yolanda T. Gallo':
+                Display Name: 'Yolanda T. Gallo'
+                Listing Name: 'Gallo, Yolanda T.'
+                Votes: '199'
+                Percentage: '4.74'
+                Info:
+                    Phone:
+                        - '705-241-5488 (Home)'
+                        - '705-733-5683 (Business)'
+                    Email: 'YgalloForWard2@gmail.com'
+                    Twitter: 'https://twitter.com/GalloYo'
+                    Link:
+                        'https://www.gallobarrie.ca/': 'https://www.gallobarrie.ca/'
+    'Ward 3':
+        Eligible Voters: '7,831'
+        Voter Turnout: '29.45'
+        Candidates:
+            'Doug Shipley':
+                Display Name: 'Doug Shipley'
+                Listing Name: 'Shipley, Doug'
+                Votes: '1,614'
+                Percentage: '69.99'
+                Info:
+                    Phone: '705-720-2330 (Campaign)'
+                    Email: 'contact@dougshipley.ca'
+                    Link:
+                        'DougShipley.ca': 'http://www.dougshipley.ca/'
+            'Tanya Saari':
+                Display Name: 'Tanya Saari'
+                Listing Name: 'Saari, Tanya'
+                Votes: '415'
+                Percentage: '18.00'
+                Info:
+                    Phone: '705-796-6902'
+                    Email: 'tanyasaariward3@gmail.com'
+                    Twitter: 'https://twitter.com/tanya4ward3'
+                    Facebook Page: 'https://facebook.com/Tanya-Saari-for-Ward-3-289160061630315/'
+                Survey:
+                    qWhy: |
+                        I am running as Ward 3 Councillor as I feel it is time for a refresh. Barrie is my home, I work here, we have raised out kids here, and I love this City. As your Ward 3 Councillor I look forward to listening, responding and representing my neighbours.
+                    qValues: |
+                        I am a candidate that leads with honesty and integrity. Any decisions that need to be made will be researched and always in the best interest of us, the residents of Barrie. I am driven, hard working, and ready to get to work for you!
+                    qIssues: |
+                        My drive is to ensure that Ward 3 is not left behind. As the City of Barrie continues to grow, we must ensure that Ward 3 gets the attention that it needs. With our roads aging we have to stay on top of repair. We must make sure that our parks, roads and safety is still a top priority.
+                    qTaxes: |
+                        Focus on community.
+                    qPot: |
+                        Legal, regulated products should be available here.
+            'Lynn-Anne Hill':
+                Display Name: 'Lynn-Anne Hill'
+                Listing Name: 'Hill, Lynn-Anne'
+                Votes: '277'
+                Percentage: '12.01'
+                Info:
+                    Phone: '705-728-9029'
+                    Email: 'hill4ward3@outlook.com'
+                    Twitter: 'https://twitter.com/LynnAnneHill1'
+                    Facebook Page: 'https://facebook.com/barrieelection2018'
+                    Link:
+                        'Hill4Ward3.com/': 'https://hill4ward3.com/'
+                Survey:
+                    qWhy: |
+                        The City of Barrie invited residents to “Run in Barrie’s Municipal election…to make a lasting impact on our community”. These words challenged me as I am highly community service-driven and endeavor to make a positive difference in all that I do. I possess the necessary experience and knowledge, and, as a natural connector, I proactively seek ways to engage individuals and groups to create opportunities and foster shared objectives and solutions.
+                    qValues: |
+                        Voters can expect me to be an effective voice for them at the Council table. My community knowledge and experience enables me to hit the ground running, and I can be counted on to listen, respond and take action. I am also a very positive and inclusive influence within the community.
+                    qIssues: |
+                        *Housing* – I believe that housing is a basic and fundamental right, and access to safe, affordable and adequate housing promotes not only health and well-being, but a successful community. I support identifying a variety of alternative housing types to meet the demand of our growing population and mitigate homelessness. *Aggressive Driving* – aggressive driving has escalated throughout Barrie and an effective campaign needs to be launched to curb driver behaviour. *Enhanced Public Transportation* – express shuttle services added to conventional bus routes will enhance the network and ease ridership stress; as well as new pedestrian-friendly developments that contain services and retail; and improved road conditions. *Community Mental Health* – follow the Mental Health Commission of Canada’s Mental Health Strategy to play a leadership role as a community to reduce the stigma that surrounds mental health problems and illnesses.
+                    qTaxes:
+                        Answer: |
+                            * Focus on roads and other physical infrastructure.
+                        Clarification: |
+                            Proper and proactive maintenance of our roads, buildings, etc. will keep taxes down and prepare us for the anticipated growth of our population.
+                    qPot:
+                        Answer: |
+                            * Some legal, regulated products should be carefully managed.
+                            * Marijuana should not be available here.
+                        Clarification: |
+                            In the interest of best practice, I think that the City should opt-out and delay private marijuana shops while it establishes guidelines as to number and location of retailers, and until further investigation is made of the implications of marijuana legalization from a practical and safety perspective.
+    'Ward 4':
+        Eligible Voters: '9,190'
+        Voter Turnout: '31.92'
+        Candidates:
+            'Barry Ward':
+                Display Name: 'Barry Ward'
+                Listing Name: 'Ward, Barry'
+                Votes: '1,477'
+                Percentage: '50.36'
+                Info:
+                    Phone: '705-737-0318'
+                    Email: 'barry@barryward.ca'
+                    Twitter: 'https://twitter.com/barry4Barrie4'
+                    Facebook: 'https://facebook.com/Barry-Ward-for-Barrie-Ward-4-437808553356839/'
+                    Link:
+                        'BarryWard.ca/': 'http://www.barryward.ca/'
+                Survey:
+                    qWhy: |
+                        I am the current councillor for Barrie’s Ward 4. I know I enjoy the job and I think I do a good job of representing the residents of Ward 4 on city council. I consider myself a progressive politician and want to make sure the issues that are important to me(see next question) have a voice at the council chamber. I think Barrie is going in the right direction and want to be part of making it a great community.
+                    qValues: |
+                        I consider myself progressive while also knowing I have to say no when we can’t afford something. Property taxes are not a progressive tax so we have to ensure we don’t place too big a burden on people.
+                    qIssues: |
+                        Anyone who follows council knows I am passionate about pedestrian safety in general and sidewalks in particular. I am constantly pushing for sidewalks to be included when streets are rebuilt and in all new subdivisions. I was part of the committee which brought in Barrie’s first Community Safety Zones and continue to advocate for additional safety measures. I am also passionate about affordable housing. The city has to be open to every opportunity to ensure Barrie is a place everyone can live. Finally, I’m passionate about public spaces, which help bring our residents together and make our city beautiful. This includes both indoor facilities, such as libraries, arenas, theatres and seniors centres, and parks, including our waterfront and Sunnidale Park.
+                    qTaxes: |
+                        * Focus on community.
+                    qPot: |
+                        * Legal, regulated products should be available here.
+            'Bryan Harris':
+                Display Name: 'Bryan Harris'
+                Listing Name: 'Harris, Bryan'
+                Votes: '1,010'
+                Percentage: '34.44'
+                Info:
+                    Phone: '705-718-3227'
+                    Email: 'bryan@bryanharrisward4.ca'
+                    Twitter: 'https://twitter.com/bryanharrisw4'
+                    Facebook Page: 'https://facebook.com/bryanharrisw4'
+                    Instagram: 'https://instagram.com/bryanharrisw4/'
+                    YouTube: 'https://youtube.com/channel/UCZONIHG75dnhnUYLLhH58cQ'
+                    Link:
+                        'BryanHarrisWard4.ca/': 'http://www.bryanharrisward4.ca/'
+            'Daniel Boucher':
+                Display Name: 'Daniel Boucher'
+                Listing Name: 'Boucher, Daniel'
+                Votes: '446'
+                Percentage: '15.21'
+                Info:
+                    Phone:
+                        - '647-297-8839 (Campaign)'
+                        - '647-297-8839 (Home)'
+                    Email: 'danbouch80@hotmail.com'
+                    Twitter: 'https://twitter.com/bouchjr'
+                    Facebook Profile: 'https://www.facebook.com/BoucherforWard4/'
+                    Link:
+                        'ElectionBarrie.com': 'http://www.electionbarrie.com/'
+                Survey:
+                    qWhy: |
+                        I’ve always wanted to be someone who gives back to my community, offering influential and innovative solutions, and contributing to the safety, economic horizons for my environment. My desire to participate in local forums, participate in community driven initiatives and volunteer in city programs has been handed down to me from my upbringing, and remains an effervescent passion. I have always worked public service, and had successes in union affairs, which lead me to think deeply about involvement in local politics. I want to effect change, just not vote on it, or hear about it!
+                    qValues: |
+                        I am NEVER going to make decisions, without looking at the makeup of our city/ward, canvassing for your opinions and allowing your feedback to grow my representation in council. I am the only candidate (Ward 4, from my knowledge) with public service as my pedigree, whereby I have laid my life (literally) on the line for citizens of our nation. I will not be pushed around in council chambers, and have no allegiances to any persons in city politics. I will be heavily trusted to save your tax dollars, generate favourable social media investment and promote the city heavily with our provincial counterparts in power to gain financial investment. You will hear from me a lot, good and bad, but I will NOT shy away from answering your emails, phone calls and posts online, regardless of personal opinion. Ask yourself this…Do I Know who represents my Ward? Do I ever hear from them? Are they accessible to me, my family, my business?…because, to me, that is the goal of “EFFECTIVE” Municipal Government Representation.
+                    qIssues: |
+                        In regards to city politics, which is the most accessible form of government representation (in my humblest of opinions), I am very concerned about the lack of leadership ideas, feedback loops, and engaged city residents willing to speak, but having no representative willing to listen, canvass for constituent lead ideas and apply progressive decisions to outdated issues. I would be, and already have, listened to many neighbours, inviting them into my home, from all political backgrounds, eagerly hearing their points of view, and changing many preconceived notions I may have once had. This should be the vision leadership takes, and I will always utilize those persons with subject matter knowledge, far greater then mine, to make effective, research driven and engaged decisions for my community.
+                    qTaxes: |
+                        Other: generate communication based quorum lead initiatives, social media growth, tourism and industry growth
+                    qPot: |
+                        * People should not be forced to drive long distance to fill medical marijuana prescriptions.
+                        * Legal, regulated products should be available here.
+                        * Some legal, regulated products should be carefully managed.
+    'Ward 5':
+        Eligible Voters: '8,229'
+        Voter Turnout: '29.82'
+        Candidates:
+            'Robert Thomson':
+                Display Name: 'Robert Thomson'
+                Listing Name: 'Thomson, Robert'
+                Votes: '1,355'
+                Percentage: '55.22'
+                Info:
+                    Phone: '705-500-1780'
+                    Email: 'roberthomson4ward5@gmail.com'
+                    Twitter: 'https://twitter.com/RTForward5'
+                    Facebook Profile: 'https://facebook.com/profile.php?id=100005013047863'
+            'Peter Silveira':
+                Display Name: 'Peter Silveira'
+                Listing Name: 'Silveira, Peter'
+                Votes: '942'
+                Percentage: '38.39'
+                Info:
+                    Email: 'Peter@Ward5.com'
+            'Brandon Cassidy':
+                Display Name: 'Brandon Cassidy'
+                Listing Name: 'Cassidy, Brandon'
+                Votes: '87'
+                Percentage: '3.55'
+                Info:
+                    Phone: '705-229-9713'
+                    Email: 'bmcone777@gmail.com'
+            'Harry Ahmed':
+                Display Name: 'Harry Ahmed'
+                Listing Name: 'Ahmed, Harry'
+                Votes: '70'
+                Percentage: '2.85'
+                Info:
+                    Phone:
+                        - '705-241-9455 (Campaign)'
+                        - '705-241-9455 (Home)'
+                        - '705-241-9455 (Business)'
+                    Email: 'voteharryfor5@gmail.com'
+                    Facebook Profile: 'https://facebook.com/harry4ward5/'
+                Notice: |
+                    [Barrie municipal candidate denies extortion allegation](https://torontosun.com/news/local-news/barrie-municipal-candidate-denies-extortion-allegation): Court records show Ahmed has a previous conviction for perjury and he was on probation at the time of the newest charges. In 2010, Ahmed also campaigned for mayor in Barrie but lost, attracting only 305 votes.
+    'Ward 6':
+        Eligible Voters: '9,648'
+        Voter Turnout: '27.53'
+        Candidates:
+            'Natalie Harris':
+                Display Name: 'Natalie Harris'
+                Listing Name: 'Harris, Natalie'
+                Votes: '1,042'
+                Percentage: '39.23'
+                Info:
+                    Phone: '705-816-5576'
+                    Email: 'votenatalie@hotmail.com'
+                    Twitter: 'https://twitter.com/paramedicnat1'
+                    Facebook Page: 'https://facebook.com/votenatalieharris/'
+                    Link:
+                        'VoteNatalie.ca': 'http://votenatalie.ca/'
+                Survey:
+                    qWhy: |
+                        I have a passion for advocating for people – I have experience doing so at the provincial and federal government level with mental health legislation for first responders. (Both Bills, 163 and C-211, were made law unanimously by all parties.) I enjoy giving back to my community – as I did for 11 years as a paramedic in Barrie and the County of Simcoe. I love the City of Barrie (I have lived here with my kids for 22 years) and making it sustainably clean and safe is of huge importance to me and my family.
+                    qValues: |
+                        I am passionate about community safety – this comes from being a mom and a paramedic. I want to preserve our green-space and keep Lake Simcoe clean. I also want to improve municipal mental health resources. I have experience being a community’s voice, and while doing so, I enjoy learning from my neighbours and implementing their ideas in order to make our city the best it can be.
+                    qIssues: |
+                        Improved Mental Health Advocacy – while a large portion of health-care is a provincial item, I find it extremely necessary to advocate for growth and improvement to our mental health services at a municipal level as well. Check out my page “Why Mental Health IS a Municipal Concern” (at votenatalie.ca) for more information. I have personally battled PTSD as a paramedic and have been in recovery for 4 years now. I feel this experience has taught me how to be resilient, strong and how to advocate for my health needs as well as for other people’s health needs.
+                    qTaxesClarification: |
+                        Barrie is mandated by the province to grow, and with growth there is a physical cost. Regardless of our desires to not have taxes increase, the Municipal Property Assessment Corporation (MPAC) will have our (Ontario’s) newest property assessments out by 2020, and with an increase to our property values, we will see an increase to our taxes – this increase isn’t the City of Barrie’s choice – it is Ontario’s choice. Yes, Barrie, the City itself, has raised taxes, but marginally. The important thing to consider when talking about taxes and growth is HOW the City will choose to use its tax money to grow. Barrie needs smart growth that takes into consideration the preservation of our green spaces and brings in commercial and business investments which will bring jobs closer to home, and in turn decreases our carbon footprint. We need affordable housing and an emphasis on sustaining local farms. Realistically (whether we like it or not), taxes and Barrie will continue to grow, but what truly matters is that we always keep the sustainability of our future in mind when planning to do so.
+                    qPot: |
+                        * Some legal, regulated products should be carefully managed.
+                    qPotClarification: |
+                        Depending on the website you visit, you will find varying opinions on personal and community safety linked to the legalization of marijuana and its derivatives such as CBD oil. I believe in using evidence-based research to decide what is best for us. One such article being: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4189631/ Which states, “At this time, there does seem to be a growing body of basic pharmacologic data suggesting there may be a role for CBD, especially in the treatment of refractory epilepsy.” And that, “based upon promising preliminary data, further clinical research should be wholeheartedly pursued.”
+            'Steve Trotter':
+                Display Name: 'Steve Trotter'
+                Listing Name: 'Trotter, Steve'
+                Votes: '937'
+                Percentage: '35.28'
+                Info:
+                    Phone: '705-733-3790'
+                    Email: 'VoteSteveTrotterWard6@gmail.com'
+                    Link:
+                        'VoteSteveTrotterWard6.com': 'http://www.votestevetrotterward6.com/'
+            'Micheline Robichaud':
+                Display Name: 'Micheline Robichaud'
+                Listing Name: 'Robichaud, Micheline'
+                Votes: '524'
+                Percentage: '19.73'
+                Info:
+                    Phone: '289-404-4911'
+                    Email: 'michelinerobichaud@gmail.com'
+                    Facebook Page: 'https://facebook.com/Micheline4CityCouncillor'
+                    Link:
+                        'MichelineInBarrie.com': 'http://www.michelineinbarrie.com/'
+                Survey:
+                    qWhy: |
+                        I believe we should expect better and demand better of our elected officials. We should hold them to a higher standard, and hold them accountable for their actions, or lack thereof. We need platforms, plans, experience, and a deep understand of our city and its future. Long-term planning for long-term prosperity requires new solutions to complex problems. The decisions Council makes now will impact us for generations to come. We need passionate, engaged, dedicated, and knowledgeable representatives’ with a long term vision. I am that candidate, and that is why I am running for Ward 6.
+                    qIssues: |
+                        I have been fighting to make our community stronger for years. I’ve sat on board of directors, guest speaking for the cancer society, and work as a community fundraiser for the HAD. I have successfully fought for changes to street parking, and was the first candidate to make Bill 65 (The Safer School Zones Act) a fundamental part of my platform, with a promise to fight for its implementation to curb speeding. My background is in real estate, finance, and property taxation. That is important because we are on the brink of another MPAC assessment, and with that is going to come an increase in your property taxes. I have the experience and the deep understanding of fiscal matters to find new solutions and smarter ways to grow. Growth that protects our green spaces, trails, and creates more affordable housing. I have heard your concerns:
+                        
+                        * Gridlock and traffic.
+                        * Road repairs.
+                        * Parking.
+                        * Affordable housing.
+                        * Speeding on residential streets.
+                        * Smart growth over sprawl.
+                    qTaxes: |
+                        Other: Smart growth, long term planning, strengthening our developments to encourage good local jobs, opening up new possibilities for affordable housing, safer streets, and preservation of our green spaces.
+                    qTaxesClarification: |
+                        The taxes you pay as a homeowner will rise, as we are on the brink of another mpac assessment. That does not mean our mill rate has to increase. As more revenue is generated through the rise in our home values, there are ways to use future forecasting to prevent property tax rate increases and still focus on improving infrastructure and needed services.
+                    qPot: |
+                        * Legal, regulated products should be available here.
+            'Colin Nelthorpe':
+                Display Name: 'Colin Nelthorpe'
+                Listing Name: 'Nelthorpe, Colin'
+                Votes: '153'
+                Percentage: '5.76'
+                Info:
+                    Email: 'colinforward6@gmail.com'
+                    Twitter: 'http://twitter.com/ColinNelthorpe'
+                    Link:
+                        'ColinnelThorpe.com': 'http://www.colinnelthorpe.com/'
+    'Ward 7':
+        Eligible Voters: '9,300'
+        Voter Turnout: '24.42'
+        Candidates:
+            'Gary Harvey':
+                Display Name: 'Gary Harvey'
+                Listing Name: 'Harvey, Gary'
+                Votes: '1,066'
+                Percentage: '46.94'
+                Info:
+                    Phone: '705-321-0089'
+                    Email: 'garyharvey4ward7@outlook.com'
+                    Twitter: 'https://twitter.com/GaryHarveyWard7'
+                    Facebook Page: 'https://facebook.com/Garyharveyward7'
+                    Link:
+                        'GaryHarvey.ca': 'http://www.garyharvey.ca/'
+            'Andrew Prince':
+                Display Name: 'Andrew Prince'
+                Listing Name: 'Prince, Andrew'
+                Votes: '776'
+                Percentage: '34.17'
+                Info:
+                    Phone: '705-500-6078'
+                    Email: 'andrew@voteprince.ca'
+                    Twitter: 'https://twitter.com/VotePrince2018'
+                    Facebook Page: 'https://facebook.com/AndrewPrince2018'
+                    Link:
+                        'VotePrince.ca': 'http://www.voteprince.ca/'
+            'Bonnie North':
+                Display Name: 'Bonnie North'
+                Listing Name: 'North, Bonnie'
+                Votes: '362'
+                Percentage: '15.94'
+                Info:
+                    Phone: '705-252-8900'
+                    Email: 'BonnieLNorth@gmail.com'
+                    Twitter: 'http://twitter.com/BonnieNorthGP'
+                    Facebook: 'https://facebook.com/Bonnie4Ward7/'
+                    Link:
+                        'BonnieNorth.ca': 'http://www.bonnienorth.ca/'
+                Survey:
+                    qWhy: |
+                        For several years I’ve volunteered in non-profit & charitable community organizations, joining dedicated others in doing good in our community. As incredibly effective as my fellow volunteers & chosen NGOs are, eventually everything that creates permanent change for good comes down to political will & government policy. I need to engage in the political process to help support and enable the good we all want and need through compassionate, evidence-based policies.
+                    qValues: |
+                        I, Bonnie North, am an activist, nutritional consultant and life-long learner, dedicated to working in the community to create awareness and change in environmental, food security and sovereignty initiatives. I’ve earned certificates in Sustainable Urban Agriculture, Sustainable Urban Horticulture, Civic Ecology and The Challenges of Global Poverty. Since 2015, I have been an Al Gore Climate Reality Leader sharing the lessons of Climate Reality to audiences in the Barrie and Innisfil areas. I am currently a member of Barrie’s Urban Pantry, a food security initiative which is working to establish both a community food centre and an urban agriculture strategy for the City of Barrie.
+                    qIssues: |
+                        In no particular order, the issues I am both passionate about and/or have been working as a volunteer to support are: – Food literacy – Food security (fighting hunger) – Poverty reduction – Human rights advocacy, particularly for women’s, LGBTQ, and seniors’ communities – Environmental justice advocacy – Women’s rights issues – Urban agriculture – Organic agriculture
+                    qTaxes: |
+                        Focus on community.
+                    qTaxesClarification: |
+                        Taxes are required to provide us with the services and infrastructure we all need to live in dignity and enjoy safe, healthy, prosperous and productive lives. Elected officials have a fiduciary duty to ensure public funds and resources are allocated in a transparent and responsible manner, doing whatever necessary to eliminate waste. I am committed to ensuring our taxes are carefully managed, but I will never make unrealistic promises about drastically lowering taxes to pander votes. As politicians, we need to be honest about how we pay for the things we all need in our community, and fair taxes is one the means municipalities provide such necessities.
+                    qPot: |
+                        * People should not be forced to drive long distance to fill medical marijuana prescriptions.
+                        * Legal, regulated products should be available here.
+                    qPotClarification: |
+                        In addition to what I’ve already identified above, I would like to see tax proceeds from the marijuana industry be allocated towards augmenting and enhancing existing mental healthcare and addictions support services. Finally, laws and protocols around marijuana related impaired driving and second-hand smoke exposure must be thoughtfully designed and strictly enforced, to ensure community comfort and safety.
+            'John McEachern':
+                Display Name: 'John McEachern'
+                Listing Name: 'McEachern, John'
+                Votes: '67'
+                Percentage: '2.95'
+                Info:
+                    Phone: '705-796-6764'
+                    Email: 'jwm87@hotmail.com'
+    'Ward 8':
+        Eligible Voters: '11,149'
+        Voter Turnout: '29.08'
+        Candidates:
+            'Jim Harris':
+                Display Name: 'Jim Harris'
+                Listing Name: 'Harris, Jim'
+                Votes: '998'
+                Percentage: '30.78'
+                Info:
+                    Phone:
+                        - '705-721-4418 (Campaign)'
+                        - '705-715-3008 (Business)'
+                    Email: 'votejimforward8@gmail.com'
+                    Facebook Page: 'http://facebook.com/VoteJimforWard8/'
+                    Link:
+                        'VoteJimForward8.ca': 'http://votejimforward8.ca/'
+            'Brad Thompson':
+                Display Name: 'Brad Thompson'
+                Listing Name: 'Thompson, Brad'
+                Votes: '989'
+                Percentage: '30.51'
+                Info:
+                    Phone: '705-725-3982 '
+                    Email: 'brad.a.thompson@hotmail.ca (.com?)'
+                    Twitter: 'https://facebook.com/votebradward8/'
+                    Link:
+                        'VoteBradForWard8.ca/': 'http://votebradforward8.ca/'
+            'Brian Miller':
+                Display Name: 'Brian Miller'
+                Listing Name: 'Miller, Brian'
+                Votes: '755'
+                Percentage: '23.29'
+                Info:
+                    Phone: '705-721-9474'
+                    Email: 'brianmillerforward8@gmail.com'
+                    Facebook Profile: 'http://facebook.com/brianmillerforward8'
+                    Link:
+                        'BrianMillerForWard8.wixsite.com/brianmillerforward8': 'https://brianmillerforward8.wixsite.com/brianmillerforward8'
+            'Shelly Skinner':
+                Display Name: 'Shelly Skinner'
+                Listing Name: 'Skinner, Shelly'
+                Votes: '500'
+                Percentage: '15.42'
+                Info:
+                    Email: 'shellyforward8@gmail.com'
+                    Twitter: 'https://twitter.com/shellyforward8'
+                    Facebook Page: 'https://facebook.com/ShellyforWard8/'
+    'Ward 9':
+        Candidates:
+            'Sergio Morales':
+                Display Name: 'Sergio Morales'
+                Listing Name: 'Morales, Sergio'
+                Votes: 'N/A'
+                Percentage: 'N/A'
+    'Ward 10':
+        Eligible Voters: '8,750'
+        Voter Turnout: '28.4'
+        Candidates:
+            'Mike McCann':
+                Display Name: 'Mike McCann'
+                Listing Name: 'McCann, Mike'
+                Votes: '1,719'
+                Percentage: '69.18'
+                Info:
+                    Phone: '647-688-9908'
+                    Email: 'mike@sunflowsolar.ca'
+                    Link:
+                        'VoteMikeMcCann.ca/': 'https://votemikemccann.ca/'
+            'John Olthuis':
+                Display Name: 'John Olthuis'
+                Listing Name: 'Olthuis, John'
+                Votes: '680'
+                Percentage: '27.36'
+                Info:
+                    Phone:
+                        - '705-794-1465 (Campaign)'
+                        - '705-726-1060 (Home)'
+                    Email: 'johnwardten@gmail.com'
+                    Twitter: 'https://twitter.com/JohnOlthuis'
+                    Link:
+                        'JohnForWard10.com/': 'http://johnforward10.com/'
+                Survey:
+                    qWhy: |
+                        I am recently retired with over 30 years experience in Customer Service, Marketing and Communications. My whole career has been based on determining the root cause of an issue, representing both the customer and the company and finding a mutually beneficial solution. Based on recent observations, I have concerns that our ward’s growth will not be fully represented unless the candidate can provide full attention to the ever increasing duties of a councilor. I believe the incumbent is committed but I have the skills, means and the will to commit my full attention to serving our community.
+                    qValues: |
+                        I am happy to state the vast majority of our Barrie constituents are very happy, but when pressed on what they would like to see improved, overwhelmingly, the number one issue raised by constituents is driving infractions creating dangers for pedestrians and drivers alike. (Disobeying speed limits and failing to come to a complete stop at traffic signals and stop signs is rampant). Excessive numbers of vehicles parking on side streets creating hazards for pedestrians is second and this is followed by disrepair of roads. Top-of-mind is also, what appears to be, an ever increasing number of homeless and reported drug overdoses. These are all signs that the system is not working or at least we have not fully addressed these issues. Last but not least is obviously taxes. All would like to see a tax reduction but realize that growth brings added expense. In all cases, the key is to address the root causes and not the symptoms. I for one have the skills to determine these causes and the ability to seek logical remedies.
+                    qIssues: |
+                        As a husband and the father to five and grandfather of two, I am passionate about creating an environment where my children can live, work, be safe and prosper. Barrie is our home and we need to ensure the city’s growth is consistent with our objectives but also ensure it reflects the needs of our citizens and the environment. Enjoying the fruits of our labour is exhilarating but seeing others enjoy the same accomplishments is what drives this passion.
+                    qTaxes: |
+                        Maintain or rework services and infrastructure to maintain our taxes.
+                    qTaxesClarification: |
+                        As with all things you get what you pay for but there is the question of value. We must ensure that contracts meet our needs and proper planning is in place to ensure full value, the job is done right, on schedule and within budget.
+                    qPot: |
+                        * People should not be forced to drive long distance to fill medical marijuana prescriptions.
+                        * Legal, regulated products should be available here.
+                    qPotClarification: |
+                        To meet the objectives of legalization we need to keep an open mind but also continue to curb illegal activities which may impact the effectiveness of the program. Reducing the black market involvement is imperative to making the concept a success.
+            'Peter Culyer':
+                Display Name: 'Peter Culyer'
+                Listing Name: 'Culyer, Peter'
+                Votes: '86'
+                Percentage: '3.46'
+                Info:
+                    Phone:
+                        - '705-309-5680 (Campaign)'
+                        - '705-722-0305 (Business)'
+                    Email: 'peterculyer@barrieward10.ca'
+                    Twitter: 'https://twitter.com/barrie_ward_10'
+                    Link:
+                        'BarrieWard10.ca': 'http://www.barrieward10.ca/'
+    'Public English trustee for wards 1, 2, 3':
+        Candidates:
+            'David William O&rsquo;Brien':
+                Display Name: 'David William O&rsquo;Brien'
+                Listing Name: 'Brien, David William O&rsquo'
+                Votes: '2,222'
+                Percentage: '34.10'
+                Info:
+                    Phone: '705-725-4774'
+                    Email: 'davidwilliamobrien2018@gmail.com'
+                    Link:
+                        'DavidWilliamObrien.wixsite.com/candidate-scdsb': 'https://davidwilliamobrien.wixsite.com/candidate-scdsb'
+                    Survey:
+                        qWhy: |
+                            My parents instilled in me the idea that you give back to your community. I am an active volunteer at my children’s school and chaired of the parent school council at Steele Street from 2014 until 2018. I also joined the SCDSB Parent Involvement Committee (PIC) that supports all school councils within the board in 2013. I was elected to chair this committee for three terms from 2014-2017. During these activities, I met and worked with many engaged parents and supportive board staff and was encouraged to continue my participation in my children’s education by running for School Trustee.
+                        qValues: |
+                            A trustee is responsible for identifying the needs and priorities of their community and for ensuring these are considered in the decisions that result in practical educational opportunities for students. I am dedicated to representing my constituents to the best of my ability, but I also understand that each decision is not wrapped in a bubble and I will have to consider each issue also from the perspective of how it relates to the entire board. I also recognize that I will not be able to make everyone happy all the time, but want to listen and try my best.
+                        qIssues: |
+                            I would not describe myself as an issues candidate as this tends to limit debate and collaboration especially if elected I will be one of twelve votes around the board table. I do not seek to be a trustee to “fix” the board or have an agenda of issues that I will tackle. I do believe that everyone should be working towards the shared goal of providing the best education for our children within the available funding and resources.
+                        qSexEd: |
+                            The 2015 curriculum was probably on the right track.
+                        qSedEdClarification: |
+                            I have read both the 2015 and 1998 Health and Physical Education Curriculum documents and I am not in favour of stepping back to a document written twenty years ago that does not serve the needs or deals with the realities of our children in 2018. As a member of the Steele Street School Council in 2014, I was part of the consultation process however flawed that resulted in the passing of 2015 Health and Physical Activity Curriculum, and I did not have a problem with my children being taught from it the last number of years. I believe that having and sharing the best information available now is better than trying to keep relevant and important information from our children that are growing up in 2018 and not twenty years ago.
+            'Gillian MacLean':
+                Display Name: 'Gillian MacLean'
+                Listing Name: 'MacLean, Gillian'
+                Votes: '2,211'
+                Percentage: '33.93'
+                Info:
+                    Phone: '705-737-2533'
+                    Email: 'gmaclean68@gmail.com'
+                    Facebook Page: 'https://facebook.com/Gillian-MacLean-School-Trustee-123-288472668548553/'
+                    Link:
+                        'Vote123MacleanTrustee.wordpress.com': 'https://vote123macleantrustee.wordpress.com/'
+                Survey:
+                    qWhy: |
+                        Trustees have the privilege and responsibility to use our voice to speak up for truth and for others to stand up and be strong in supporting our english public school students to achieve their goals. I continue to facilitate this crucial process.
+                    qValues: |
+                        Pro- Active Coaching: Leadership is not about being the best. Leadership is about making everyone else better. As a facilitator it is my goal to promote student achievement and well-being.
+                    qIssues: |
+                        The function of education is to grow thinkers. I want to build stronger transition planning and apprenticeships for students in grades 8 and 9, and high school to post secondary, to enable students to understand and plan their pathways for a future dominated by automation and the digital economy. We need to align resources and efficiencies to ensure we deliver programming that meets the students’ needs.
+                    qSexEd: |
+                        The 2015 curriculum was probably on the right track.
+                    qSexEdClarification: |
+                        The issues of consent, internet safety and texting, and gender identity and LGBQ and 2 spirit issues need to be addressed with parental input from constituents.
+            'Amanda Trinacty':
+                Display Name: 'Amanda Trinacty'
+                Listing Name: 'Trinacty, Amanda'
+                Votes: '1,328'
+                Percentage: '20.38'
+                Info:
+                    Phone: '705-331-7848'
+                    Email: 'amandatrinacty@hotmail.com'
+                    Facebook Page: 'https://facebook.com/amanda.trinacty'
+                Survey:
+                    qWhy: |
+                        I am submitting my candidacy for School Board Trustee to represent Wards one two and three. I believe that a School Board Trustees position is very important for a healthy community. Great schools take effort, they don’t happen by accident. It’s time for us to come together as a community to ensure our children’s future gets the advocacy it has waited for, and that OUR priorities set the agenda for how our schools and Community are served. I was once told, “if you don’t take action, then don’t expect change”. I am taking action to curate a better tomorrow for our community.
+                    qValues: |
+                        We need a full external review of the education funding formula, we are now still using a two-decade-old formula. When this formula was established it streamlined the grant system reducing them by 2/3rds. We need to create a modernized education formula and a better grant system. I believe it is important that we continue to push to have smaller class sizes, especially in kindergarten and grades 4 to 8. All students deserve every opportunity to reach their full potential and succeed personally and academically. I believe we need to re-evaluate the way our province does standardized testing. By reducing the EQAO to random sampling, for grades 3-5, we can cut back on our costs. We can allocate these funds to librarians, councillors and other teachers who provide instructions in the arts, health and physical education.
+                    qIssues: |
+                        I have made Barrie my family home for over 23 years. I have two beautiful children, my son who is in grade 2 and my daughter who is in grade one. When my son first began year 1 at his school, I was astonished just how small their playground area was for them. I knew if I wanted to make a difference I needed to join parent Council immediately. My son’s first year at school became my first year, of many, to be awarded the position of Chair of Parent Council. Although this was a new position for myself, being chair of the Opticianry Committee during my two college years was an excellent experience. Accomplishments during my first year as chair of the parent council include completely revamping the school’s playground area for the kindergartens, acquiring 20 new IPads at no cost, successfully obtained multiple financial grants, organized many free events and constructed numerous successful fundraisers. I also created strong, lasting relationships with our area’s parent involvement committee representative and our school nurse. Our school’s Parent Involvement Committee representative was a member of Kiwanis and she soon recruited me to join this amazing organization, that I still continue to reside with. I have been with Kiwanis for 3 years and I currently sit on the Allocations Committee with our chair Jennifer Lehman. Every year Kiwanis supports our local schools with over $400 in school supplies. Kiwanis also allocates funds each year to help schools obtain the necessary funds, for such things as their music program. During my second term chairing Parent Council, I continued to foster even more healthy, strong relationships within our community. One of these relationships was with Cathy Mills, program coordinator for Jumpstart. Cathy was able to pre-approve certain schools, within our wards, that reside in needy communities. This allowed us to help children from low-income families to join extracurricular activities. Since Cathy and I have partnered together, Jumpstart has received a record amount of applications. In order to provide funding for everyone, Jumpstart synergized with other local charity organizations who strived for the same goals. One of these organizations were ‘We are the Villagers’ (WATV). I have been with WATV for over a year now, as their event coordinator. WATV has made it their goal to make a difference in the life of a child today, under the mission statement “It takes a village to raise a child”. I truly believe schools are the foundation and heart of our community. My position, as your school board trustee, will be to ensure the school boards are accountable for parents, Guardians and local communities for Student Success and well-being.
+                    qSexEd: |
+                        The 2015 curriculum was probably on the right track.
+                    qSexEdClarification: |
+                        I do not support the recent cancellation of the 2015 sexual health and physical health education. I don’t agree that schools should be using the former sex-ed curriculum. It was written in 1998, making it now 20 years old. The old curriculum does not reference LGBTQ issues, same-sex marriage, cyberbullying or sexting. I believe these are relevant topics that need to be taught now. I read an article that the Ontario Progressive Conservatives will be writing a new sex-ed curriculum. I want the Conservatives to make this a priority and write the new curriculum as soon as possible. In the meantime, I believe we should be using the new curriculum, not the 1998 version, while we wait for the Conservatives to write their new version.
+            'Neli Trevisan':
+                Display Name: 'Neli Trevisan'
+                Listing Name: 'Trevisan, Neli'
+                Votes: '755'
+                Percentage: '11.59'
+                Info:
+                    Phone: '705-331-2634'
+                    Email: 'nelireginatrevisan@gmail.com'
+                    Twitter: 'https://twitter.com/neli_trevisan'
+                    Facebook Profile: 'https://facebook.com/neliregina.trevisan'
+                    Link:
+                        'NeliTrevisanTrustee.com/': 'https://nelitrevisantrustee.com/'
+                Survey:
+                    qWhy: |
+                        Representing my community at the School Board level by meeting with them, surveying educational needs and communicating them to the Board in order to put student support and success at the forefront of policies and procedures.
+                    qValues: |
+                        I believe in trustees being in touch with their communities, their strengths and needs in order to serve their student population in a relevant way.
+                    qIssues: |
+                        Positive school climate, student support and success.
+                    qSexEd: |
+                        The 2015 curriculum was probably on the right track.
+                    qSexEdClarification: |
+                        Use this if the answer above doesn’t quite describe what you think or isn’t worded very well.
+    'Public English trustee for wards 4, 5, 6':
+        Candidates:
+            'Beth Mouratidis':
+                Display Name: 'Beth Mouratidis'
+                Listing Name: 'Mouratidis, Beth'
+                Votes: '2,914'
+                Percentage: '54.23'
+                Info:
+                    Phone: '705-739-4739'
+                    Email: 'beth.mouratidis@yahoo.ca'
+                    Facebook Page: 'https://www.facebook.com/Bethfortrustee'
+                Survey:
+                    qWhy: |
+                        Having attended many meetings at the school board, I didn’t like the attitudes of many of the trustees. Parents and students need to be listened to. Trustees cannot always provide the answers parents/students want to hear, but they need to give the courtesy of active listening. I can do that.
+                    qValues: |
+                        I am fiscally conservative. I believe in having budgets and trying to keep within them. I have been involved with school issues for many years. I have had 2 children go through the public school system in Barrie. I have a facebook page entitled Beth for trustee. From there I do have a couple of newspaper articles showing my passion for school issues.
+                    qIssues: |
+                        Yes, I am passionate about the issue of school closings. My oldest went to Prince of Wales. As a taxpayer and parent, I could at least understand that it was a smaller school and there was enough space at other schools to accommodate the closure. However, when Barrie Central was closed, I got very involved. I do not believe schools should be closed for hundreds of students to be placed in portables. There is no way that Central should have closed before the new school was built. Despite promises from board members that the school would be open for students by Sept 2016, it isn’t even close to being ready. That is unacceptable for students who have been split up from their friends and warehoused in portables. I would also like to try and mend fences with the city of Barrie.
+                    qSexEd: |
+                        The 2015 curriculum was probably on the right track.
+                    qSexEdClarification: |
+                        I don’t think the 2015 curriculum was perfect as nothing is. However, it should not have been scrapped in its entirety. It could have been reworked for any minor issues.
+            'Mike Washburn':
+                Display Name: 'Mike Washburn'
+                Listing Name: 'Washburn, Mike'
+                Votes: '2,459'
+                Percentage: '45.77'
+                Notice: |
+                    Listing on ballot, but dropped out of the election.
+                Info:
+                    Phone:
+                        - '705-792-0371 (Home)'
+                        - '705-717-8304 (Business)'
+                    Email: 'mike@washburnforbarrie.com'
+                    Twitter: 'https://twitter.com/misterwashburn'
+                    Facebook Page: 'https://facebook.com/Washburn-for-Barrie-982346805247266/'
+                    Link:
+                        'WashburnForBarrie.com/': 'http://www.washburnforbarrie.com/'
+    'Public English trustee for wards 7, 8, 9, 10':
+        Candidates:
+            'Lisa-Marie Wilson':
+                Display Name: 'Lisa-Marie Wilson'
+                Listing Name: 'Wilson, Lisa-Marie'
+                Votes: '2,381'
+                Percentage: '38.37'
+                Info:
+                    Phone: '705-791-5954'
+                    Email: 'lisamarie@live.ca'
+                Survey:
+                    qWhy: |
+                        I wanted to contribute to my community by way of School Board Trustee and believe the timing was good for me.
+                    qValues: |
+                        I received my degree in Psychology from York University and my diploma in Social Service Work from Seneca College. I then began my professional career in public service working for the Ministry of Community & Social Services then the Ministry of Children & Youth Services and now currently with the Ministry of Community Safety & Correctional Services. My formal education and extensive professional training I believe have afforded me the skills required to represent the people of wards 7-10 along with my dedication, integrity, energy and passion. I promise to make myself accessible to listen to your concerns and be your voice bringing those forward to the school board. There are no issues like the sex education curriculum that I am not comfortable addressing on behalf of the people.
+                    qIssues: |
+                        I’m running for Simcoe County District School Board Trustee (Public) for Wards 7, 8, 9, and 10. Foremost I am a parent to two wonderful children. My oldest is attending Wilfrid Laurier University and my youngest will be returning for one last semester in high school after graduating this June. I have always been passionate about the well-being of children and youth and my personal and professional lives have reflected this passion. I plan to build on the current Board foundation by continuing to focus on keeping our children safe with a zero tolerance for all forms of bullying and preparing our children for the future emphasizing acceptance and diversity. Studies show that children can flourish in an environment where they feel accepted.
+                    qSexEd: |
+                        The 2015 curriculum was probably on the right track.
+                    qSexEdClarification: |
+                        The curriculum needs to reflect the static issues as well as the dynamic ones in sex education to ensure we are preparing our children to be successful in their future which is grounded in inclusivity and acceptance.
+            'Heidi MacNeil':
+                Display Name: 'Heidi MacNeil'
+                Listing Name: 'MacNeil, Heidi'
+                Votes: '1,441'
+                Percentage: '23.22'
+                Info:
+                    Phone: '705-436-5979'
+                    Email: 'kids2four@rogers.com'
+                Survey:
+                    qWhy: |
+                        I’m running because politics and education are my passion.
+                    qValues: |
+                        I think the first think that needs to be tackled is the reversal of the sex Ed curriculum. In this day and age we need a program that covers many Issues and works for all of our children. Next it would classroom sizes and I would love to work on bringing in a more learning based curriculum for our JK/SK classes. I think our biggest stumbling block will be the costs of these changes, and also there are those out there that like things just the way they are, and don’t adapt well to change. There are a lot of changes up and coming ie. new schools. I get excited about anything that is good for our children and is beneficial to an excellent learning environment. I will do my best as a Trustee to champion this for them. I’ve seen first hand the positive and negative issues that encompass us. I can promise you that if I’m fortunate enough to be elected, I will work my hardest to do what we are supposed to do and that is to provide the best learning system for all of our children.
+                    qIssues: |
+                        Classroom sizes, jk/SK curriculum
+                    qSexEd: |
+                        The 2015 curriculum was probably on the right track.
+                    qSexEdClarification: |
+                        There were some things in the new sex Ed curriculum that could have been changed but to drop the whole program without having another one ready to replace it was totally irresponsible.
+            'David Quigley':
+                Display Name: 'David Quigley'
+                Listing Name: 'Quigley, David'
+                Votes: '1,089'
+                Percentage: '17.55'
+                Info:
+                    Phone:
+                        - '705-728-7574 (Home)'
+                        - '416-729-9401 (Business)'
+                    Email: 'david_mj_quigley@hotmail.com'
+                    Twitter: 'https://twitter.com/quig23'
+                Survey:
+                    qWhy: |
+                        I am running for a very basic reason. Far too often we are represented by elected officials who are either inaccessible or who under represent our interests as constituents. Having had the opportunity to work with hard working and some not so hardworking elected officials, I have discovered that I possess the ambition, drive and open communication philosophy that will allow me to effectively represent our community on the issues that matter most.
+                    qValues: |
+                        I will vote for mayoral and council candidates who are passionate about fiscal responsibility and accountability. I expect the candidate getting my vote will understand the need to prioritize spending where it is needed most and to streamline spending in less essential areas. I expect my candidates to put students, families, safety and community 1st.
+                    qIssues: |
+                        School Safety is my number one priority. Students, teachers, parents, guardians, Administrative and support staff have a fundamental right to the safest school environment we can offer. I will work with the board, School officials and public safety partners to ensure we have the environment, robust policies, and community partnerships to ensure that our schools are safe places to learn, visit and work.
+                    qSexEd: |
+                        Reworking the 1998 curriculum is probably the right track.
+            'Derek Dath':
+                Display Name: 'Derek Dath'
+                Listing Name: 'Dath, Derek'
+                Votes: '816'
+                Percentage: '13.15'
+                Info:
+                    Phone: '647-238-2263 '
+                    Email: 'derek.dath@gmail.com'
+                    Facebook Page: 'https://facebook.com/DerekDathforSCDSBTrustee'
+                Survey:
+                    qWhy: |
+                        I’m running to have a voice and provide a voice for the community as their representative. I believe that if one wants change or action, they need to affect change or action and I personally can’t think of a better way than representing the community on the Board.
+                    qValues: |
+                        I am not affiliated with a political party. I tend to be centrist in my political views, meaning I believe in supporting social programs that benefit communities but in a way that is respectful to tax payers. I also believe that there is always a better (more productive, more effective, more efficient, less wasteful) way to do things and it is the responsibility of elected trustees to constantly demand of the boards we oversee to continuously improve.
+                    qIssues: |
+                        Equitable access to educational opportunities for all students in the Board. Public education is a foundation of our community and society. It works best when the opportunity to receive education is equitable throughout the community. Flawed ranking systems and poor school performance needs to be addressed while not ignoring high performing schools. Students require access to educational opportunities that meet their needs: Special needs resources, enrichment opportunities, and immersion programs. The economic and social realities we are faced with today means that we will have to do more with the funds we have, seeking efficiencies to support further growth rather than seeking more from tax payers.
+                    qSexEd: |
+                        The 2015 curriculum was probably on the right track.
+                    qSexEdClarification: |
+                        I think there is great risk when we allow politics to dictate curriculum. Curriculum design should be left to the domain of Education professionals and politics should be left to the domain of politicians (both with consultation, of course). By reverting to the 1998 curriculum, we are ignoring realities that young people face today and by doing so, we are not best serving students. I think the correct path would have been to leave the curriculum in place while developing an updated program that better addressed concerns. However, this is all in the past now and discussion or debate serves no productive purpose. I believe that in the best interests of students, it is on us to develop and implement a modern curriculum that is acceptable and addresses modern issues as quickly as possible.
+            'Ajmal Noushahi':
+                Display Name: 'Ajmal Noushahi'
+                Listing Name: 'Noushahi, Ajmal'
+                Votes: '479'
+                Percentage: '7.72'
+                Info:
+                    Phone: '705-795-9581'
+                    Email: 'noushahia@gmail.com'
+                    Twitter: 'https://twitter.com/ajmal4schools'
+                    Facebook Page: 'https://facebook.com/ajmalnoushahiforschools'
+                Survey:
+                    qWhy: |
+                        I have divers experience which i believe i can use if i elected to help the community
+                    qValues: |
+                        I am a university graduate, education was my profession for 15 years, I was founder/administrator of my small educational center, I served the GTA as school bus driver for 4 years, I was Barrie city bus driver for 10 years. I am an entrepreneur in most of my life I believe that all different experiences provide me such firsthand knowledge which I can use much better way than others. I am passionate to volunteer myself for the community for good cause.
+                    qIssues: |
+                        Presently there are few issues (1) sex ed (2) we need more schools and the class size should be smaller (3) to prevent/reduce bullying and cyber-bullying need more attention (4) the fresh high school graduates need more help to find their job career or to enroll in further education (5) safety of the students and school staff need more work
+                    qSexEd: |
+                        (no answer selected)
+                    qSexEdClarification: |
+                        I believe we cannot teach sex ed like we can teach Math, English, Science and other courses, I believe the love, relationship, friendship, patience, compassion and so much more that a mother or a father devote to such training for their child is not available in any classroom. therefore, we need to find some other ways by listening parents.
+    'Catholic trustee for wards 1, 2, 3, 4, 5':
+        Candidates:
+            'Nathaniel Brown':
+                Display Name: 'Nathaniel Brown'
+                Listing Name: 'Brown, Nathaniel'
+                Votes: '985'
+                Percentage: '44.55'
+                Info:
+                    Phone: '705-896-9326 '
+                    Email: 'natebtown@gmail.com'
+                    Facebook: 'Nathan Brown'
+            'Robert Matthew LeCollier':
+                Display Name: 'Robert Matthew LeCollier'
+                Listing Name: 'LeCollier, Robert Matthew'
+                Votes: '673'
+                Percentage: '30.44'
+                Info:
+                    Phone: 
+                        - '705-725-5505 (Campaign)'
+                        - '705-728-5509 (Business)'
+                        - '705-252-8307 (Home)'
+                    Email: 'lecollier1983@gmail.com'
+            'Paul Rasiulis':
+                Display Name: 'Paul Rasiulis'
+                Listing Name: 'Rasiulis, Paul'
+                Votes: '553'
+                Percentage: '25.01'
+                Info:
+                    Phone: '705-721-5740'
+                    Email: 'rasiulis@rogers.com'
+    'Catholic trustee for wards 6, 7, 8, 9, 10':
+        Candidates:
+            'Maria Hardie':
+                Display Name: 'Maria Hardie'
+                Listing Name: 'Hardie, Maria'
+                Votes: '1,299'
+                Percentage: '63.33'
+                Info:
+                    Phone:
+                        - '705-896-9395 (Campaign)'
+                        - '705-722-0741 (Home)'
+                    Email: 'hardie.maria@gmail.com'
+                    Link:
+                        'MariaHardie.com/': 'https://mariahardie.com/'
+                Survey:
+                    qWhy: |
+                        Being active in politics is one way to implement changes. I’m currently running for reelection for Catholic Trustee to be a voice for parents, students and staff at the board/decision making table. To continue to champion Catholic education, and promote academic excellence.
+                    qValues: |
+                        I have worked in a Catholic school setting for 22 years – both my children were educated and graduated from our catholic system – I have tremendous experience of how schools run and how the decisions at the Board level effect the schools. I believe that parents entrust their children to Catholic schools with the expectation that they will be socialized into our faith community in which the message of Jesus is central to instruction in all subject areas. I would like to make sure that these values are central to our schools.
+                    qIssues: |
+                        As a Catholic trustee I would continue to insist that all government curriculum guidelines are infused with philosophy and values consistent with the Catholic tradition. The curriculum comes from the Ministry but we need to make sure that it is presented to our children in the light of our Catholic values.
+                    qSexEd: |
+                        Reworking the 1998 curriculum is probably the right track.
+                    qSexEdClarification: |
+                        We are very blessed in the Catholic system that the issues being raised in the Health and Physical Education Curriculum are taught in the Family Life Program — which is part of the Religious Education Program. This program is approved by both the Ministry and the Bishops of Ontario. When sensitive topics, which are under review by the province, (which is taught in units 3 — and so in the spring), letters are sent home to parents advising them of the upcoming materials. That way parents can let their concerns be known, choose to pre-teach at home, or excuse the child during the lesson. This has been going on for years in the Catholic Board.
+            'Andrew Hall':
+                Display Name: 'Andrew Hall'
+                Listing Name: 'Hall, Andrew'
+                Votes: '577'
+                Percentage: '28.13'
+                Info:
+                    Phone: '705-795-1205'
+                    Email: 'alter.hall1812@gmail.com'
+            'Corey James Henderson':
+                Display Name: 'Corey James Henderson'
+                Listing Name: 'Henderson, Corey James'
+                Votes: '175'
+                Percentage: '8.53'
+                Info:
+                    Phone: '705-321-8419 '
+                    Email: 'coreyhenderson@gmail.com'
+    'Public French trustee for Sector 5':
+        Candidates:
+            'Guy Belcourt':
+                Display Name: 'Guy Belcourt'
+                Listing Name: 'Belcourt, Guy'
+                Votes: '65'
+                Percentage: 'N/A'
+                Info:
+                    Phone: '705-549-3877'
+                    Email: 'guy.belcourt@yahoo.com'
+            'Saveria Caruso':
+                Display Name: 'Saveria Caruso'
+                Listing Name: 'Caruso, Saveria'
+                Votes: '82'
+                Percentage: 'N/A'
+                Info:
+                    Phone:
+                        - '705-730-3639 (Campaign)'
+                        - '705-733-5244 (Home)'
+                    Email: 'garigue53@yahoo.com'
+            'Eric Lapointe':
+                Display Name: 'Eric Lapointe'
+                Listing Name: 'Lapointe, Eric'
+                Votes: '92'
+                Percentage: 'N/A'
+                Info:
+                    Phone: '705-241-8909 '
+                    Email: 'ericrlapointe@yahoo.com'
+    'Catholic French trustee for MonAvenir':
+        Candidates:
+            'Ryan Malenfant':
+                Display Name: 'Ryan Malenfant'
+                Listing Name: 'Malenfant, Ryan'
+                Votes: '40'
+                Percentage: 'N/A'
+            'Claire Thibideau':
+                Display Name: 'Claire Thibideau'
+                Listing Name: 'Thibideau, Claire'
+                Votes: '309'
+                Percentage: 'N/A'
+                Info:
+                    Phone: '705-309-7295'
+                    Email: 'claire24@live.ca'
+'2018-municipal-questions':
+    qWhy: &2018q1
+        Label: 'Why run for office?'
+        Question: 'Why are you running in politics, rather than voting for a candidate?'
+    qIssues: &2018q2
+        Label: 'Passionate issues?'
+        Question: 'Are there any issues you are particularly passionate about? They can be specific issues for this election, or lifelong passions for you personally?'
+    qValues: &2018q3
+        Label: 'Leanings?' # Values
+        Question: 'Trying to be brief, what do you think voters should know about your positions or leanings? How will you vote? Or at least, tell us a little about you. What would make them consider voting for you? Please be brief. This is meant to be light and basic. The page will link to your campaign pages/profiles.'
+    qTaxes: &2018q4
+        Label: 'Taxes vs Services and Infrastructure?'
+        Question: 'Everyone wants to pay less tax, but that certain infrastructure and services are needed to live in a beautiful and flourishing city. What is your key issue? (Multiple Choice)'
+        Clarification Label: 'Taxes vs Services and Infrastructure Clarification:'
+    qPot: &2018q5
+        Label: 'Pot Opt-Out?'
+        Question: 'Cities will be given a one-time opt out for having legal pot shops. What are your beliefs on this issue? (Multiple Choice)'
+        Clarification Label: 'Pot Opt-Out Clarification:'
+    qSexEd: &2018q6
+        Label: 'Sex Ed'
+        Question: 'Position on Sex Ed Curriculum (health education). (Multiple Choice)'
+        Clarification Label: 'Sex Ed Clarification:'
+'2016-municipal':
+    Info:
+        Name: '2016 Municipal Bi-election'
+        Results: true
+        Listing: false
+        Overview: false
+        Contents: false
+    'Ward ':
+        Eligible Voters: '9,180'
+        Voter Turnout: '17.5**'
+        Candidates:
+            'Jane Dewar':
+                Display Name: 'Jane Dewar'
+                Listing Name: 'Dewar, Jane'
+                Votes: '196'
+                Percentage: '12.20'
+            'Elena Arruda':
+                Display Name: 'Elena Arruda'
+                Listing Name: 'Arruda, Elena'
+                Votes: '38'
+                Percentage: '2.36'
+            'Ram Faerber':
+                Display Name: 'Ram Faerber'
+                Listing Name: 'Faerber, Ram'
+                Votes: '12'
+                Percentage: '0.75'
+            'Bonnie-Lyn Gow':
+                Display Name: 'Bonnie-Lyn Gow'
+                Listing Name: 'Gow, Bonnie-Lyn'
+                Votes: '2'
+                Percentage: '0.12'
+            'Gary Harvey':
+                Display Name: 'Gary Harvey'
+                Listing Name: 'Harvey, Gary'
+                Votes: '222'
+                Percentage: '13.81'
+            'Jim Hosick':
+                Display Name: 'Jim Hosick'
+                Listing Name: 'Hosick, Jim'
+                Votes: '122'
+                Percentage: '7.59'
+            'Doug Jure':
+                Display Name: 'Doug Jure'
+                Listing Name: 'Jure, Doug'
+                Votes: '108'
+                Percentage: '6.72'
+            'Chris McElroy':
+                Display Name: 'Chris McElroy'
+                Listing Name: 'McElroy, Chris'
+                Votes: '13'
+                Percentage: '0.81'
+            'Mike Montague':
+                Display Name: 'Mike Montague'
+                Listing Name: 'Montague, Mike'
+                Votes: '109'
+                Percentage: '6.78'
+            'Andrew Prince':
+                Display Name: 'Andrew Prince'
+                Listing Name: 'Prince, Andrew'
+                Votes: '362'
+                Percentage: '22.53'
+            'Craig Ripley':
+                Display Name: 'Craig Ripley'
+                Listing Name: 'Ripley, Craig'
+                Votes: '307'
+                Percentage: '19.10'
+            'Darren Roskam':
+                Display Name: 'Darren Roskam'
+                Listing Name: 'Roskam, Darren'
+                Votes: '9'
+                Percentage: '0.56'
+            'Randy H. Starr':
+                Display Name: 'Randy H. Starr'
+                Listing Name: 'Starr, Randy H.'
+                Votes: '107'
+                Percentage: '6.66'
+'2014-municipal':
+    Info:
+        Name: '2014 Municipal Election'
+        Results: true
+        Listing: true
+        Contents: true
+    'Mayor':
+        Eligible Voters: '90,089*'
+        Voter Turnout: '31.75*'
+        Candidates:
+            'Jeff Lehman':
+                Display Name: 'Jeff Lehman'
+                Listing Name: 'Lehman, Jeff'
+                Votes: '26,385'
+                Percentage: '92.25'
+                Info:
+                    Address: 'Barrie (16 Valley Drive, L4N 4R9)'
+                    Phone: '705-716-5444'
+                    Email: 'info@jefflehman.ca'
+                    Twitter: 'https://twitter.com/4more4jeff'
+                    Link:
+                        'JeffLehman.ca': 'http://www.jefflehman.ca'
+            'Ram Faerber':
+                Display Name: 'Ram Faerber'
+                Listing Name: 'Faerber, Ram'
+                Votes: '1,181'
+                Percentage: '04.13'
+                Info:
+                    Address: 'Barrie (73 Birchwood Drive, L4M 6X5)'
+                    Phone:
+                        - '705-726-4605 (Home)'
+                        - '705-721-9492 (Business)'
+                    Email: 'marzena.milczach@hotmail.com'
+            'Zachary Gillespie-Rogers':
+                Display Name: 'Zachary Gillespie-Rogers'
+                Listing Name: 'Rogers, Zachary Gillespie'
+                Votes: '533'
+                Percentage: '01.86'
+                Info:
+                    Email: 'candidatezach@gmail.com'
+            'Ray Mawhinney':
+                Display Name: 'Ray Mawhinney'
+                Listing Name: 'Mawhinney, Ray'
+                Votes: '502'
+                Percentage: '01.76'
+                Info:
+                    Address: 'Barrie (L4N 6Y3)'
+                    Email: 'workingforyou@bell.net'
+                    Facebook: 'RayforBarrieMayor'
+                    Link:
+                        'RayMawhinney.com': 'https://www.facebook.com/www.raymawhinney.com'
+    'Councillor, Ward 1':
+        Eligible Voters: '9,735*'
+        Voter Turnout: '33.14*'
+        Candidates:
+            'Bonnie Ainsworth':
+                Display Name: 'Bonnie Ainsworth'
+                Listing Name: 'Ainsworth, Bonnie'
+                Votes: '2,028'
+                Percentage: '62.86'
+                Info:
+                    Phone: '705-725-9002'
+                    Email: 'bonnie4ward1@gmail.com'
+                    Link:
+                        'BonnieWorks4You.com': 'http://www.bonnieworks4you.com'
+            'Clare Riepma':
+                Display Name: 'Clare Riepma'
+                Listing Name: 'Riepma, Clare'
+                Votes: '1,198'
+                Percentage: '37.14'
+                Info:
+                    Address: 'Barrie (220 Kempenfelt Dr., L4M 1C4)'
+                    Phone:
+                        - '705-737-1080 (Home)'
+                        - '416-346-8258 (Business)'
+                    Email: 'clare@voteforclare.ca'
+                    Link:
+                        'VoteForClare.ca': 'http://www.voteforclare.ca'
+                    Twitter: 'https://twitter.com/clareriepma'
+    'Councillor, Ward 2':
+        Eligible Voters: '11,619* '
+        Voter Turnout: '34.2*'
+        Candidates:
+            'Steve Jones':
+                Display Name: 'Steve Jones'
+                Listing Name: 'Jones, Steve'
+                Votes: '1,227'
+                Percentage: '30.88'
+                Info:
+                    Address: 'Barrie (411-33 Ellen Street, L4N 6E9)'
+                    Phone:
+                        - '705-309-7684 (Home)'
+                        - '705-726-6331 ext. 8545 (Business)'
+                    Email: 'info@jonesforward2.com'
+                    Link:
+                        'JonesForWard2.com': 'http://www.jonesforward2.com'
+                    Twitter: 'https://twitter.com/sjones_barrie'
+                    Facebook: 'Jones For Ward 2 Barrie'
+            'Rose Romita':
+                Display Name: 'Rose Romita'
+                Listing Name: 'Romita, Rose'
+                Votes: '1,256'
+                Percentage: '31.61'
+                Info:
+                    Address: 'Barrie (45 Glenwood Drive, L4N 1R3)'
+                    Phone: '705-722-7763 (Business)'
+                    Email: 'info@roseromita.com'
+                    Link:
+                        'RoseRomita.com': 'http://www.roseromita.com'
+                    Facebook: 'roseromitaforward2'
+            'James McVeigh':
+                Display Name: 'James McVeigh'
+                Listing Name: 'McVeigh, James'
+                Votes: '1,119'
+                Percentage: '28.16'
+                Info:
+                    Address: 'Barrie (38 Brock Street, L4N 2L7)'
+                    Phone:
+                        - '705-716-4506 (Cell)'
+                        - '705-500-4374 (Campaign)'
+                    Email: 'office@jtmcveigh.ca'
+                    Twitter: 'https://twitter.com/mcveighknowsbarrie'
+                    Facebook: 'mcveighknowsbarrie'
+                    Link:
+                        'JTMcVeigh.ca': 'http://www.jtmcveigh.ca'
+            'Barb Stuhlemmer':
+                Display Name: 'Barb Stuhlemmer'
+                Listing Name: 'Stuhlemmer, Barb'
+                Votes: '317'
+                Percentage: '07.98'
+                Info:
+                    Address: 'Barrie ()'
+                    Phone: '705-728-7801 (Business)'
+                    Email: 'barbforward2@gmail.com'
+                    Twitter: 'https://twitter.com/BarbForWard2'
+                    Facebook: 'Barbforcouncillor'
+                    Link:
+                        'barbforward2.com': 'http://www.barbforward2.com'
+            'Austin Tyler Genge':
+                Display Name: 'Austin Tyler Genge'
+                Listing Name: 'Genge, Austin Tyler'
+                Votes: '55'
+                Percentage: '1.38'
+                Info:
+                    Address: 'Barrie (104 Queen Street, L4M 1Z5)'
+                    Phone: '705-220-5012 (Home)'
+                    Email: 'tyge985@gmail.com'
+                    Twitter: 'https://twitter.com/AustinTGenge'
+                    Link:
+                        'strikingly.com/voteaustin': 'http://www.strikingly.com/voteaustin'
+    'Councillor, Ward 3':
+        Eligible Voters: '7,848*'
+        Voter Turnout: '32.45*'
+        Candidates:
+            'Doug Shipley':
+                Display Name: 'Doug Shipley'
+                Listing Name: 'Shipley, Doug'
+                Votes: '2,060'
+                Percentage: '80.88'
+                Info:
+                    Phone: '705-720-2330 (Campaign)'
+                    Email: 'contact@dshipley.ca'
+                    Link:
+                        'dougshipley.ca': 'http://www.dougshipley.ca'
+            'Ross Edwin Wuerth':
+                Display Name: 'Ross Edwin Wuerth'
+                Listing Name: 'Wuerth, Ross Edwin'
+                Votes: '317'
+                Percentage: '12.45'
+                Info:
+                    Address: 'Barrie (23 Stollar Blvd., L4M 6N7)'
+                    Phone: '416-562-5088 (Campaign)'
+                    Email: 'ross.wuerth@gmail.com'
+                    Link:
+                        'rosswuerth.com': 'http://www.rosswuerth.com'
+                    Twitter: 'https://twitter.com/rosswuerth'
+            'Ken Parsons':
+                Display Name: 'Ken Parsons'
+                Listing Name: 'Parsons, Ken'
+                Votes: '170'
+                Percentage: '06.67'
+                Info:
+                    Phone: '705-279-5154 (Campaign)'
+                    Email: 'ken4ward3@outlook.com'
+    'Councillor, Ward 4 ':
+        Eligible Voters: '9,033*'
+        Voter Turnout: '35.29*'
+        Candidates:
+            'Barry Ward':
+                Display Name: 'Barry Ward'
+                Listing Name: 'Ward, Barry'
+                Votes: '1,420'
+                Percentage: '44.54'
+                Info:
+                    Address: 'Barrie (114 Oren Blvd, L4N 4M2)'
+                    Phone: '705-737-0318 (Home)'
+                    Email: 'barryward4barrieward4@gmail.com '
+                    Link:
+                        'barryward.ca': 'http://www.barryward.ca'
+            'Caroline Smith':
+                Display Name: 'Caroline Smith'
+                Listing Name: 'Smith, Caroline'
+                Votes: '1,013'
+                Percentage: '31.78'
+                Info:
+                    Address: 'Barrie (11 Letitia Street, L4N 1N7)'
+                    Phone: '705-735-1939 (Home)'
+                    Email: 'caroline.smith@rogers.com'
+                    Twitter: 'https://twitter.com/Smith_Caroline'
+                    Link:
+                        'csmith.ca': 'http://www.csmith.ca'
+            'Justin Heran':
+                Display Name: 'Justin Heran'
+                Listing Name: 'Heran, Justin'
+                Votes: '659'
+                Percentage: '20.67'
+                Info:
+                    Address: 'Barrie (453 Ferndale Dr N, L4N 7X7)'
+                    Phone: '705-791-2001 (Campaign)'
+                    Email: 'justinheran@gmail.com'
+                    Twitter: 'https://twitter.com/justinheran'
+                    Link:
+                        'justinheran.ca': 'http://www.justinheran.ca'
+            'Adrian Bowles':
+                Display Name: 'Adrian Bowles'
+                Listing Name: 'Bowles, Adrian'
+                Votes: '96'
+                Percentage: '03.01'
+                Info:
+                    Address: 'Barrie (80 Livingstone St W, L4N 7J1)'
+                    Email: 'adrianbarrie@hotmail.com'
+                    Link:
+                        'adrianforbarrie.com': 'http://www.adrianforbarrie.com'
+    'Councillor, Ward 5':
+        Eligible Voters: '8,286*'
+        Voter Turnout: '32.79*'
+        Candidates:
+            'Peter Silveira':
+                Display Name: 'Peter Silveira'
+                Listing Name: 'Silveira, Peter'
+                Votes: '1,188'
+                Percentage: '43.72'
+            'Mike Montague':
+                Display Name: 'Mike Montague'
+                Listing Name: 'Montague, Mike'
+                Votes: '462'
+                Percentage: '17.00'
+            'Micheline Piotrowski':
+                Display Name: 'Micheline Piotrowski'
+                Listing Name: 'Piotrowski, Micheline'
+                Votes: '425'
+                Percentage: '15.64'
+            'Robert Thomson':
+                Display Name: 'Robert Thomson'
+                Listing Name: 'Thomson, Robert'
+                Votes: '311'
+                Percentage: '11.45'
+            'Harry Ahmed':
+                Display Name: 'Harry Ahmed'
+                Listing Name: 'Ahmed, Harry'
+                Votes: '231'
+                Percentage: '08.50'
+            'Yvonne Heath':
+                Display Name: 'Yvonne Heath'
+                Listing Name: 'Heath, Yvonne'
+                Votes: '100'
+                Percentage: '03.68'
+    'Councillor, Ward 6':
+        Eligible Voters: '8,986*'
+        Candidates:
+            'Michael Prowse':
+                Display Name: 'Michael Prowse'
+                Listing Name: 'Prowse, Michael'
+                Votes: 'ACCLAIMED'
+                Percentage: 'N/A'
+    
+    'Councillor, Ward 7':
+        Eligible Voters: '9,086*'
+        Voter Turnout: '26*'
+        Candidates:
+            'John Brassard':
+                Display Name: 'John Brassard'
+                Listing Name: 'Brassard, John'
+                Votes: '1,779'
+                Percentage: '75.25'
+            'Lincoln Bayda':
+                Display Name: 'Lincoln Bayda'
+                Listing Name: 'Bayda, Lincoln'
+                Votes: '252'
+                Percentage: '10.66'
+            'Brandon Vieira':
+                Display Name: 'Brandon Vieira'
+                Listing Name: 'Vieira, Brandon'
+                Votes: '208'
+                Percentage: '08.80'
+            'Andrew Barranger':
+                Display Name: 'Andrew Barranger'
+                Listing Name: 'Barranger, Andrew'
+                Votes: '85'
+                Percentage: '03.60'
+            'Richard Crocitto':
+                Display Name: 'Richard Crocitto'
+                Listing Name: 'Crocitto, Richard'
+                Votes: '40'
+                Percentage: '01.69'
+    'Councillor, Ward 8':
+        Eligible Voters: '10,959*'
+        Voter Turnout: '31.27*'
+        Candidates:
+            'Arif Khan':
+                Display Name: 'Arif Khan'
+                Listing Name: 'Khan, Arif'
+                Votes: '2,021'
+                Percentage: '58.97'
+            'Julia Gasewicz':
+                Display Name: 'Julia Gasewicz'
+                Listing Name: 'Gasewicz, Julia'
+                Votes: '760'
+                Percentage: '22.18'
+            'Mike McFarthing':
+                Display Name: 'Mike McFarthing'
+                Listing Name: 'McFarthing, Mike'
+                Votes: '438'
+                Percentage: '12.78'
+            'Micheline Robichaud':
+                Display Name: 'Micheline Robichaud'
+                Listing Name: 'Robichaud, Micheline'
+                Votes: '177'
+                Percentage: '05.16'
+            'Ghulam Jilani':
+                Display Name: 'Ghulam Jilani'
+                Listing Name: 'Jilani, Ghulam'
+                Votes: '31'
+                Percentage: '00.90'
+    'Councillor, Ward 9':
+        Eligible Voters: '6,097*'
+        Voter Turnout: '30.72*'
+        Candidates:
+            'Sergio Morales':
+                Display Name: 'Sergio Morales'
+                Listing Name: 'Morales, Sergio'
+                Votes: '967'
+                Percentage: '51.63'
+            'Brian H. Jackson':
+                Display Name: 'Brian H. Jackson'
+                Listing Name: 'Jackson, Brian H.'
+                Votes: '811'
+                Percentage: '43.30'
+            'Jason MacLellan':
+                Display Name: 'Jason MacLellan'
+                Listing Name: 'MacLellan, Jason'
+                Votes: '95'
+                Percentage: '05.07'
+    'Councillor, Ward 10':
+        Eligible Voters: '8,440*'
+        Voter Turnout: '33.03*'
+        Candidates:
+            'Mike McCann':
+                Display Name: 'Mike McCann'
+                Listing Name: 'McCann, Mike'
+                Votes: '1,303'
+                Percentage: '46.74'
+            'Doug Jure':
+                Display Name: 'Doug Jure'
+                Listing Name: 'Jure, Doug'
+                Votes: '706'
+                Percentage: '25.32'
+            'Chris Forde':
+                Display Name: 'Chris Forde'
+                Listing Name: 'Forde, Chris'
+                Votes: '330'
+                Percentage: '11.84'
+            'Graham Allary':
+                Display Name: 'Graham Allary'
+                Listing Name: 'Allary, Graham'
+                Votes: '298'
+                Percentage: '10.69'
+            'Paolo Fabrizio':
+                Display Name: 'Paolo Fabrizio'
+                Listing Name: 'Fabrizio, Paolo'
+                Votes: '151'
+                Percentage: '05.42'
+    'Member, Conseil scolaire de district catholique Centre-Sud (#64)':
+        Candidates:
+            'Donald Blais':
+                Display Name: 'Donald Blais'
+                Listing Name: 'Blais, Donald'
+                Votes: '879'
+                Percentage: '64.54'
+            'Kyna Sivret':
+                Display Name: 'Kyna Sivret'
+                Listing Name: 'Sivret, Kyna'
+                Votes: '483'
+                Percentage: '35.46'
+    'Member, Conseil scolaire Viamonde (formerly Conseil scolaire de district du Centre Sud-Ouest), Sector 5':
+        Candidates:
+            'Guy Belcourt':
+                Display Name: 'Guy Belcourt'
+                Listing Name: 'Belcourt, Guy'
+                Votes: '515'
+                Percentage: '50.05'
+            'Eric R. Lapointe':
+                Display Name: 'Eric R. Lapointe'
+                Listing Name: 'Lapointe, Eric R.'
+                Votes: '514'
+                Percentage: '49.95'
+    'Member, Simcoe County District School Board, Representing Wards 1, 2, 3':
+        Candidates:
+            'Kathleen Aikins':
+                Display Name: 'Kathleen Aikins'
+                Listing Name: 'Aikins, Kathleen'
+                Votes: '2,394'
+                Percentage: '33.71'
+            'Suzanne Ley':
+                Display Name: 'Suzanne Ley'
+                Listing Name: 'Ley, Suzanne'
+                Votes: '2,198'
+                Percentage: '30.95'
+            'Paul Archer':
+                Display Name: 'Paul Archer'
+                Listing Name: 'Archer, Paul'
+                Votes: '1,812'
+                Percentage: '25.51'
+            'Stephen Donkers':
+                Display Name: 'Stephen Donkers'
+                Listing Name: 'Donkers, Stephen'
+                Votes: '698'
+                Percentage: '09.83'
+    
+    'Member, Simcoe County District School Board, Representing Wards 4, 5, 6':
+        Candidates:
+            'Krista Mayne':
+                Display Name: 'Krista Mayne'
+                Listing Name: 'Mayne, Krista'
+                Votes: '2,690'
+                Percentage: '47.57'
+            'Katherine L. Koculym':
+                Display Name: 'Katherine L. Koculym'
+                Listing Name: 'Koculym, Katherine L.'
+                Votes: '1,798'
+                Percentage: '31.79'
+            'Steven George Knuff':
+                Display Name: 'Steven George Knuff'
+                Listing Name: 'Knuff, Steven George'
+                Votes: '1,167'
+                Percentage: '20.64'
+    
+    'Member, Simcoe County District School Board, Representing Wards 7, 8, 9, 10':
+        Candidates:
+            'Jennifer Lynn Cameron':
+                Display Name: 'Jennifer Lynn Cameron'
+                Listing Name: 'Cameron, Jennifer Lynn'
+                Votes: '2,488'
+                Percentage: '35.50'
+            'Christine Williams':
+                Display Name: 'Christine Williams'
+                Listing Name: 'Williams, Christine'
+                Votes: '1,677'
+                Percentage: '23.93'
+            'Jessica McConnell':
+                Display Name: 'Jessica McConnell'
+                Listing Name: 'McConnell, Jessica'
+                Votes: '1,356'
+                Percentage: '19.35'
+            'Keith P. Rimmer':
+                Display Name: 'Keith P. Rimmer'
+                Listing Name: 'Rimmer, Keith P.'
+                Votes: '795'
+                Percentage: '11.34'
+            'Corey Wall':
+                Display Name: 'Corey Wall'
+                Listing Name: 'Wall, Corey'
+                Votes: '692'
+                Percentage: '09.87'
+    
+    'Member, Simcoe Muskoka Catholic District School Board, Representing Wards 1, 2, 3, 4, 5':
+        Candidates:
+            'Connie Positano':
+                Display Name: 'Connie Positano'
+                Listing Name: 'Positano, Connie'
+                Votes: '1,579'
+                Percentage: '65.71'
+            'Nathan Caldwell':
+                Display Name: 'Nathan Caldwell'
+                Listing Name: 'Caldwell, Nathan'
+                Votes: '824'
+                Percentage: '34.29'
+    
+    'Member, Simcoe Muskoka Catholic District School Board, Representing Wards 6, 7, 8, 9, 10':
+        Candidates:
+            'Maria Hardie':
+                Display Name: 'Maria Hardie'
+                Listing Name: 'Hardie, Maria'
+                Votes: 'ACCLAIMED'
+                Percentage: 'N/A'
+'2010-municipal':
+    Info:
+        Name: '2010 Municipal Election'
+        Results: true
+        Listing: false
+        Overview: false
+        Contents: false
+    'Mayoral race':
+        Candidates:
+            'Jeff Lehman':
+                Display Name: 'Jeff Lehman'
+                Listing Name: 'Lehman, Jeff'
+                Votes: '13,562'
+                Percentage: '39.2'
+            'Joe Tascona':
+                Display Name: 'Joe Tascona'
+                Listing Name: 'Tascona, Joe'
+                Votes: '9,650'
+                Percentage: '27.9'
+            'Rob Hamilton':
+                Display Name: 'Rob Hamilton'
+                Listing Name: 'Hamilton, Rob'
+                Votes: '5,140'
+                Percentage: '14.8'
+            'Mike Ramsay':
+                Display Name: 'Mike Ramsay'
+                Listing Name: 'Ramsay, Mike'
+                Votes: '4,507'
+                Percentage: '13'
+            'David Aspden (X)':
+                Display Name: 'David Aspden (X)'
+                Listing Name: '), David Aspden ('
+                Votes: '1,249'
+                Percentage: '3.6'
+            'Harry Ahmed':
+                Display Name: 'Harry Ahmed'
+                Listing Name: 'Ahmed, Harry'
+                Votes: '304'
+                Percentage: '0.8'
+            'Carl Hauck':
+                Display Name: 'Carl Hauck'
+                Listing Name: 'Hauck, Carl'
+                Votes: '115'
+                Percentage: '0.4'
+            'Darren Roskam':
+                Display Name: 'Darren Roskam'
+                Listing Name: 'Roskam, Darren'
+                Votes: '68'
+                Percentage: '0.3'
+'2006-municipal':
+    Info:
+        Name: '2006 Municipal Election'
+        Results: true
+        Listing: false
+        Overview: false
+        Contents: false
+    'Mayoral race':
+        Source: 'https://en.wikipedia.org/wiki/Ontario_municipal_elections,_2006#Barrie'
+        Candidates:
+            'Dave Aspden':
+                Display Name: 'Dave Aspden'
+                Listing Name: 'Aspden, Dave'
+                Votes: '14,616'
+                Percentage: '50.3'
+            'Robert J. Hamilton':
+                Display Name: 'Robert J. Hamilton'
+                Listing Name: 'Hamilton, Robert J.'
+                Votes: '12,175'
+                Percentage: '41.9'
+            'Kevin Harrod':
+                Display Name: 'Kevin Harrod'
+                Listing Name: 'Harrod, Kevin'
+                Votes: '2,244'
+                Percentage: '7.73'
+    'Ward 1':
+        Source: 'https://en.wikipedia.org/wiki/Ontario_municipal_elections,_2006#Barrie'
+        Candidates:
+            'Mike Ramsay':
+                Display Name: 'Mike Ramsay'
+                Listing Name: 'Ramsay, Mike'
+                Votes: '2226'
+                Percentage: '48.0'
+            'Adam Smith':
+                Display Name: 'Adam Smith'
+                Listing Name: 'Smith, Adam'
+                Votes: '1657'
+                Percentage: '35.7'
+            'Andrew Zyp':
+                Display Name: 'Andrew Zyp'
+                Listing Name: 'Zyp, Andrew'
+                Votes: '254'
+                Percentage: '5.47'
+            'Andrea Butcher-Milne':
+                Display Name: 'Andrea Butcher-Milne'
+                Listing Name: 'Milne, Andrea Butcher'
+                Votes: '223'
+                Percentage: '4.80'
+            'James Wallace':
+                Display Name: 'James Wallace'
+                Listing Name: 'Wallace, James'
+                Votes: '150'
+                Percentage: '3.23'
+            'Danielle Laundry':
+                Display Name: 'Danielle Laundry'
+                Listing Name: 'Laundry, Danielle'
+                Votes: '104'
+                Percentage: '2.24'
+            'Dwight Robbins':
+                Display Name: 'Dwight Robbins'
+                Listing Name: 'Robbins, Dwight'
+                Votes: '28'
+                Percentage: '0.60'
+    'Ward 2':
+        Source: 'https://en.wikipedia.org/wiki/Ontario_municipal_elections,_2006#Barrie'
+        Candidates:
+            'Jeff Lehman':
+                Display Name: 'Jeff Lehman'
+                Listing Name: 'Lehman, Jeff'
+                Votes: '1877'
+                Percentage: '50.0'
+            'Connie Positano':
+                Display Name: 'Connie Positano'
+                Listing Name: 'Positano, Connie'
+                Votes: '811'
+                Percentage: '21.6'
+            'Sean Elliott':
+                Display Name: 'Sean Elliott'
+                Listing Name: 'Elliott, Sean'
+                Votes: '749'
+                Percentage: '19.9'
+            'Todd Tuckey':
+                Display Name: 'Todd Tuckey'
+                Listing Name: 'Tuckey, Todd'
+                Votes: '289'
+                Percentage: '9.69'
+            'Darren Roskam':
+                Display Name: 'Darren Roskam'
+                Listing Name: 'Roskam, Darren'
+                Votes: '30'
+                Percentage: '0.799'
+    'Ward 3':
+        Source: 'https://en.wikipedia.org/wiki/Ontario_municipal_elections,_2006#Barrie'
+        Candidates:
+            'Rodney Jackson':
+                Display Name: 'Rodney Jackson'
+                Listing Name: 'Jackson, Rodney'
+                Votes: '1197'
+                Percentage: '48.3'
+            'Bill Garland':
+                Display Name: 'Bill Garland'
+                Listing Name: 'Garland, Bill'
+                Votes: '878'
+                Percentage: '35.4'
+            'Darcy Murray':
+                Display Name: 'Darcy Murray'
+                Listing Name: 'Murray, Darcy'
+                Votes: '271'
+                Percentage: '10.9'
+            'Jason A. Krynicki':
+                Display Name: 'Jason A. Krynicki'
+                Listing Name: 'Krynicki, Jason A.'
+                Votes: '131'
+                Percentage: '5.29'
+    'Ward 4':
+        Source: 'https://en.wikipedia.org/wiki/Ontario_municipal_elections,_2006#Barrie'
+        Candidates:
+            'Barry Ward':
+                Display Name: 'Barry Ward'
+                Listing Name: 'Ward, Barry'
+                Votes: '1178'
+                Percentage: '48.0'
+            'Leonard Bugeja':
+                Display Name: 'Leonard Bugeja'
+                Listing Name: 'Bugeja, Leonard'
+                Votes: '615'
+                Percentage: '25.1'
+            'Denise Dicks':
+                Display Name: 'Denise Dicks'
+                Listing Name: 'Dicks, Denise'
+                Votes: '383'
+                Percentage: '15.6'
+            'Scott Gorry':
+                Display Name: 'Scott Gorry'
+                Listing Name: 'Gorry, Scott'
+                Votes: '220'
+                Percentage: '8.97'
+            'Peter Simpson':
+                Display Name: 'Peter Simpson'
+                Listing Name: 'Simpson, Peter'
+                Votes: '57'
+                Percentage: '2.32'
+    'Ward 5':
+        Source: 'https://en.wikipedia.org/wiki/Ontario_municipal_elections,_2006#Barrie'
+        Candidates:
+            'Lynn Strachan (X)':
+                Display Name: 'Lynn Strachan (X)'
+                Listing Name: '), Lynn Strachan ('
+                Votes: '1293'
+                Percentage: '35.4'
+            'Peter Silveira':
+                Display Name: 'Peter Silveira'
+                Listing Name: 'Silveira, Peter'
+                Votes: '1214'
+                Percentage: '33.2'
+            'Kimberley Sweeney-Hyatt':
+                Display Name: 'Kimberley Sweeney-Hyatt'
+                Listing Name: 'Hyatt, Kimberley Sweeney'
+                Votes: '1149'
+                Percentage: '31.4'
+    'Ward 6':
+        Source: 'https://en.wikipedia.org/wiki/Ontario_municipal_elections,_2006#Barrie'
+        Candidates:
+            'Michael Prowse (X)':
+                Display Name: 'Michael Prowse (X)'
+                Listing Name: '), Michael Prowse ('
+                Votes: '1539'
+                Percentage: '73.7'
+            'Daniel Gary Predie, Sr.':
+                Display Name: 'Daniel Gary Predie, Sr.'
+                Listing Name: '., Daniel Gary Predie, S'
+                Votes: '370'
+                Percentage: '17.7'
+            'Matthew McErlean':
+                Display Name: 'Matthew McErlean'
+                Listing Name: 'McErlean, Matthew'
+                Votes: '180'
+                Percentage: '8.62'
+    'Ward 7':
+        Source: 'https://en.wikipedia.org/wiki/Ontario_municipal_elections,_2006#Barrie'
+        Candidates:
+            'John Brassard':
+                Display Name: 'John Brassard'
+                Listing Name: 'Brassard, John'
+                Votes: '1074'
+                Percentage: '52.7'
+            'Steve Trotter (X)':
+                Display Name: 'Steve Trotter (X)'
+                Listing Name: '), Steve Trotter ('
+                Votes: '899'
+                Percentage: '44.1'
+            'Kirk Duffin':
+                Display Name: 'Kirk Duffin'
+                Listing Name: 'Duffin, Kirk'
+                Votes: '66'
+                Percentage: '3.24'
+    'Ward 8':
+        Source: 'https://en.wikipedia.org/wiki/Ontario_municipal_elections,_2006#Barrie'
+        Candidates:
+            'Jerry Moore (X)':
+                Display Name: 'Jerry Moore (X)'
+                Listing Name: '), Jerry Moore ('
+                Votes: '1012'
+                Percentage: '44.3'
+            'Michael Hardie':
+                Display Name: 'Michael Hardie'
+                Listing Name: 'Hardie, Michael'
+                Votes: '705'
+                Percentage: '30.9'
+            'Stewart McBoyle':
+                Display Name: 'Stewart McBoyle'
+                Listing Name: 'McBoyle, Stewart'
+                Votes: '566'
+                Percentage: '24.8'
+    'Ward 9':
+        Source: 'https://en.wikipedia.org/wiki/Ontario_municipal_elections,_2006#Barrie'
+        Candidates:
+            'Andrew Prince':
+                Display Name: 'Andrew Prince'
+                Listing Name: 'Prince, Andrew'
+                Votes: '1251'
+                Percentage: '50.2'
+            'Kevin LePage (X)':
+                Display Name: 'Kevin LePage (X)'
+                Listing Name: '), Kevin LePage ('
+                Votes: '1107'
+                Percentage: '44.4'
+            'Leslie Fox':
+                Display Name: 'Leslie Fox'
+                Listing Name: 'Fox, Leslie'
+                Votes: '134'
+                Percentage: '5.38'
+    'Ward 10':
+        Source: 'https://en.wikipedia.org/wiki/Ontario_municipal_elections,_2006#Barrie'
+        Candidates:
+            'Alex Nuttall':
+                Display Name: 'Alex Nuttall'
+                Listing Name: 'Nuttall, Alex'
+                Votes: '1398'
+                Percentage: '45.2'
+            'Alison Eadie':
+                Display Name: 'Alison Eadie'
+                Listing Name: 'Eadie, Alison'
+                Votes: '566'
+                Percentage: '18.3'
+            'Ann Hoggarth':
+                Display Name: 'Ann Hoggarth'
+                Listing Name: 'Hoggarth, Ann'
+                Votes: '563'
+                Percentage: '18.2'
+            'Christopher Damas':
+                Display Name: 'Christopher Damas'
+                Listing Name: 'Damas, Christopher'
+                Votes: '304'
+                Percentage: '9.82'
+            'Erich Jacoby-Hawkins':
+                Display Name: 'Erich Jacoby-Hawkins'
+                Listing Name: 'Jacoby-Hawkins, Erich'
+                Votes: '241'
+                Percentage: '7.78'
+            'Paolo Fabrizio':
+                Display Name: 'Paolo Fabrizio'
+                Listing Name: 'Fabrizio, Paolo'
+                Votes: '24'
+                Percentage: '0.775'

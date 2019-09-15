@@ -1,0 +1,224 @@
+'2018-provincial':
+    Info:
+        Name: '2018 Provincial Election'
+        Results: true
+        Listing: false
+        Overview: false
+    'Barrie—Springwater—Oro-Medonte':
+        Campaign Office: 'N/A'
+        Candidates:
+            'Doug Downey':
+                Party: 'Progressive Conservative'
+                Votes: '20,445'
+                Percentage: '44.75'
+                
+            'Dan Janssen':
+                Party: 'New Democratic'
+                Votes: '12,891'
+                Percentage: '28.21'
+                
+            'Jeff Kerk':
+                Party: 'Liberal'
+                Votes: '6,210'
+                Percentage: '13.59'
+                
+            'Keenan Aylwin':
+                Party: 'Green'
+                Votes: '5,354'
+                Percentage: '11.72'
+                
+            'Mark Mitchell':
+                Party: 'Libertarian'
+                Votes: '280'
+                Percentage: '0.61'
+                    
+            'Darren Roskam':
+                Party: 'None of the Above'
+                Votes: '174'
+                Percentage: '0.38'
+                
+            'Michael Tuck':
+                Party: 'Independent'
+                Votes: '172'
+                Percentage: '0.38'
+                
+            'Ram Faerber':
+                Party: 'Independent'
+                Votes: '163'
+                Percentage: '0.36'
+                
+    'Barrie—Innisfil':
+        Campaign Office: 'N/A'
+        Candidates:
+            'Andrea Khanjin':
+                Party: 'Progressive Conservative'
+                Votes: '22,112'
+                Percentage: '49.99'
+                
+            'Pekka Reinio':
+                Party: 'New Democratic'
+                Votes: '12,644'
+                Percentage: '28.59'
+                
+            'Ann Hoggarth':
+                Party: 'Liberal'
+                Votes: '5,536'
+                Percentage: '12.52'
+                
+            'Bonnie North':
+                Party: 'Green'
+                Votes: '3,182'
+                Percentage: '7.19'
+                
+            'Brett Dorion':
+                Party: 'Libertarian'
+                Votes: '396'
+                Percentage: '0.90'
+                
+            'Jake Tucker':
+                Party: 'Canadians&rsquo; Choice'
+                Votes: '184'
+                Percentage: '0.42'
+                
+            'Stacey Surkova':
+                Party: 'Trillium'
+                Votes: '118'
+                Percentage: '0.27'
+                
+            'Alexander Ryzhykh':
+                Party: 'Ontario Moderate Party'
+                Votes: '59'
+                Percentage: '0.13'
+'2014-provincial':
+    Info:
+        Name: '2014 Provincial Election'
+        Results: true
+        Listing: false
+        Overview: false
+    'Barrie':
+        Campaign Office: 'N/A'
+        Candidates:
+            'Ann Hoggarth':
+                Party: 'Liberal'
+                Votes: '19,916'
+                Percentage: '40.69'
+                Change: '+5.88'
+                
+            'Rod Jackson':
+                Party: 'Progressive Conservative'
+                Votes: '17,667'
+                Percentage: '36.10'
+                Change: '-4.56'
+                
+            'David Bradbury':
+                Party: 'New Democratic'
+                Votes: '7,975'
+                Percentage: '16.29'
+                Change: '-2.66'
+                
+            'Bonnie North':
+                Party: 'Green'
+                Votes: '3,018'
+                Percentage: '6.17'
+                Change: '+1.74'
+                
+            'Darren Roskam':
+                Party: 'Libertarian'
+                Votes: '366'
+                Percentage: '0.75'
+                Change: '+0.01'
+'2011-provincial':
+    Info:
+        Name: '2011 Provincial Election'
+        Results: true
+        Listing: false
+        Overview: false
+    'Barrie':
+        Election Office: N/A
+        Candidates:
+            'Rod Jackson':
+                Party: 'Progressive Conservative'
+                Votes: '17,527'
+                Percentage: '40.66'
+                Change: '+1.44'
+                
+            'Karl Walsh':
+                Party: 'Liberal'
+                Votes: '15,006'
+                Percentage: '34.81'
+                Change: '-7.39'
+                
+            'Myrna Clark':
+                Party: 'New Democratic'
+                Votes: '8,171'
+                Percentage: '18.95'
+                Change: '+10.96'
+                
+            'Andrew Miller':
+                Party: 'Green'
+                Votes: '1,909'
+                Percentage: '4.43'
+                Change: '-5.04'
+                
+            'Darren Roskam':
+                Party: 'Libertarian'
+                Votes: '318'
+                Percentage: '0.74'
+                Change: '+0.42'
+                
+            'Matthew MacKenzie':
+                Party: 'Freedom'
+                Votes: '179'
+                Percentage: '0.42'
+                
+'2007-provincial':
+    Info:
+        Name: '2007 Provincial Election'
+        Results: true
+        Listing: false
+        Overview: false
+    Barrie:
+        Election Office: 'Unknown'
+        Candidates:
+            'Aileen Carroll':
+                Party: 'Liberal'
+                Votes: '19,548'
+                Percentage: '42.20'
+                Change: '+6.07'
+                
+            'Joe Tascona':
+                Party: 'Progressive Conservative'
+                Votes: '18,167'
+                Percentage: '39.22'
+                Change: '-12.56'
+                
+            'Erich Jacoby-Hawkins':
+                Party: 'Green'
+                Votes: '4,385'
+                Percentage: '9.47'
+                Change: '+7.37'
+                
+            'Larry Taylor':
+                Party: 'New Democratic'
+                Votes: '3,700	7.99'
+                Percentage: '-1.27'
+                
+            'Roberto Sales':
+                Party: 'Family Coalition'
+                Votes: '173	0.27'
+                Percentage: '-0.45'
+                
+            'Paolo Fabrizio':
+                Party: 'Libertarian'
+                Votes: '168'
+                Percentage: '0.32'
+                
+            'Darren Roskam':
+                Party: 'Independent'
+                Votes: '102'
+                Percentage: '0.22'
+                
+            'Daniel Gary Predie':
+                Party: 'Independent'
+                Votes: '77'
+                Percentage: '0.17'

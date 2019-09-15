@@ -1,0 +1,86 @@
+<?php include_once "./php/code.php"; ?>
+
+<!doctype html>
+
+<html lang="en">
+<head>
+ <meta charset="utf-8">
+
+ <title>Politically Barrie</title>
+ <meta name="description" content="Political information for Barrie">
+ <meta name="author" content="">
+
+ <link rel="stylesheet" href="../css/style.css">
+ <link href='http://fonts.googleapis.com/css?family=Lobster|Roboto:300' rel='stylesheet' type='text/css'>
+ <link rel="image_src" href="../images/thumbnail.jpg" />
+</head>
+
+<body>
+
+<div id="header">
+Politically Barrie<br/>
+<span>Political Information for Barrie, Ontario</span>
+</div>
+
+
+
+<section class="writDropped">
+ <h1><a href="/provincial/">See information about the previous provincial election.</a></h1>
+ <h1>Municiple Election Monday October 27, 2014</h1>
+ <div class="writDropped">
+  
+  <div class="links">
+   <em>Election Date is Monday October 27, 2014</em>
+
+<p class="leadin">
+The final voting day for the next municipal election is <strong>Monday October 27, 2014</strong>. <a href="/City%20Hall/election/Pages/VoterInformation.aspx" target="_blank">Additional voting opportunities</a> are available on <strong>October 11</strong>, and <strong>October 21–25</strong>. As determined by the 2013 <a href="/City%20Hall/MayorCouncil/Pages/WardBoundaryReview.aspx" target="_blank">Ward Boundary Review</a>, new ward boundaries will take effect for the election.
+</p>		
+		    
+<a title="Candidates Listing" href="http://www.barrie.ca//City%20Hall/election/Pages/CandidatesListing.aspx">
+<img alt="Candidates Listing" src="http://www.barrie.ca//City%20Hall/election/PublishingImages/btn-CandidateListing.jpg" />
+Candidates Listing</a> 
+<Br/>
+
+<a title="Info for voters" href="http://www.barrie.ca//City%20Hall/election/Pages/VoterInformation.aspx">
+<img alt="Info for voters" src="http://www.barrie.ca//City%20Hall/election/PublishingImages/btn-VoterInfo.jpg" />
+Info for Voters</a> 
+<Br/>
+
+<a title="Info for Candidates" href="http://www.barrie.ca//City%20Hall/election/Pages/InformationForCandidates.aspx">
+<img alt="Info for Candidates" src="http://www.barrie.ca//City%20Hall/election/PublishingImages/btn-CandidateInfo.jpg" />
+Info for Candidates</a> 
+<Br/>
+
+
+<a title="Election Jobs" href="http://www.barrie.ca//City%20Hall/election/Pages/ElectionJobs.aspx" target="_blank" style="margin-right:0px">
+<img alt="Election Jobs" src="http://www.barrie.ca//City%20Hall/election/PublishingImages/btn-ElectionJobs.jpg" />Election Jobs</a> 
+<Br/>
+  </div>
+  <iframe src="https://mapsengine.google.com/map/u/0/embed?mid=z7uY1KXkV_ws.kfDv_KkNRFIs" width="640" height="480"></iframe>
+  
+  
+   <div style="background-color: black; clear: both; text-align: center;"><strong style="color:white">Additions/Corrections</strong>
+   <font color="#ffffff">If you have any additions or correction please email me at </font><a style="color: #ccc;" href="mailto:shawn@politicallybarrie.ca">shawn@politicallybarrie.ca</a>.</div>
+
+ </div>
+   
+    <h1>More Information Coming Soon!</h1>
+<?php
+
+foreach( $municipalData[2014] as $office => $candidates )
+{
+ echo "<h1>$office</h1>";
+ showMunicipalCandidates( $candidates );
+}
+?>
+
+</section>
+
+
+ <div id="footer">
+  Background image courtesy of <a href="http://www.barrie.ca/City%20Hall/MediaRoom/Pages/Photos.aspx">Barrie.ca</a>
+  If you have any additions or find any errors, email shawn@politicalylbarrie.ca.
+ </div>
+
+</body>
+</html>

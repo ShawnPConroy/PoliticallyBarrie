@@ -1,0 +1,686 @@
+<?php
+
+
+function loadMunicipalData() {
+ global $municipalData;
+ 
+ $candidate = null;
+ $candidate['Name'] = "Ram Faerber";
+ $candidate['Address'] = "Barrie (​73 Birchwood Drive, L4M 6X5)";
+ $candidate['Home'] = "705-726-4605";
+ $candidate['Business'] = "705-721-9492";
+ $candidate['Email'] = "marzena.milczach@hotmail.com";
+ $municipalData['2014']['Mayor']['Faerber'] = $candidate;
+ 
+ $candidate = null;
+ $candidate['Name'] = "Zachary Gillespie-Rogers";
+ $candidate['Email'] = "candidatezach@gmail.com";
+ $municipalData['2014']['Mayor']['Gillespie-Rogers'] = $candidate;
+ 
+ $candidate = null;
+ $candidate['Name'] = "Jeff Lehman";
+ $candidate['Address'] = "Barrie (16 Valley Drive, L4N 4R9)";
+ $candidate['Phone'] = "705-716-5444";
+ $candidate['Email'] = "info@jefflehman.ca";
+ $candidate['Twitter'] = "@4more4jeff";
+ $candidate['Website'] = "www.jefflehman.ca";
+ $municipalData['2014']['Mayor']['Lehman'] = $candidate;
+
+
+ $candidate = null;
+ $candidate['Name'] = "Ray Mawhinney";
+ $candidate['Adress'] = "​Barrie (L4N 6Y3)";
+ $candidate['Email'] = "workingforyou@bell.net ";
+ $candidate['Facebook'] = "RayforBarrieMayor";
+ $candidate['Website'] = "www.raymawhinney.com";
+ $municipalData['2014']['Mayor']['Mawhinney'] = $candidate;
+
+
+ /* Ward 1 */
+ 
+ $candidate = null;
+ $candidate['Name'] = "Bonnie Ainsworth";
+ $candidate['Phone'] = "705-725-9002";
+ $candidate['Email'] = "bonnie4ward1@gmail.com";
+ $candidate['Website'] = "www.bonnieworks4you.com";
+ $municipalData['2014']['Ward 1']['Ainsworth'] = $candidate;
+ 
+ $candidate = null;
+ $candidate['Name'] = "Clare Riepma";
+ $candidate['Adress'] = "​Barrie (220 Kempenfelt Dr., L4M 1C4)";
+ $candidate['Home'] = "705-737-1080";
+ $candidate['Business'] = "416-346-8258";
+ $candidate['Email'] = "clare@voteforclare.ca";
+ $candidate['Website'] = "www.voteforclare.ca";
+ $candidate['Twitter'] = "@clareriepma";
+ $municipalData['2014']['Ward 1']['Riepma'] = $candidate;
+
+ ​/* Ward 2 */
+
+ $candidate = null;
+ $candidate['Name'] = "Austin Tyler Genge";
+ $candidate['Adress'] = "​Barrie (104 Queen Street, L4M 1Z5)";
+ $candidate['Home'] = "705-220-5012";
+ $candidate['Email'] = "tyge985@gmail.com";
+ $candidate['Twitter'] = "@AustinTGenge";
+ $candidate['Website'] = "www.strikingly.com/voteaustin";
+ $municipalData['2014']['Ward 2']['Genge'] = $candidate;
+}
+ /*
+
+ $candidate = null;
+ $candidate['Name'] = "";
+ $candidate['Adress'] = "​Barrie ()";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $municipalData['2014']['Ward '][''] = $candidate;
+
+Steve Jones
+Filed: May 30, 2014 at 9:34 a.m.​
+
+​411-33 Ellen Street
+Barrie L4N 6E9
+Home: 705-309-7684
+Business: 705-726-6331 ext. 8545
+Email: info@jonesforward2.com
+Website: www.jonesforward2.com
+Twitter: @sjones_barrie
+Facebook: Jones For Ward 2 Barrie
+ $candidate = null;
+ $candidate['Name'] = "";
+ $candidate['Adress'] = "​Barrie ()";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $municipalData['2014']['Ward '][''] = $candidate;
+
+James McVeigh
+Filed: July 16, 2014 at 11:12 a.m.​
+
+38 Brock Street
+Barrie L4N 2L7
+Cell: 705-716-4506
+Campaign Office: 705-500-4374
+Email: office@jtmcveigh.ca
+Twitter: #mcveighknowsbarrie
+Facebook: mcveighknowsbarrie
+Website: www.jtmcveigh.ca
+ 
+ $candidate = null;
+ $candidate['Name'] = "";
+ $candidate['Adress'] = "​Barrie ()";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $municipalData['2014']['Ward '][''] = $candidate;
+
+Rose Romita
+Filed: July 4, 2014 at 9:24 a.m.
+
+​
+
+45 Glenwood Drive
+Barrie L4N 1R3
+Business: 705-722-7763
+Email: info@roseromita.com
+Website: www.roseromita.com
+Facebook: roseromitaforward2
+ $candidate = null;
+ $candidate['Name'] = "";
+ $candidate['Adress'] = "​Barrie ()";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $municipalData['2014']['Ward '][''] = $candidate;
+
+Barb Stuhlemmer
+Filed: September 12, 2014 at 12:05 p.m.​
+
+Business: 705-728-7801
+E-mail: barbforward2@gmail.com
+Twitter: @BarbForWard2
+Facebook: Barbforcouncillor
+Website: www.barbforward2.com ​
+ $candidate = null;
+ $candidate['Name'] = "";
+ $candidate['Adress'] = "​Barrie ()";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $municipalData['2014']['Ward '][''] = $candidate;
+
+  Councillor – Ward 3 ‎(3)
+Ken Parsons
+Filed: September 10, 2014 at 3:02 p.m.​
+
+Campaign: 705-279-5154
+Email: ken4ward3@outlook.com​
+ $candidate = null;
+ $candidate['Name'] = "";
+ $candidate['Adress'] = "​Barrie ()";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $municipalData['2014']['Ward '][''] = $candidate;
+
+Doug Shipley
+Filed: February 5, 2014 at 9:14 a.m.
+
+​Campaign: 705-720-2330
+Email: contact@dshipley.ca 
+Website: www.dougshipley.ca  
+ $candidate = null;
+ $candidate['Name'] = "";
+ $candidate['Adress'] = "​Barrie ()";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $municipalData['2014']['Ward '][''] = $candidate;
+
+Ross Wuerth
+Filed: August 18, 2014 at 1:28 p.m.​
+
+23 Stollar Blvd.
+Barrie L4M 6N7
+Campaign Office: 416-562-5088
+Email: ross.wuerth@gmail.com
+Website: www.rosswuerth.com
+Twitter: @rosswuerth​
+ $candidate = null;
+ $candidate['Name'] = "";
+ $candidate['Adress'] = "​Barrie ()";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $municipalData['2014']['Ward '][''] = $candidate;
+
+  Councillor – Ward 4 ‎(4)
+​Adrian Bowles
+Filed: May 16, 2014 at 3:33 p.m.
+
+​80 Livingstone St W
+Barrie L4N 7J1
+Email: adrianbarrie@hotmail.com 
+Website: www.adrianforbarrie.com
+ $candidate = null;
+ $candidate['Name'] = "";
+ $candidate['Adress'] = "​Barrie ()";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $municipalData['2014']['Ward '][''] = $candidate;
+
+​Justin Heran
+Filed: June 19, 2014 at 2:43 p.m.
+
+453 Ferndale Dr N
+Barrie L4N 7X7​
+Campaign: 705-791-2001
+Email: justinheran@gmail.com
+Twitter: @justinheran
+Website: www.justinheran.ca 
+ $candidate = null;
+ $candidate['Name'] = "";
+ $candidate['Adress'] = "​Barrie ()";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $municipalData['2014']['Ward '][''] = $candidate;
+
+Caroline Smith
+Filed: January 7, 2014 at 1:16 p.m.
+
+​11 Letitia Street
+Barrie L4N 1N7
+Home: 705-735-1939
+E-mail: caroline.smith@rogers.com
+Twitter: @Smith_Caroline
+Website: www.csmith.ca 
+ $candidate = null;
+ $candidate['Name'] = "";
+ $candidate['Adress'] = "​Barrie ()";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $municipalData['2014']['Ward '][''] = $candidate;
+
+Barry Ward
+Filed: June 18, 2014 at 2:28 p.m.​
+
+​114 Oren Blvd
+Barrie L4N 4M2
+Home: 705-737-0318
+Email: barryward4barrieward4@gmail.com 
+Website: www.barryward.ca
+ $candidate = null;
+ $candidate['Name'] = "";
+ $candidate['Adress'] = "​Barrie ()";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $municipalData['2014']['Ward '][''] = $candidate;
+
+  Councillor – Ward 5 ‎(6)
+Harry Ahmed
+Filed: January 7, 2014 at 11:00 a.m.​
+
+​11 Shaw Crescent
+Barrie  L4N 4Z3
+Home/Business/Campaign: 705-241-9455
+E-mail: voteharryfor5@gmail.com
+Facebook: Harry4ward5
+Website: www.harryahmed.ca
+
+  $candidate = null;
+ $candidate['Name'] = "";
+ $candidate['Adress'] = "​Barrie ()";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $municipalData['2014']['Ward '][''] = $candidate;
+
+
+​Yvonne Heath
+Filed: January 10, 2014 at 3:42 p.m.
+
+​Home: 416-574-5269
+Business: 416-946-5476
+Email: yheath@live.com  
+ $candidate = null;
+ $candidate['Name'] = "";
+ $candidate['Adress'] = "​Barrie ()";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $municipalData['2014']['Ward '][''] = $candidate;
+
+​Mike Montague
+Filed: May 14, 2014 at 9:29 a.m.
+
+​Campaign: 705-718-6119
+Email: mike@gimmeshelter.ca 
+Website: www.mikeforward5.ca 
+ $candidate = null;
+ $candidate['Name'] = "";
+ $candidate['Adress'] = "​Barrie ()";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $municipalData['2014']['Ward '][''] = $candidate;
+
+Micheline Piotrowski
+Filed: September 2, 2014 at 1:47 p.m.​
+
+​89 Benson Dr.
+Barrie L4N 7Y4
+Home: 705-727-1533
+Email: micheline.piotrowski@hotmail.com 
+ $candidate = null;
+ $candidate['Name'] = "";
+ $candidate['Adress'] = "​Barrie ()";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $municipalData['2014']['Ward '][''] = $candidate;
+
+Peter Silveira
+Filed: January 9, 2014 at 2:10 p.m.​
+
+​Campaign: 705-500-1154
+Email: ward5@petersilveira.com
+Website: www.petersilveira.com
+ $candidate = null;
+ $candidate['Name'] = "";
+ $candidate['Adress'] = "​Barrie ()";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $municipalData['2014']['Ward '][''] = $candidate;
+
+Robert Thomson
+Filed: September 11, 2014 at 9:34 a.m.​
+
+223 Pringle Drive
+Barrie L4N 0P5
+Campaig​n: 705-500-1780
+Email: robertthomson4ward5@gmail.com
+ $candidate = null;
+ $candidate['Name'] = "";
+ $candidate['Adress'] = "​Barrie ()";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $municipalData['2014']['Ward '][''] = $candidate;
+
+  Councillor – Ward 6 - ACCLAIMED ‎(1)
+Michael Prowse
+Filed: January 10, 2014 at 11:31 a.m.
+
+ 
+
+​ $candidate = null;
+ $candidate['Name'] = "";
+ $candidate['Adress'] = "​Barrie ()";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $municipalData['2014']['Ward '][''] = $candidate;
+
+
+​189 Ferndale Drive South
+Barrie L4N 6X8
+Home: 705-720-6588
+Campaign: 705-720-6588
+Email: michaelprowse4ward6@gmail.com 
+Website: www.michaelprowse.ca 
+ $candidate = null;
+ $candidate['Name'] = "";
+ $candidate['Adress'] = "​Barrie ()";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $municipalData['2014']['Ward '][''] = $candidate;
+
+  Councillor – Ward 7 ‎(5)
+Andrew Barranger​
+Filed: August 28, 2014 at 4:06 p.m.
+
+79 White Cres
+Barrie L4N 5Z9
+Email: electbarrangerward7@gmail.com 
+Website: www.barrangerforward7.strikingly.com
+Twitter: @barranger4ward7.com
+Facebook: Elect Barranger for Ward 7​
+ $candidate = null;
+ $candidate['Name'] = "";
+ $candidate['Adress'] = "​Barrie ()";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $municipalData['2014']['Ward '][''] = $candidate;
+
+Lincoln Bayda​
+Filed: September 5, 2014 at 4:16 p.m.
+
+Email: gridlocksolved@gmail.com 
+Website: www.gridlocksolved.com ​
+ $candidate = null;
+ $candidate['Name'] = "";
+ $candidate['Adress'] = "​Barrie ()";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $municipalData['2014']['Ward '][''] = $candidate;
+
+​John Brassard
+Filed: January 2, 2014 at 9:44 a.m.
+
+​Campaign: 705-716-2026
+E-mail: johnbrassard@rogers.com 
+Website: www.reelectjohnbrassard.com
+Twitter: @BrassardWard7
+ $candidate = null;
+ $candidate['Name'] = "";
+ $candidate['Adress'] = "​Barrie ()";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $municipalData['2014']['Ward '][''] = $candidate;
+
+Richard Crocitto
+Filed: September 12, 2014 at 11:31 a.m.​
+
+29 Logan Crt
+Barrie L4N 8G9
+Home: 705-817-1506
+Campaign: 705-817-1506
+Email: richard@richardforbarrie.ca 
+Twitter: @richard4barrie
+Facebook: richardforbarrie
+Website: www.richardforbarrie.ca
+
+  $candidate = null;
+ $candidate['Name'] = "";
+ $candidate['Adress'] = "​Barrie ()";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $municipalData['2014']['Ward '][''] = $candidate;
+
+
+Brandon Vieira​
+Filed: September 5, 2014 at 4:01 p.m.
+
+​28 Waddington Cres.
+Barrie L4N 8C8
+brandonforbarrie7@outlook.com
+ $candidate = null;
+ $candidate['Name'] = "";
+ $candidate['Adress'] = "​Barrie ()";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $municipalData['2014']['Ward '][''] = $candidate;
+
+ 
+
+  Councillor – Ward 8 ‎(5)
+Julia Gasewicz
+Filed: September 12, 2014 at 1:05 p.m.​
+
+55 Jane Cres.
+Barrie ON L4N 3T9
+Home: 705-728-0794
+Business: 705-790-0974
+Email: gasewicz.julia@gmail.com  ​
+ $candidate = null;
+ $candidate['Name'] = "";
+ $candidate['Adress'] = "​Barrie ()";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $municipalData['2014']['Ward '][''] = $candidate;
+
+Ghulam Jilani
+Filed: September 4, 2014 at 10:15 a.m.​
+
+481 Welham Rd, Unit 10
+Barrie L4N 8Z6
+Business: 705-770-7877
+Campaign: 705-770-7877
+Email​: jilani4ward8@hotmail.com  
+ $candidate = null;
+ $candidate['Name'] = "";
+ $candidate['Adress'] = "​Barrie ()";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $municipalData['2014']['Ward '][''] = $candidate;
+
+​Arif Khan
+Filed: June 25, 2014 at 8:50 a.m.
+
+​Campaign: 705-812-0788
+Email: info@arifforward8.ca
+Facebook: arifforward8
+Website: www.arifforward8.ca 
+ $candidate = null;
+ $candidate['Name'] = "";
+ $candidate['Adress'] = "​Barrie ()";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $municipalData['2014']['Ward '][''] = $candidate;
+
+Mike McFarthing
+Filed: September 11, 2014 at 2:00 p.m​.
+
+​Barrie
+Home: 705-305-6126
+Email: mamcfarthing@gmail.com
+Twitter: @mikmcfarthing
+WebsiteL www.mikeforward8.com 
+ $candidate = null;
+ $candidate['Name'] = "";
+ $candidate['Adress'] = "​Barrie ()";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $municipalData['2014']['Ward '][''] = $candidate;
+
+​Micheline Robichaud
+Filed: September 9, 2014 at 9:34 a.m.
+
+96 Marshall St.
+Barrie L4N 4L5
+Home: 705-252-6377
+Business: 289-404-4911
+Email: michelinerobichaud@hotmail.com and/or micheline_ward8@hotmail.com
+
+​
+ $candidate = null;
+ $candidate['Name'] = "";
+ $candidate['Adress'] = "​Barrie ()";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $municipalData['2014']['Ward '][''] = $candidate;
+
+  Councillor – Ward 9 ‎(3)
+Brian H. Jackson
+Filed April 16, 2014 at 8:54 a.m.
+
+​965 Yonge Street
+Barrie L9J 0E6
+Home: 705-722-3825
+Business: 705-739-8355
+Campaign: 705-791-8923
+Email: bhjackson@sympatico.ca  
+Twitter: @brianhjackson
+Website: www.electjackson.ca
+
+Jason MacLellan
+Filed:  April 4, 2014 at 1:53 p.m.​
+
+181 Madelaine Drive
+Barrie ON L4N 0S7​
+
+​Sergio Morales
+Filed: June 18, 2014 at 10:51 a.m.
+
+​Campaign: 1-877-650-0978
+Email: sergiomoralesward9@gmail.com
+Website: www.sergiomorales.ca 
+Twitter: @sergiomorales 
+Facebook: facebook.com/SergioMoralesBarrie
+
+ $candidate = null;
+ $candidate['Name'] = "";
+ $candidate['Adress'] = "​Barrie ()";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $municipalData['2014']['Ward '][''] = $candidate;
+
+  Councillor – Ward 10 ‎(5)
+Graham Allary
+Filed: September 10, 2014 at 11:28 a.m.​
+
+​67 Falling Brook Dr
+Barrie L4W 7E8
+Business: 705-896-7895
+Email: grahamallary@gmail.com 
+Twitter: @allaryg
+Website www.votegrahamallary.com
+
+  $candidate = null;
+ $candidate['Name'] = "";
+ $candidate['Adress'] = "​Barrie ()";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $municipalData['2014']['Ward '][''] = $candidate;
+
+
+Paolo Fabrizio
+Filed: September 8, 2014 at 4:01 p.m.​
+
+2 Connaught Lane
+Barrie L4M 0A4
+Home: 705-812-2545
+Business: 647-300-8555
+Campaign: 705-252-1956
+Email: paolothebaker@yahoo.ca
+Twitter: @paolothebaker
+Website: www.servingward10.com ​
+
+ $candidate = null;
+ $candidate['Name'] = "";
+ $candidate['Adress'] = "​Barrie ()";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $municipalData['2014']['Ward '][''] = $candidate;
+
+Chris Forde
+Fi​led: January 20, 2014 at 3:34 p.m.
+
+​90 Jewel House Lane
+Barrie L4N 5X1
+Cell: 705-718-3040
+E-mail: Forde4Ward10@hotmail.com 
+Twitter: @Forde4Ward10
+
+ $candidate = null;
+ $candidate['Name'] = "";
+ $candidate['Adress'] = "​Barrie ()";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $municipalData['2014']['Ward '][''] = $candidate;
+
+Doug Jure
+Filed: April 30, 2014 at 12:42 p.m.​
+
+​25 Pepin Court
+Barrie L4M 7J4
+Business: 705-728-8002
+Email: dougforward10@gmail.com 
+Website: www.dougforward10.ca 
+Twitter: @dougforward10 
+Facebook: Doug Jure
+
+ $candidate = null;
+ $candidate['Name'] = "";
+ $candidate['Adress'] = "​Barrie ()";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $municipalData['2014']['Ward '][''] = $candidate;
+
+Mike McCann​
+Filed: January 3, 2014 at 2:42 p.m.
+
+75 Versailles Cres.
+Barrie L4M 0B8
+Home: 705-252-8814
+Cell: 647-688-9908
+Email: mikemccann@rogers.com
+Website: www.votemccann.com 
+
+ $candidate = null;
+ $candidate['Name'] = "";
+ $candidate['Adress'] = "​Barrie ()";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $candidate[''] = "";
+ $municipalData['2014']['Ward '][''] = $candidate;
+*/
+
+
+
+
+loadMunicipalData();
+
+?>

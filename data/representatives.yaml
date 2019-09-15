@@ -1,0 +1,301 @@
+## Politically Barrie's Representatives Data File
+##
+## Barrie, Ontario and Surrounding Area
+## Updated with results of the 2018 Municipal Election
+##
+## Updated: 2018-11-07
+
+representatives:
+  mps:
+    
+    bsomMp: &bsomMp
+      Name: 'Alex Nuttall'
+      Gender: 'Male'
+      Party: 'Conservative Party of Canada'
+      Party Short Form: 'Conservative'
+      Office: 'MP for Barrie&mdash;Springwater&mdash;Oro-Medonte'
+      Phone: '(705) 728-2596'
+      Email: 'Alex.Nuttall@parl.gc.ca'
+      Address: '48 Alliance Blvd. Unit 104 <br/>Barrie, ON&nbsp; L4M 5K3'
+      Link:
+        'AlexNuttalMP.ca': 'http://www.alexnuttallmp.ca/'
+        'Open Parliament’s data on Alex Nuttal': 'https://openparliament.ca/politicians/alex-nuttall/'
+    
+    biMp: &biMp
+      Name: 'John Brassard'
+      Gender: 'Male'
+      Party: 'Conservative Party of Canada'
+      Party Short Form: 'Conservative'
+      Office: 'MP for Barrie&mdash;Innisfil'
+      Phone: '(705) 726-5959'
+      Phone: '(613) 992-3394'
+      Phone: '1-866-736-7631'
+      Email: 'john.brassard@parl.gc.ca'
+      Address: '480 Huronia Road Suite 204-B <br/>Barrie, ON&nbsp; L4N 6M2'
+      Link:
+        'JohnBrassard.com': 'http://www.johnbrassard.com/'
+        'Open Parliament’s data on John Brassard': 'https://openparliament.ca/politicians/john-brassard/'
+  
+  mpps:
+    bsomMpp: &bsomMpp
+      Name: 'Doug Downey'
+      Gender: 'Male'
+      Party: 'Progressive Conservative Party of Ontario'
+      Party Short Form: 'PC'
+      Office: 'MPP for Barrie&mdash;Springwater&mdash;Oro-Medonte'
+      Phone: '(705) 726-5538'
+      Fax: '(705) 726-2880'
+      Email: 'doug.downey@pc.ola.org'
+      Address: '20 Bell Farm Road, Unit #14 <br/>Barrie, ON L4M 6E4'
+      Link:
+        'OLA Profile': 'https://www.ola.org/en/members/all/doug-downey'
+        'DougDowney.ca': 'http://dougdowney.ca/'
+      Facebook Page: 'https://www.facebook.com/DougDowneyMPP/'
+      Instagram: 'https://www.instagram.com/dougdowneympp/'
+      LinkedIn: 'https://www.linkedin.com/in/doug-downey-aa311429/'
+    
+    bsomMpp: &biMpp
+      Name: 'Andrea Khanjin'
+      Gender: 'Female'
+      Party: 'Progressive Conservative Party of Ontario'
+      Party Short Form: 'PC'
+      Office: 'MPP for Barrie&mdash;Innisfil'
+      Phone: '(705) 722-0575 '
+      Fax: '(705) 722-8835'
+      Email: 'andrea.khanjin@pc.ola.org'
+      Address: 'Unit 1-237 Mapleview Drive East <br/>Barrie, ON&nbsp;&nbsp;L4N 0W5'
+      Link:
+        'OLA Profile': 'https://www.ola.org/en/members/all/andrea-khanjin'
+        'AndreaMPP.com': 'https://www.andreampp.com/'
+      Facebook Page: 'https://www.facebook.com/AndreaKhanjinMPP/'
+      Instagram: 'https://www.instagram.com/andrea_khanjin/'
+      Twitter: 'https://twitter.com/andrea_khanjin'
+  
+  
+  municipal:
+  
+    barrieMayor: &barrieMayor
+      Name: 'Jeff Lehman'
+      Office: 'Mayor'
+      Phone: '(705) 792-7900'
+      Email: 'officeofthemayor@barrie.ca'
+      Address: '70 Collier Street Box 400 <br/>Barrie, ON&nbsp; L4M 4T5'
+    
+    barrieWard1Councilor: &barrieWard1Councilor
+        # Confirmed
+        Office: 'Ward 1 Councilor'
+        Name: 'Clare Riepma'
+        Email: 'Clare.Riepma@barrie.ca'
+        Phone:
+            - '(705) 739-4271'
+            - '(705) 627-6900'
+        Facebook Page: 'https://www.facebook.com/Clare-Riepma-Barrie-Ward-1-1886778148047407/'
+        Twitter: 'https://twitter.com/clareriepma'
+    
+    barrieWard2Councilor: &barrieWard2Councilor
+      Office: 'Ward 2 Councilor'
+      Name: 'Keenan Aylwin'
+      Email: 'keenan.aylwin@barrie.ca'
+      Phone: '(705) 739-4272'
+    
+    barrieWard3Councilor: &barrieWard3Councilor
+      Office: 'Ward 3 Councilor'
+      Name: 'Doug Shipley'
+      Email: 'doug.shipley@barrie.ca'
+      Phone: '(705) 739-4269'
+    
+    barrieWard4Councilor: &barrieWard4Councilor
+      # Confirmed!
+      Office: 'Ward 4 Councilor'
+      Name: 'Barry Ward'
+      Email: 'barry.ward@barrie.ca'
+      Phone: '(705) 739-4268'
+    
+    barrieWard5Councilor: &barrieWard5Councilor
+      Office: 'Ward 5 Councilor'
+      Name: 'Robert Thomson'
+      Email: 'robert.thomson@barrie.ca'
+      Phone: '(705) 739-4275'
+    
+    barrieWard6Councilor: &barrieWard6Councilor
+      Office: 'Ward 6 Councilor'
+      Name: 'Natalie Harris'
+      Email: 'natalie.harris@barrie.ca'
+      Phone: '(705) 739-4286'
+    
+    barrieWard7Councilor: &barrieWard7Councilor
+      Office: 'Ward 7 Councilor'
+      Name: 'Gary Harvey'
+      Email: 'gary.harvey@barrie.ca'
+      Phone: '(705) 739-4217'
+    
+    barrieWard8Councilor: &barrieWard8Councilor
+      Office: 'Ward 8 Councilor'
+      Name: 'Jim Harris'
+      Email: 'mailto:jim.harris@barrie.ca'
+      Phone: '(705) 739-4273'
+    
+    barrieWard9Councilor: &barrieWard9Councilor
+      Office: 'Ward 9 Councilor'
+      Name: 'Sergio Morales'
+      Email: 'sergio.morales@barrie.ca'
+      Phone: '(705) 739-4256'
+    
+    barrieWard10Councilor: &barrieWard10Councilor
+      Office: 'Ward 10 Councilor'
+      Name: 'Mike McCann'
+      Email: 'mike.mccann@barrie.ca'
+      Phone: '(705) 739-4290'
+  
+  schoolboard:
+  
+    publicTrusteeBarrieWard123: &publicTrusteeBarrieWard123
+      Office: 'Simcoe District Schoolboard Trustee for Barrie Wards 1, 2 and 3'
+      Name: 'David William O’Brien'
+      Phone: '(705) 220-6541'
+      Email: 'daobrien@trustee.scdsb.on.ca'
+      Link:
+        'Trustee Profile': 'https://www.scdsb.on.ca/board/trustees/david_obrien'
+    
+    publicTrusteeBarrieWard456: &publicTrusteeBarrieWard456
+      Office: 'Simcoe District Schoolboard Trustee for Barrie Wards 4, 5 and 6'
+      Name: 'Beth Mouratidis'
+      Phone: '(705) 241-0620'
+      Email: 'bmouratidis@trustee.scdsb.on.ca'
+      Link:
+        'Trustee Profile': 'https://www.scdsb.on.ca/board/trustees/beth_mouratidis'
+      
+    publicTrusteeBarrieWard78910: &publicTrusteeBarrieWard78910
+      Office: 'Simcoe District Schoolboard Trustee for Barrie Wards 7, 8, 9 and 10'
+      Phone: '(705) 241-0843'
+      Name: 'Lisa-Marie Wilson'
+      Email: 'liwilson@trustee.scdsb.on.ca'
+      Link:
+        'Trustee Profile': 'https://www.scdsb.on.ca/board/trustees/lisa-marie_wilson'
+    
+    catholicTrusteeBarrieWard12345: &catholicTrusteeBarrieWard12345
+      Office: 'Simcoe Muskoka Catholic District School Board for Barrie Wards 1-5'
+      Name: 'Nate Brown'
+      Phone: '(705) 722.3559 ext., 347'
+      Email: 'nabrown@smcdsb.on.ca'
+      
+    catholicTrusteeBarrieWard678910: &catholicTrusteeBarrieWard678910
+      # Confirmed!
+      Office: 'Simcoe Muskoka Catholic District School Board for Barrie Wards 6-10'
+      Name: 'Maria Hardie'
+      Email: 'mhardie@smcdsb.on.ca'
+      Phone:
+        - '(705) 722-3555 ext., 468'
+        - '(705) 896-7549'
+    
+    frenchCatholicSchoolSimcoeMuskoka: &frenchCatholicSchoolSimcoeMuskoka
+      Office: 'Conseil scolaire catholique MonAvenir (French Catholic) Simcoe, Muskoka'
+      Name: 'Donald Blais'
+      Phone: '1-888-388-8559, poste 109'
+      Email: 'dblais1@cscmonavenir.ca'
+
+    frenchPublicSchoolSimcoe: &frenchPublicSchoolSimcoe
+      Office: 'Conseil scolaire Viamonde (French Public) Secteur 5 : Bruce, Dufferin, Grey, Simcoe'
+      Name: 'Éric Lapointe'
+      Phone: '(705) 717-0039'
+      Email: 'lapointee@csviamonde.ca'
+
+#Barrie
+
+barrieNorth: &barrieNorth
+  MP: *bsomMp
+  MPP: *bsomMpp
+  Mayor: *barrieMayor
+
+barrieSouth: &barrieSouth
+  MP: *biMp
+  MPP: *biMpp
+  Mayor: *barrieMayor
+
+simcoeTrustees: &simcoeTrustees
+  Catholic French Trustee: *frenchCatholicSchoolSimcoeMuskoka
+  Public French Trustee: *frenchPublicSchoolSimcoe
+  
+#Regions
+
+Wards:
+  
+  Barrie-Ward-1:
+    Name: 'Barrie Ward 1'
+    <<: *barrieNorth
+    Councilor: *barrieWard1Councilor
+    Public Trustee: *publicTrusteeBarrieWard123
+    Catholic Trustee: *catholicTrusteeBarrieWard12345
+    <<: *simcoeTrustees
+  
+  Barrie-Ward-2:
+    Name: 'Barrie Ward 2'
+    <<: *barrieNorth
+    Councilor: *barrieWard2Councilor
+    Public Trustee: *publicTrusteeBarrieWard123
+    Catholic Trustee: *catholicTrusteeBarrieWard12345
+    <<: *simcoeTrustees
+  
+  Barrie-Ward-3:
+    Name: 'Barrie Ward 3'
+    <<: *barrieNorth
+    Councilor: *barrieWard3Councilor
+    Public Trustee: *publicTrusteeBarrieWard123
+    Catholic Trustee: *catholicTrusteeBarrieWard12345
+    <<: *simcoeTrustees
+  
+  Barrie-Ward-4:
+    Name: 'Barrie Ward 4'
+    <<: *barrieNorth
+    Councilor: *barrieWard4Councilor
+    Public Trustee: *publicTrusteeBarrieWard456
+    Catholic Trustee: *catholicTrusteeBarrieWard12345
+    <<: *simcoeTrustees
+   
+  Barrie-Ward-5:
+    Name: 'Barrie Ward 5'
+    <<: *barrieNorth
+    Councilor: *barrieWard5Councilor
+    Public Trustee: *publicTrusteeBarrieWard456
+    Catholic Trustee: *catholicTrusteeBarrieWard12345
+    <<: *simcoeTrustees
+  
+  Barrie-Ward-6:
+    Name: 'Barrie Ward 6'
+    <<: *barrieSouth
+    Councilor: *barrieWard6Councilor
+    Public Trustee: *publicTrusteeBarrieWard456
+    Catholic Trustee: *catholicTrusteeBarrieWard678910
+    <<: *simcoeTrustees
+  
+  Barrie-Ward-7:
+    Name: 'Barrie Ward 7'
+    <<: *barrieSouth
+    Councilor: *barrieWard7Councilor
+    Public Trustee: *publicTrusteeBarrieWard78910
+    Catholic Trustee: *catholicTrusteeBarrieWard678910
+    <<: *simcoeTrustees
+  
+  Barrie-Ward-8:
+    Name: 'Barrie Ward 8'
+    <<: *barrieSouth
+    Councilor: *barrieWard8Councilor
+    Public Trustee: *publicTrusteeBarrieWard78910
+    Catholic Trustee: *catholicTrusteeBarrieWard678910
+    <<: *simcoeTrustees
+  
+  Barrie-Ward-9:
+    Name: 'Barrie Ward 9'
+    <<: *barrieSouth
+    Councilor: *barrieWard9Councilor
+    Public Trustee: *publicTrusteeBarrieWard78910
+    Catholic Trustee: *catholicTrusteeBarrieWard678910
+    <<: *simcoeTrustees
+  
+  Barrie-Ward-10:
+    Name: 'Barrie Ward 10'
+    <<: *barrieSouth
+    Councilor: *barrieWard10Councilor
+    Public Trustee: *publicTrusteeBarrieWard78910
+    Catholic Trustee: *catholicTrusteeBarrieWard678910
+    <<: *simcoeTrustees
