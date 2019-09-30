@@ -43,6 +43,7 @@
                     Phone: '(705) 503-2019'
                     Link:
                         'Campaign Site': 'https://danjanssen.ndp.ca/'
+                        'Platform': 'https://www.ndp.ca/commitments'
             'Brian Kalliecharan':
                 Display Name: 'Brian Kalliecharan'
                 Listing Name: 'Kalliecharan, Brian'
@@ -70,8 +71,7 @@
                     Phone: '(705) 220-5410'
                     Link:
                         'Campaign Site': 'https://www.martylancaster.ca/'
-                        #'Green Platform': 'http://www.greenparty.ca/en/platform'
-                        'Green Vision': 'https://www.greenparty.ca/en/our-vision'
+                        'Green Platform': 'http://www.greenparty.ca/en/platform'
             'David Patterson':
                 Display Name: 'David Patterson'
                 Listing Name: 'Patterson, David'
@@ -139,8 +139,20 @@
                     Email: 'bonnie@barriegreens.ca'
                     Link:
                         'Campaign Site': 'https://www.bonnienorth.ca/'
-                        #'Green Platform': 'http://www.greenparty.ca/en/platform'
-                        'Green Vision': 'https://www.greenparty.ca/en/our-vision'
+                        'Green Platform': 'http://www.greenparty.ca/en/platform'
+            'Pekka Reinio':
+                Display Name: 'Pekka Reinio'
+                Listing Name: 'Reinio, Pekka'
+                Party: 'NDP'
+                Votes: ''
+                Percentage: ''
+                Info:
+                    Facebook Page: 'https://www.facebook.com/PekkaReinioNDP/'
+                    Twitter: 'https://twitter.com/PekkaReinioNDP'
+                    Instagram: 'https://www.instagram.com/PekkaReinioNDP/'
+                    Link:
+                        Campaign Site: 'https://pekkareinio.ndp.ca/'
+                        Platform: 'https://www.ndp.ca/commitments'
             'Stephanie Robinson':
                 Display Name: 'Stephanie Robinson'
                 Listing Name: 'Robinson, Stephanie'

@@ -24,6 +24,7 @@ include $app->templatePath.'block-html-start.php';
   				    <div class="4u 12u(mobile)">
 						<ul>
       					    <li>Upcoming: 2019 Federal Election</li>
+      					    <li><a href="/vote/2019-federal">2019 Federation Election</a> <em>E-Day: Oct 21!</em></li>
       					    <li><a href="/vote/2015-federal">2015 Federation Election</a> (<a href="/vote/2015-federala">old</a>)</li>
       					    <li><a href="/vote/2011-federal">2011 Federation Election</a> (<a href="/vote/2011-federala">old</a>)</li>
       					    <li><a href="/vote/2008-federal">2008 Federation Election</a></li>

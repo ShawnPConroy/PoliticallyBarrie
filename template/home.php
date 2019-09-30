@@ -25,6 +25,7 @@
 					<h1 id="homeTitle"><?php echo $app->siteName; ?></h1>
 					<p>Hi. I'm Shawn. I've always been interested in politics. I just want to make it easier for people to be engagaged in politics, either by <a href="/vote/">finding your candidates and voting</a>, <a href="/reps/">contact your representative</a> or <a href="/groups/">helping you volunteer somewhere</a>.</p>
 					<ul class="actions">
+						<li><a href="/vote/2019-federal" class="button primary">Oct 21 Election</a></li>
 						<li><a href="/reps/" class="button primary">Your Reps</a></li>
 						<li><a href="/vote/" class="button ">Past Elections</a></li>
 						<li><a href="/groups/" class="button ">Groups/Parties</a></li>
