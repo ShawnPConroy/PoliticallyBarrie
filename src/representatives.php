@@ -53,7 +53,7 @@ function getWardReps($wardReps, $app, &$page)
             
             // Collect details
             foreach ($info as $key => $value) {
-                $currentInfo = generateDetailLi($key, $value, $app);
+                $currentInfo = generateDetailLi($key, $value, 'li', $app);
                 
                 if ($key == 'Email' || $key == 'Phone' || $key == 'Fax' || $key == 'Address'){
                     $contact .= $currentInfo;

@@ -41,10 +41,10 @@ class Election {
         $this->questions = $data[$election.'-questions'];
         
         foreach ($data[$election]['Info']['Dates'] as $dateType => $date) {
-            $this->dates .= generateDetailLi($dateType, $date, $app);
+            $this->dates .= generateDetail($dateType, $date, 'li', $app);
         }
         foreach ($data[$election]['Info']['Additional Links'] as $title => $link) {
-            $this->additionalLinks .= generateDetailLi("Link", Array($title => $link), $app);
+            $this->additionalLinks .= generateDetail("Link", Array($title => $link), 'li', $app);
         }
         
         // Loops through all data in an election.
@@ -102,12 +102,12 @@ class Candidate {
         
         foreach ($data['Social'] as $type => $datum) {
             if ($type != 'Description') {
-                $this->detailsLi .= generateDetailLi($type, $datum, $app);
+                $this->socialIcons .= generateDetail($type, $datum, 'icon', $app);
             }
         } // foreach data/detail
         foreach ($data['Info'] as $type => $datum) {
             if ($type != 'Description') {
-                $this->detailsLi .= generateDetailLi($type, $datum, $app);
+                $this->detailsLi .= generateDetail($type, $datum, 'li', $app);
             }
         } // foreach data/detail
         

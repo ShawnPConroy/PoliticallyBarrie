@@ -87,12 +87,12 @@ function getUsername($dataDescription) {
 }
 
 
-function generateDetailLi($dataName, $dataDescription, $app)
+function generateDetail($dataName, $dataDescription, $displayType, $app)
 {
     
     if (is_array($dataDescription)) {
         if ($dataName == 'Advance Voting') {
-            $result .= generateDetailLi_item("Advance Voting Date", "Advance Voting", $app);
+            $result .= generateDetail_item("Advance Voting Date", "Advance Voting", 'li', $app);
             $result .= '<ul class="fa-ul">';
             $closeUl = '</ul>';
         }
@@ -102,16 +102,16 @@ function generateDetailLi($dataName, $dataDescription, $app)
                 $link['text'] = $currentKey;
                 $currentData = $link;
             }
-            $result .= generateDetailLi_item($dataName, $currentData, $app);
+            $result .= generateDetail_item($dataName, $currentData, 'li', $app);
         }
         return $result.$closeUl;
     }
     
-    return generateDetailLi_item($dataName, $dataDescription, $app);
+    return generateDetail_item($dataName, $dataDescription, $displayType, $app);
 }
 
 
-function generateDetailLi_item($type, $data, $app) {
+function generateDetail_item($type, $data, $displayType, $app) {
     switch ($type) {
         case 'Email':
             $link = 'mailto:'.$data;
@@ -158,13 +158,13 @@ function generateDetailLi_item($type, $data, $app) {
         case 'Facebook Page':
             $icon = 'fa-facebook';
             $aria = 'Facebook page';
-            $text = getUsername($data);
+            $text = ($displayType=='li') ? getUsername($data) : '';
             $link = $data;
             break;
         case 'Facebook Group':
             $icon = 'fa-facebook';
             $aria = 'Facebook group';
-            $text = getUsername($data);
+            $text = ($displayType=='li') ? getUsername($data) : '';
             if (is_numeric($text)) {
                 $text = $type;
             }
@@ -173,36 +173,36 @@ function generateDetailLi_item($type, $data, $app) {
         case 'Facebook Profile':
             $icon = 'fa-facebook';
             $aria = 'Facebook Profile';
-            $text = getUsername($data);
+            $text = ($displayType=='li') ? getUsername($data) : '';
             $link = $data;
             break;
         case 'Facebook':
             $icon = 'fa-facebook';
-            $text = $data;
+            $text = ($displayType=='li') ? $data : '';
             $link = $data;
             break;
         case 'Instagram':
             $icon = 'fa-instagram';
             $aria = 'Instagram';
-            $text = getUsername($data);
+            $text = ($displayType=='li') ? getUsername($data) : '';
             $link = $data;
             break;
         case 'Twitter':
             $aria = 'Twitter';
             $icon = 'fa-twitter';
-            $text = getUsername($data);
+            $text = ($displayType=='li') ? getUsername($data) : '';
             $link = $data;
             break;
         case 'LinkedIn':
             $aria = 'LinkedIn';
             $icon = 'fa-linkedin';
-            $text = getUsername($data);
+            $text = ($displayType=='li') ? getUsername($data) : '';
             $link = $data;
             break;
         case 'YouTube':
             $aria = 'YouTube';
             $icon = 'fa-youtube';
-            $text = getUsername($data);
+            $text = ($displayType=='li') ? getUsername($data) : '';
             $link = $data;
             break;
         case 'Link':
@@ -223,12 +223,22 @@ function generateDetailLi_item($type, $data, $app) {
             }
     }
     
+    
     // create li
-    $result = '<span class="fa-li fa '.$icon.'" aria-label="'.$aria.'"></span> '.$text;
-    if (isset($link)) {
-        $result = '<a href="'.$link.'">'.$result.'</a>';
+    if ($displayType=='icon') {
+        $result = '<span class="fa '.$icon.'" aria-label="'.$aria.'"></span> '.$text;
+        if (isset($link)) {
+            $result = '<a href="'.$link.'">'.$result.'</a>';
+        }
+        
     }
-    $result = '<li>'.$result.'</li>';
+    if ($displayType=='li') {
+        $result = '<span class="fa-li fa '.$icon.'" aria-label="'.$aria.'"></span> '.$text;
+        if (isset($link)) {
+            $result = '<a href="'.$link.'">'.$result.'</a>';
+        }
+        $result = '<li>'.$result.'</li>';
+    }
   
     return $result;
 }

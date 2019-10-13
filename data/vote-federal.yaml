@@ -37,9 +37,10 @@
                 Party: 'NDP'
                 Votes: ''
                 Percentage: ''
-                Info:
+                Social:
                     Facebook Page: 'https://www.facebook.com/djanssenndp'
                     Twitter: 'https://twitter.com/iamdanj'
+                Info:
                     Phone: '(705) 503-2019'
                     Link:
                         'Campaign Site': 'https://danjanssen.ndp.ca/'
@@ -50,9 +51,10 @@
                 Party: 'Liberal'
                 Votes: ''
                 Percentage: ''
-                Info:
+                Social:
                     Facebook Page: 'https://www.facebook.com/Briankalliecharan2019/'
                     Twitter: 'https://twitter.com/briankalliechar'
+                Info:
                     Email: 'info@briankalliecharan.ca'
                     Phone: '(705) 503-2766'
                     Address: '181 Livingstone St East., Barrie, ON'
@@ -65,9 +67,10 @@
                 Party: 'Green'
                 Votes: ''
                 Percentage: ''
-                Info:
+                Social:
                     Facebook Page: 'https://www.facebook.com/greenpartymarty'
                     Twitter: 'https://twitter.com/gp_marty'
+                Info:
                     Address: '15 Collier Street, Barrie, ON'
                     Email: 'marty@barriegreens.ca'
                     Phone: '(705) 220-5410'
@@ -80,10 +83,11 @@
                 Party: 'People’s'
                 Votes: ''
                 Percentage: ''
-                Info:
+                Social:
                     Facebook Page: 'https://www.facebook.com/David-Patterson-Peoples-Party-Candidate-107860660588612/'
                     Twitter: 'https://twitter.com/NGIinsights'
                     Instagam: 'https://www.instagram.com/davidpattersonppc/'
+                Info:
                     Email: 'david@davidpattersonppc.ca'
                     Link:
                         'Campaign Site': 'https://www.davidpattersonppc.ca/'
@@ -94,9 +98,10 @@
                 Party: 'Conservative'
                 Votes: ''
                 Percentage: ''
-                Info:
+                Social:
                     Facebook Page: 'https://www.facebook.com/DougShipleyBSOM/'
                     Twitter: 'https://twitter.com/DougShipleyBSOM'
+                Info:
                     Link:
                         'Campaign Site': 'https://www.dougshipley.ca/'
                         'Conservative Platform': 'https://johnbrassard.com/platform-policies/'
@@ -114,10 +119,11 @@
                 Party: 'Conservative'
                 Votes: ''
                 Percentage: ''
-                Info:
+                Social:
                     Facebook Page: 'https://www.facebook.com/JohnBrassardCPC/'
                     Twitter: 'https://twitter.com/JohnBrassardCPC'
                     Instagram: 'https://www.instagram.com/johnbrassardcpc/'
+                Info:
                     Phone: '(705) 726-2019'
                     Address: 'Suite# 208-500 Huronia Road, Barrie  ON'
                     Email: 'info@barrieinnisfilconservatives.ca'
@@ -130,10 +136,11 @@
                 Party: 'Green'
                 Votes: ''
                 Percentage: ''
-                Info:
+                Social:
                     Facebook Page: 'https://www.facebook.com/BIGreens/'
                     Twitter: 'https://www.facebook.com/BIGreens/'
                     Instagram: 'https://www.instagram.com/bonnie.north1959/'
+                Info:
                     Address: '2 Marsellus Dr. Unit 12'
                     Phone: '(705) 252-8900'
                     Email: 'bonnie@barriegreens.ca'
@@ -146,10 +153,11 @@
                 Party: 'NDP'
                 Votes: ''
                 Percentage: ''
-                Info:
+                Social:
                     Facebook Page: 'https://www.facebook.com/PekkaReinioNDP/'
                     Twitter: 'https://twitter.com/PekkaReinioNDP'
                     Instagram: 'https://www.instagram.com/PekkaReinioNDP/'
+                Info:
                     Email: 'pekka.reinio@ndp.ca'
                     Phone: '(705) 796-0031'
                     Link:
@@ -161,8 +169,9 @@
                 Party: 'People’s'
                 Votes: ''
                 Percentage: ''
-                Info:
+                Social:
                     Twitter: 'https://twitter.com/stephan38337343'
+                Info:
                     Link:
                         'Platform': 'https://www.peoplespartyofcanada.ca/platform'
             'Lisa-Marie Wilson':
@@ -171,10 +180,11 @@
                 Party: 'Liberal'
                 Votes: ''
                 Percentage: ''
-                Info:
+                Social:
                     Facebook Page: 'https://www.facebook.com/LiberalsBarrieInnisfil/'
                     Twitter: 'https://twitter.com/BIFLAOfficial'
                     Instagram: ' https://www.instagram.com/barrieinnisfilliberals/'
+                Info:
                     Email: ' info@votelisamarie.ca'
                     Phone: '(705) 503-8683'
                     Address: '72 Churchill Dr., Barrie ON'

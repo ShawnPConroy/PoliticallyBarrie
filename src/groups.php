@@ -42,7 +42,7 @@ function processGroups($groupsData, $app, $page)
       
             foreach ($groupInfo as $dataName => $dataDescription) {
                 if ($dataName != 'Description') {
-                    $currentGroup->details .= generateDetailLi($dataName, $dataDescription, $app);
+                    $currentGroup->details .= generateDetail($dataName, $dataDescription, 'li', $app);
                 }
             } // foreach $groupInfo
             $currentCategory->groups[] = $currentGroup;

@@ -44,7 +44,8 @@ foreach($page->election->seats as $seatName => $seat) {
 ?>
                     <div class="4u 12u(mobile)">
                         <div class="box highlight style1">
-                            <p><strong><?php echo $candidate->name; ?></strong> <?php echo $candidate->party; ?></p>
+                            <p style="margin-bottom: 0;"><strong><?php echo $candidate->name; ?></strong> <?php echo $candidate->party; ?></p>
+                            <div style="text-align: center;"><?php echo $candidate->socialIcons; ?></div>
                             <ul class="fa-ul">
                                 <?php echo $candidate->detailsLi; ?>
                             </ul>
