@@ -29,6 +29,8 @@
                                     <h2><a href="<?php echo $page->election->voterIdLink; ?>"><i class="fa fa-info"></i> <span>Voter ID</span></a></h2>
                 	
             	                    <p>You must have a piece of ID with your name and signature on it. Ontario driver&#8217;s license, photo Health Card or Photo Card. <a href="<?php echo $page->election->voterIdLink; ?>">See the full list of accepted ID</a>.</p>
+            	                    
+            	                    <p>You can also check if you are <a href="<?php echo $page->election->voterRegistrationLink; ?>">registered to vote</a>.</p>
                                 </div>
 								<div class="col-6 col-12-medium">
 								    <h2><i class="fa fa-calendar-check-o"></i> Election Dates</h2>

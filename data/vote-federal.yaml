@@ -14,7 +14,7 @@
                 - 'Sunday, October 13, 2019'
                 - 'Monday, October 14, 2019'
         Voter Registration Link: 'https://ereg.elections.ca/CWelcome.aspx'
-        Voter ID: 'http://www.elections.ca/content.aspx?section=ele&dir=2015ge/IDinfo&document=text&lang=e'
+        Voter ID: 'https://www.elections.ca/content2.aspx?section=id&document=index&lang=e'
         Map Embed: 'https://www.google.com/maps/d/u/1/embed?mid=1PrcCqkA7Xu5GyQRCVuhT3MdvFafqa3-N'
         Map Link: 'https://drive.google.com/open?id=1PrcCqkA7Xu5GyQRCVuhT3MdvFafqa3-N&usp=sharing'
         # Additional Links:
@@ -25,11 +25,11 @@
     'Barrie–Springwater–Oro-Medonte':
         Info:
             Intro: |
-                The BSOM riding includes everyone in Barrie north of Tiffin St. and north of the lake, as well as all of Springwater and Oro-Medonte west of the 9th Line. Election Canada’s [official candidate list](https://elections.ca/Scripts/vis/candidates?L=e&ED=35005&EV=51&EV_TYPE=1&QID=-1&PAGEID=17) is one of the sources used for this data. The [local Elections Canada office](https://elections.ca/Scripts/vis/ReturningOffice?L=e&ED=35005&EV=51&EV_TYPE=1&QID=-1&PAGEID=30): North Barrie Plaza (near Walmart, see map below) Check the [Election's Canada site for all your voting options](https://elections.ca/Scripts/vis/OptionsToVote?L=e&ED=35005&EV=51&EV_TYPE=1&PC=&PROV=&PROVID=&MAPID=&QID=300&PAGEID=210&TPAGEID=&PD=&STAT_CODE_ID=-1).
+                The BSOM riding includes everyone in Barrie north of Tiffin St. and north of the lake, as well as all of Springwater and Oro-Medonte west of the 9th Line. Election Canada’s [official candidate list](https://elections.ca/Scripts/vis/candidates?L=e&ED=35005&EV=51&EV_TYPE=1&QID=-1&PAGEID=17) is one of the sources used for this data. The [local Elections Canada office](https://elections.ca/Scripts/vis/ReturningOffice?L=e&ED=35005&EV=51&EV_TYPE=1&QID=-1&PAGEID=30). Check the [Election's Canada site for all your voting options](https://elections.ca/Scripts/vis/OptionsToVote?L=e&ED=35005&EV=51&EV_TYPE=1&PC=&PROV=&PROVID=&MAPID=&QID=300&PAGEID=210&TPAGEID=&PD=&STAT_CODE_ID=-1).
                 
-                580 Bayfield Street North, Suite 6 
-                Phone: (866) 236-8615
-                Fax: (888) 248-9231
+                <span class="fa fa-map-marker"></span> 580 Bayfield Street North, Suite 6   
+                <span class="fa fa-phone"></span> Phone: (866) 236-8615
+                <span class="fa fa-phone"></span> Fax: (888) 248-9231
         Candidates:
             'Dan Janssen':
                 Display Name: 'Dan Janssen'
@@ -43,7 +43,7 @@
                     Phone: '(705) 503-2019'
                     Link:
                         'Campaign Site': 'https://danjanssen.ndp.ca/'
-                        'Platform': 'https://www.ndp.ca/commitments'
+                        'NDP Platform': 'https://www.ndp.ca/commitments'
             'Brian Kalliecharan':
                 Display Name: 'Brian Kalliecharan'
                 Listing Name: 'Kalliecharan, Brian'
@@ -53,10 +53,12 @@
                 Info:
                     Facebook Page: 'https://www.facebook.com/Briankalliecharan2019/'
                     Twitter: 'https://twitter.com/briankalliechar'
-                    Address: '181 Livingstone St East., Barrie, ON'
+                    Email: 'info@briankalliecharan.ca'
                     Phone: '(705) 503-2766'
+                    Address: '181 Livingstone St East., Barrie, ON'
                     Link:
-                        'Campaign Site': 'briankalliecharan.liberal.ca'
+                        'Campaign Site': 'https://briankalliecharan.liberal.ca'
+                        'Liberal Platform': 'https://2019.liberal.ca/our-platform/'
             'Marty Lancaster':
                 Display Name: 'Marty Lancaster'
                 Listing Name: 'Lancaster, Marty'
@@ -64,8 +66,8 @@
                 Votes: ''
                 Percentage: ''
                 Info:
-                    Facebook Page: 'https://www.facebook.com/martylancasterbsom'
-                    Twitter: 'https://twitter.com/bsommarty'
+                    Facebook Page: 'https://www.facebook.com/greenpartymarty'
+                    Twitter: 'https://twitter.com/gp_marty'
                     Address: '15 Collier Street, Barrie, ON'
                     Email: 'marty@barriegreens.ca'
                     Phone: '(705) 220-5410'
@@ -75,7 +77,7 @@
             'David Patterson':
                 Display Name: 'David Patterson'
                 Listing Name: 'Patterson, David'
-                Party: 'People&rsqou;s'
+                Party: 'People’s'
                 Votes: ''
                 Percentage: ''
                 Info:
@@ -97,17 +99,14 @@
                     Twitter: 'https://twitter.com/DougShipleyBSOM'
                     Link:
                         'Campaign Site': 'https://www.dougshipley.ca/'
-                        'Profile': 'https://www.conservative.ca/team-member/doug-shipley/'
+                        'Conservative Platform': 'https://johnbrassard.com/platform-policies/'
     'Barrie–Innisfil':
         Info:
             Intro: |
-                The BI riding includes everyone in Barrie who lives south of Tiffin St. and south of the bay, as well as Innisfil. Election Canada’s [official candidate list](https://elections.ca/Scripts/vis/candidates?L=e&ED=35004&EV=51&EV_TYPE=1&PAGEID=17) is one of the sources used for this data. The [local Elections Canada office](http://www.elections.ca/Scripts/vis/ReturningOffice?L=e&ED=35004&EV=41&EV_TYPE=1&QID=-1&PAGEID=30): Barrie Primary Care Campus. Check the [Election's Canada site for all your voting options](https://elections.ca/Scripts/vis/OptionsToVote?L=e&ED=35004&EV=51&EV_TYPE=1&PC=&PROV=&PROVID=&MAPID=&QID=300&PAGEID=210&TPAGEID=&PD=&STAT_CODE_ID=-1).
+                The BI riding includes everyone in Barrie who lives south of Tiffin St. and south of the bay, as well as Innisfil. Election Canada’s [official candidate list](https://elections.ca/Scripts/vis/candidates?L=e&ED=35004&EV=51&EV_TYPE=1&PAGEID=17) is one of the sources used for this data. The [local Elections Canada office](http://www.elections.ca/Scripts/vis/ReturningOffice?L=e&ED=35004&EV=41&EV_TYPE=1&QID=-1&PAGEID=30). Check the [Election's Canada site for all your voting options](https://elections.ca/Scripts/vis/OptionsToVote?L=e&ED=35004&EV=51&EV_TYPE=1&PC=&PROV=&PROVID=&MAPID=&QID=300&PAGEID=210&TPAGEID=&PD=&STAT_CODE_ID=-1).
                 
-                370 Bayview Drive, Suite 128
-                Barrie, Ontario L4N 7L3
-                
-                Phone: (866) 236-8541
-                Fax : (888) 248-9229 
+                <span class="fa fa-map-marker"></span> 370 Bayview Drive, Suite 128, Barrie, Ontario L4N 7L3   
+                <span class="fa fa-phone"></span> Phone: (866) 236-8541 <span class="fa fa-fax"></span>  Fax : (888) 248-9229 
         Candidates:
             'John Brassard':
                 Display Name: 'John Brassard'
@@ -119,11 +118,12 @@
                     Facebook Page: 'https://www.facebook.com/JohnBrassardCPC/'
                     Twitter: 'https://twitter.com/JohnBrassardCPC'
                     Instagram: 'https://www.instagram.com/johnbrassardcpc/'
-                    Phone: '(705) 984-3030'
-                    Email: 'johnbrassardcampaign@gmail.com'
+                    Phone: '(705) 726-2019'
+                    Address: 'Suite# 208-500 Huronia Road, Barrie  ON'
+                    Email: 'info@barrieinnisfilconservatives.ca'
                     Link:
                         'Campaign Site': 'http://johnbrassard.com/'
-                        'Profile': 'https://www.conservative.ca/team-member/john-brassard/'
+                        'Conservative Platform': 'https://johnbrassard.com/platform-policies/'
             'Bonnie North':
                 Display Name: 'Bonnie North'
                 Listing Name: 'North, Bonnie'
@@ -150,13 +150,15 @@
                     Facebook Page: 'https://www.facebook.com/PekkaReinioNDP/'
                     Twitter: 'https://twitter.com/PekkaReinioNDP'
                     Instagram: 'https://www.instagram.com/PekkaReinioNDP/'
+                    Email: 'pekka.reinio@ndp.ca'
+                    Phone: '(705) 796-0031'
                     Link:
                         Campaign Site: 'https://pekkareinio.ndp.ca/'
                         Platform: 'https://www.ndp.ca/commitments'
             'Stephanie Robinson':
                 Display Name: 'Stephanie Robinson'
                 Listing Name: 'Robinson, Stephanie'
-                Party: 'People&rsqou;s'
+                Party: 'People’s'
                 Votes: ''
                 Percentage: ''
                 Info:
@@ -170,8 +172,15 @@
                 Votes: ''
                 Percentage: ''
                 Info:
+                    Facebook Page: 'https://www.facebook.com/LiberalsBarrieInnisfil/'
+                    Twitter: 'https://twitter.com/BIFLAOfficial'
+                    Instagram: ' https://www.instagram.com/barrieinnisfilliberals/'
+                    Email: ' info@votelisamarie.ca'
+                    Phone: '(705) 503-8683'
+                    Address: '72 Churchill Dr., Barrie ON'
                     Link:
                         'Campaign Site': 'https://lisamariewilson.liberal.ca/'
+                        'Liberal Platform': 'https://2019.liberal.ca/our-platform/'
 '2015-federal':
     Info:
         Name: '2015 Federal Election'

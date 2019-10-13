@@ -25,8 +25,8 @@ switch($level) {
 }
 
 ?>
-                <p>Here is a list of all candidates. Select your <? echo $regionType; ?> below.<?php echo $introText; ?></p>
-                <p><?php echo generateList($candidates, ", "); ?></p>
+                <p>Here is a list of all candidates. <?php echo $introText; ?> Select your <? echo $regionType; ?>: 
+                    <?php echo generateList($candidates, ", "); ?></p>
 <?php
 foreach($page->election->seats as $seatName => $seat) {
 ?>
@@ -44,7 +44,7 @@ foreach($page->election->seats as $seatName => $seat) {
 ?>
                     <div class="4u 12u(mobile)">
                         <div class="box highlight style1">
-                            <p><strong><?php echo $candidate->name; ?></strong></p>
+                            <p><strong><?php echo $candidate->name; ?></strong> <?php echo $candidate->party; ?></p>
                             <ul class="fa-ul">
                                 <?php echo $candidate->detailsLi; ?>
                             </ul>

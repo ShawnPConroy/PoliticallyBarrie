@@ -27,7 +27,7 @@ class Election {
         $this->showContents = $data[$election]['Info']['Contents'];
         
         $this->ogImage = $data[$election]['Info']['ogImage'];
-        $this->voterIdLink = $data[$election]['Info']['Voter ID Link'];
+        $this->voterIdLink = $data[$election]['Info']['Voter ID'];
         $this->voterRegistrationLink = $data[$election]['Info']['Voter Registration Link'];
         $this->votingLocationLink = $data[$election]['Info']['Voting Locations Link'];
         $this->mapEmbed = $data[$election]['Info']['Map Embed'];
@@ -95,10 +95,16 @@ class Candidate {
     function __construct($data, $app) {
         $this->name = $data['Display Name'];
         $this->listingName = $data['Listing Name'];
+        $this->party = $data['Party'];
         
         $this->votes = $data['Votes'];
         $this->percent = $data['Percentage'];
         
+        foreach ($data['Social'] as $type => $datum) {
+            if ($type != 'Description') {
+                $this->detailsLi .= generateDetailLi($type, $datum, $app);
+            }
+        } // foreach data/detail
         foreach ($data['Info'] as $type => $datum) {
             if ($type != 'Description') {
                 $this->detailsLi .= generateDetailLi($type, $datum, $app);
